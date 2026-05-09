@@ -1,0 +1,34 @@
+# Secrets and local environment
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.der
+.secrets/
+.config/
+.browser_data_dir/
+
+# Dependency and build output
+node_modules/
+dist/
+build/
+coverage/
+.next/
+.vite/
+
+# Python/cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.cache/
+.pytest_cache/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
