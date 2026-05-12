@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container { 
+            width: 1280px; 
+            min-height: 720px; /* keep as required */
+            background-color: #0A192F; 
+            font-family: 'Inter', sans-serif;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        /* Header Area */
+        .header {
+            padding-top: 60px; /* must not change */
+            padding-left: 80px;
+            padding-right: 80px;
+            display: flex;
+            align-items: center;
+        }
+        .header-accent { width: 8px; height: 40px; background-color: #00B4D8; margin-right: 20px; }
+        .slide-title { color: #00B4D8; font-size: 32px; font-weight: 600; text-transform: uppercase; letter-spacing: 2px; }
+
+        /* Content Area - reduced vertical padding to save space */
+        .content-area {
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            padding-top: 24px; /* reduced from 40 */
+            padding-left: 80px;
+            padding-right: 80px;
+        }
+
+        .main-heading {
+            color: #FFFFFF;
+            font-size: 42px;
+            font-weight: 800;
+            line-height: 1.2;
+            margin-bottom: 20px; /* reduced from 40 */
+        }
+
+        /* Layout: two tables side-by-side to cut vertical length */
+        .tables-row { display: flex; gap: 24px; align-items: flex-start; }
+        .policy-table { width: 50%; border-collapse: collapse; margin-bottom: 12px; }
+
+        .policy-table th {
+            background-color: rgba(0, 180, 216, 0.15);
+            color: #00B4D8;
+            font-size: 22px;
+            font-weight: 600;
+            text-align: left;
+            padding: 10px 12px; /* reduced vertical padding */
+            border-bottom: 2px solid #00B4D8;
+        }
+
+        .policy-table td {
+            padding: 8px 12px; /* reduced from 16/20 */
+            color: #F8F9FA;
+            font-size: 20px;
+            line-height: 1.4;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .policy-table tr:nth-child(even) { background-color: rgba(255, 255, 255, 0.02); }
+
+        .platform-name { font-weight: 600; color: #FFFFFF; font-size: 22px; }
+        .status-yes { color: #00B4D8; font-weight: 600; }
+        .status-no { color: #FF6B6B; font-weight: 600; }
+        .status-warn { color: #FCA311; font-weight: 600; }
+
+        .source-text {
+            color: rgba(255, 255, 255, 0.5);
+            font-size: 16px;
+            margin-top: 16px; /* moved up */
+            margin-bottom: 24px;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <div class="header-accent"></div>
+            <div class="slide-title">Platform Policy Reality Check</div>
+        </div>
+        
+        <div class="content-area">
+            <div class="main-heading">Every platform has different rules — here's the cheat sheet</div>
+
+            <div class="tables-row">
+                <table class="policy-table" aria-label="Policies left">
+                    <thead>
+                        <tr>
+                            <th style="width: 40%;">Platform</th>
+                            <th style="width: 20%;">Ask?</th>
+                            <th style="width: 40%;">Key Rule</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="platform-name">Google</td>
+                            <td class="status-yes">YES</td>
+                            <td>No payment, discounts, or gifts for reviews</td>
+                        </tr>
+                        <tr>
+                            <td class="platform-name">Yelp</td>
+                            <td class="status-no">NO</td>
+                            <td>Zero solicitation — even asking is prohibited</td>
+                        </tr>
+                        <tr>
+                            <td class="platform-name">Facebook</td>
+                            <td class="status-yes">YES</td>
+                            <td>FTC rules apply; no required positive sentiment</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <table class="policy-table" aria-label="Policies right">
+                    <thead>
+                        <tr>
+                            <th style="width: 40%;">Platform</th>
+                            <th style="width: 20%;">Ask?</th>
+                            <th style="width: 40%;">Key Rule</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="platform-name">BBB</td>
+                            <td class="status-yes">YES</td>
+                            <td>Solicitation allowed; incentives not</td>
+                        </tr>
+                        <tr>
+                            <td class="platform-name">Own Website</td>
+                            <td class="status-yes">YES</td>
+                            <td>Disclose incentives; don't require positive reviews</td>
+                        </tr>
+                        <tr>
+                            <td class="platform-name">Reddit</td>
+                            <td style="color: #888;">N/A</td>
+                            <td>Not a review platform — use for authority building</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="source-text">Source: Google Maps UGC Policy, Yelp Support Center, FTC Consumer Reviews Rule (Oct 2024)</div>
+        </div>
+    </div>
+</body>
+</html>

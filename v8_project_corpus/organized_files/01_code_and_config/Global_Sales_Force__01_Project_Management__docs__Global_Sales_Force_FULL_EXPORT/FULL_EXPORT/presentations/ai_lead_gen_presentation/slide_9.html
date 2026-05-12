@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;900&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; background-color: #121212; color: #F8F9FA; }
+        .slide-container { 
+            width: 1280px; 
+            min-height: 720px; 
+            background-color: #121212;
+            padding: 40px 80px 18px; /* reduced bottom padding to remove overflow */
+            display: flex;
+            flex-direction: column;
+        }
+        .header {
+            margin-bottom: 20px;
+            border-bottom: 1px solid #333;
+            padding-top: 10px;
+        }
+        .title {
+            font-size: 32px;
+            font-weight: 900;
+            color: #38B000;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            font-size: 40px;
+            font-weight: 900;
+            color: #F8F9FA;
+            margin-bottom: 12px;
+            line-height: 1.2;
+        }
+        .content-grid {
+            display: grid;
+            grid-template-columns: 45% 50%;
+            gap: 4%; /* slightly tighter grid gap */
+            flex-grow: 1;
+        }
+        .left-column {
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            gap: 12px; /* reduced inner gap */
+        }
+        .narrative {
+            font-size: 24px;
+            font-weight: 500;
+            color: #CED4DA;
+            line-height: 1.6;
+            border-left: 4px solid #38B000;
+            padding-left: 16px; /* slightly smaller padding */
+        }
+        .takeaway-box {
+            border: 1px solid #38B000;
+            padding: 14px; /* reduced padding */
+            background: rgba(56, 176, 0, 0.05);
+            margin-top: auto;
+        }
+        .takeaway-title {
+            font-size: 20px;
+            font-weight: 900;
+            color: #38B000;
+            text-transform: uppercase;
+            margin-bottom: 8px;
+        }
+        .takeaway-text {
+            font-size: 20px;
+            font-weight: 900;
+            color: #F8F9FA;
+            line-height: 1.5;
+        }
+        .right-column {
+            display: flex;
+            flex-direction: column;
+            gap: 12px; /* reduced gap between strategy items */
+        }
+        .strategy-item {
+            border: 1px solid #333;
+            background: #1a1a1a;
+            padding: 14px; /* reduced padding */
+            display: flex;
+            align-items: flex-start;
+        }
+        .strategy-icon {
+            color: #38B000;
+            font-size: 24px;
+            margin-right: 12px;
+            font-weight: 900;
+            line-height: 1.2;
+        }
+        .strategy-text {
+            font-size: 18px;
+            font-weight: 500;
+            color: #CED4DA;
+            line-height: 1.5;
+        }
+        .highlight {
+            color: #F8F9FA;
+            font-weight: 900;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <div class="title">Phase 3 — Authentic Community Engagement</div>
+            <h2 class="subtitle">Win Reddit the Right Way — With Genuine Expertise, Not Fake Posts</h2>
+        </div>
+        
+        <div class="content-grid">
+            <div class="left-column">
+                <div class="narrative">
+                    Instead of manufacturing fake Reddit discussions, we deploy knowledgeable team members to participate authentically in moving-related communities. This builds the exact kind of organic presence that AI engines trust and cite.
+                </div>
+                
+                <div class="takeaway-box">
+                    <div class="takeaway-title">Why this works</div>
+                    <div class="takeaway-text">
+                        AI engines specifically look for authentic community discussions. A genuine, helpful answer from a real expert carries far more weight than a manufactured post — and it's completely legal and risk-free.
+                    </div>
+                </div>
+            </div>
+            
+            <div class="right-column">
+                <div class="strategy-item">
+                    <div class="strategy-icon">&gt;</div>
+                    <div class="strategy-text">
+                        <span class="highlight">Participate in relevant subreddits:</span> r/moving, r/MovingDay, r/personalfinance, r/Frugal, and city-specific subreddits.
+                    </div>
+                </div>
+                
+                <div class="strategy-item">
+                    <div class="strategy-icon">&gt;</div>
+                    <div class="strategy-text">
+                        <span class="highlight">Answer real questions</span> with genuinely helpful moving advice (packing tips, cost estimates, timing recommendations).
+                    </div>
+                </div>
+                
+                <div class="strategy-item">
+                    <div class="strategy-icon">&gt;</div>
+                    <div class="strategy-text">
+                        <span class="highlight">No overt brand promotion</span> — just authentic expertise that builds trust and entity authority over time.
+                    </div>
+                </div>
+                
+                <div class="strategy-item">
+                    <div class="strategy-icon">&gt;</div>
+                    <div class="strategy-text">
+                        <span class="highlight">Share industry knowledge</span> when appropriate that naturally positions our team as moving experts.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

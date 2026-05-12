@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container { 
+            width: 1280px; 
+            min-height: 720px; 
+            background-color: #0A192F; 
+            font-family: 'Inter', sans-serif;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        
+        /* Header Area */
+        .header {
+            padding-top: 60px;
+            padding-left: 80px;
+            padding-right: 80px;
+            display: flex;
+            align-items: center;
+        }
+        
+        .header-accent {
+            width: 8px;
+            height: 40px;
+            background-color: #00B4D8;
+            margin-right: 20px;
+        }
+        
+        .slide-title {
+            color: #00B4D8;
+            font-size: 32px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        /* Content Area */
+        .content-area {
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            padding-top: 20px; /* reduced from 30 */
+            padding-left: 80px;
+            padding-right: 80px;
+        }
+
+        .main-heading {
+            color: #FFFFFF;
+            font-size: 48px;
+            font-weight: 800;
+            line-height: 1.2;
+            margin-bottom: 20px; /* reduced from 40 */
+        }
+
+        .highlight {
+            color: #00B4D8;
+        }
+
+        /* Layout refreshed: 3 columns to reduce rows */
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 18px; /* reduced from 30 */
+        }
+
+        .grid-item {
+            background-color: rgba(255, 255, 255, 0.03);
+            border-left: 4px solid #00B4D8;
+            padding: 12px; /* reduced from 25 */
+            display: flex;
+            align-items: flex-start;
+        }
+
+        .item-icon {
+            color: #00B4D8;
+            font-size: 36px;
+            margin-right: 25px;
+            margin-top: 0; /* reduced from 5 */
+            width: 40px;
+            text-align: center;
+        }
+
+        .item-content {
+            flex: 1;
+        }
+
+        .item-title {
+            color: #FFFFFF;
+            font-size: 24px;
+            font-weight: 600;
+            margin-bottom: 6px; /* reduced from 10 */
+        }
+
+        .item-text {
+            color: #F8F9FA;
+            font-size: 18px;
+            line-height: 1.35; /* slightly tightened */
+            opacity: 0.9;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <div class="header-accent"></div>
+            <div class="slide-title">The Multi-Brand Engine</div>
+        </div>
+        
+        <div class="content-area">
+            <div class="main-heading">
+                One system, 19 brands, 100+ locations — <span class="highlight">here's how it scales.</span>
+            </div>
+            
+            <div class="grid-container">
+                <div class="grid-item">
+                    <div class="item-icon"><i class="fas fa-laptop-code"></i></div>
+                    <div class="item-content">
+                        <div class="item-title">Brand-Specific Pages</div>
+                        <div class="item-text">Each brand has a dedicated review landing page on its WordPress site.</div>
+                    </div>
+                </div>
+                
+                <div class="grid-item">
+                    <div class="item-icon"><i class="fas fa-map-marker-alt"></i></div>
+                    <div class="item-content">
+                        <div class="item-title">Location-Specific Links</div>
+                        <div class="item-text">Google review links are mapped to each Google Business Profile location.</div>
+                    </div>
+                </div>
+                
+                <div class="grid-item">
+                    <div class="item-icon"><i class="fas fa-route"></i></div>
+                    <div class="item-content">
+                        <div class="item-title">Smart Routing</div>
+                        <div class="item-text">The agent picks the correct brand &amp; location link from the CRM record.</div>
+                    </div>
+                </div>
+                
+                <div class="grid-item">
+                    <div class="item-icon"><i class="fas fa-chart-line"></i></div>
+                    <div class="item-content">
+                        <div class="item-title">Centralized Dashboard</div>
+                        <div class="item-text">One dashboard tracking volume, sentiment, and response rates across brands.</div>
+                    </div>
+                </div>
+                
+                <div class="grid-item">
+                    <div class="item-icon"><i class="fas fa-file-invoice"></i></div>
+                    <div class="item-content">
+                        <div class="item-title">Automated Reporting</div>
+                        <div class="item-text">Monthly summaries: reviews, average ratings, response times, and gift cards.</div>
+                    </div>
+                </div>
+                
+                <div class="grid-item">
+                    <div class="item-icon"><i class="fas fa-shield-alt"></i></div>
+                    <div class="item-content">
+                        <div class="item-title">Spam Prevention</div>
+                        <div class="item-text">Coordination ensures customers receive a single consolidated request.</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;900&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; background-color: #121212; color: #F8F9FA; }
+        .slide-container { 
+            width: 1280px; 
+            min-height: 720px; 
+            background-color: #121212;
+            padding: 40px 60px;
+            display: flex;
+            flex-direction: column;
+        }
+        .header {
+            margin-bottom: 28px;
+            border-bottom: 1px solid #333;
+            padding-top: 10px;
+        }
+        .title {
+            font-size: 32px;
+            font-weight: 900;
+            color: #38B000;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            font-size: 48px;
+            font-weight: 900;
+            color: #F8F9FA;
+            margin-bottom: 12px;
+            line-height: 1.2;
+        }
+        .content-grid {
+            display: grid;
+            grid-template-columns: 40% 60%;
+            gap: 24px;
+            flex-grow: 1;
+        }
+        .left-column {
+            display: flex;
+            flex-direction: column;
+            gap: 18px;
+            align-items: stretch;
+        }
+        .narrative {
+            font-size: 24px;
+            font-weight: 500;
+            color: #CED4DA;
+            line-height: 1.6;
+            border-left: 1px solid #38B000;
+            padding-left: 20px;
+        }
+        .metrics-container {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+        .metric-row {
+            display: flex;
+            align-items: center;
+            border: 1px solid #333;
+            background: #1a1a1a;
+        }
+        .metric-label {
+            width: 140px;
+            padding: 12px;
+            background: rgba(56, 176, 0, 0.1);
+            color: #38B000;
+            font-weight: 900;
+            font-size: 18px;
+            text-transform: uppercase;
+            border-right: 1px solid #333;
+            text-align: center;
+        }
+        .metric-value {
+            padding: 12px 16px;
+            color: #F8F9FA;
+            font-weight: 500;
+            font-size: 20px;
+        }
+        .right-column {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 16px;
+        }
+        .action-box {
+            border: 1px solid #333;
+            border-top: 4px solid #38B000;
+            padding: 16px;
+            background: #1a1a1a;
+        }
+        .right-column .action-box:nth-child(3) {
+            grid-column: 1 / -1; /* make third action span both columns to reduce vertical stack */
+        }
+        .action-title {
+            font-size: 24px;
+            font-weight: 900;
+            color: #F8F9FA;
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+        }
+        .action-number {
+            color: #38B000;
+            margin-right: 12px;
+            font-size: 28px;
+            flex: 0 0 auto;
+        }
+        .action-desc {
+            font-size: 18px;
+            font-weight: 500;
+            color: #CED4DA;
+            line-height: 1.5;
+            padding-left: 36px;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <div class="title">Phase 1 — Technical Foundation</div>
+            <h2 class="subtitle">Make All 14 Websites AI-Ready with Technical Optimization</h2>
+        </div>
+        
+        <div class="content-grid">
+            <div class="left-column">
+                <div class="narrative">
+                    The first step is ensuring AI engines can properly read and understand our websites. Most businesses skip this step entirely, giving us an immediate advantage.
+                </div>
+                
+                <div class="metrics-container">
+                    <div class="metric-row">
+                        <div class="metric-label">Timeline</div>
+                        <div class="metric-value">4 Weeks</div>
+                    </div>
+                    <div class="metric-row">
+                        <div class="metric-label">Investment</div>
+                        <div class="metric-value">Low</div>
+                    </div>
+                    <div class="metric-row">
+                        <div class="metric-label">Impact</div>
+                        <div class="metric-value" style="color: #38B000; font-weight: 900;">High — Foundation for everything</div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="right-column">
+                <div class="action-box">
+                    <div class="action-title">
+                        <span class="action-number">01</span> Schema Markup Implementation
+                    </div>
+                    <div class="action-desc">
+                        Add structured data (Organization, LocalBusiness, FAQ, Review) to all 14 sites so AI engines can parse our content and services.
+                    </div>
+                </div>
+                
+                <div class="action-box">
+                    <div class="action-title">
+                        <span class="action-number">02</span> Comprehensive FAQ Development
+                    </div>
+                    <div class="action-desc">
+                        Build detailed FAQ pages on every site answering key customer questions — AI engines rely heavily on Q&amp;A pairs.
+                    </div>
+                </div>
+                
+                <div class="action-box">
+                    <div class="action-title">
+                        <span class="action-number">03</span> AI Crawler Access
+                    </div>
+                    <div class="action-desc">
+                        Audit robots.txt files across all domains to ensure GPTBot, ClaudeBot, and PerplexityBot are not blocked; add llms.txt files to guide AI interpretation.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

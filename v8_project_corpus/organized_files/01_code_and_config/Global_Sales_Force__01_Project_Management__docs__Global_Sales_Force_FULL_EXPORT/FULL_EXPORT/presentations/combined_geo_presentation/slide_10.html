@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container {
+            width: 1280px;
+            min-height: 720px;
+            background-color: #0f172a;
+            font-family: 'Inter', sans-serif;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+        .header {
+            padding-top: 60px; /* must not change */
+            padding-left: 80px;
+            padding-right: 80px;
+            margin-bottom: 20px; /* reduced from 40 to save vertical space */
+        }
+        .slide-title {
+            font-size: 42px;
+            font-weight: 900;
+            color: #ffffff;
+            line-height: 1.2;
+            border-left: 8px solid #3b82f6;
+            padding-left: 24px;
+        }
+        .content-wrapper {
+            display: flex;
+            flex: 1;
+            padding-left: 80px;
+            padding-right: 80px;
+            gap: 24px; /* slightly reduced horizontal gap */
+            padding-bottom: 12px; /* reduced to save vertical space */
+            align-items: flex-start;
+        }
+        .left-col {
+            flex: 1.2;
+            display: flex;
+            flex-direction: column;
+        }
+        .right-col {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 12px; /* reduced gap between cards */
+        }
+        /* Compact, two-column presentation of table rows to reduce vertical height */
+        .budget-table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            color: #e2e8f0;
+        }
+        .budget-table thead tr {
+            display: grid;
+            grid-template-columns: 1fr 140px 1fr;
+            align-items: center;
+        }
+        .budget-table th {
+            background-color: rgba(59, 130, 246, 0.2);
+            color: #ffffff;
+            font-size: 20px;
+            font-weight: 700;
+            text-align: left;
+            padding: 8px; /* reduced from 20 */
+            border-bottom: 2px solid #3b82f6;
+        }
+        /* Arrange tbody rows into two columns (cards) to halve vertical space */
+        .budget-table tbody {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 8px;
+            padding: 8px 0 0 0;
+        }
+        .budget-table tbody tr {
+            display: grid;
+            grid-template-columns: 1fr 120px; /* left: resource+notes, right: cost */
+            gap: 8px;
+            padding: 8px;
+            background-color: rgba(255,255,255,0.01);
+            border: 1px solid rgba(255,255,255,0.03);
+            align-items: start;
+        }
+        .budget-table td { 
+            padding: 0; /* inner padding handled by tr */
+            color: #e2e8f0;
+            font-size: 18px; /* unchanged */
+            line-height: 1.3; /* slightly tighter than 1.5 */
+        }
+        .budget-table td > strong { display: block; font-weight: 700; }
+        .budget-table td > span { display: block; font-size: 14px; color: #94a3b8; margin-top: 6px; }
+        .budget-table .row-note { display: none; } /* hide extra descriptions to save vertical space */
+        .cost-col {
+            font-weight: 700;
+            color: #10b981;
+            white-space: nowrap;
+            justify-self: end;
+        }
+        .total-row {
+            grid-column: 1 / -1; /* span both columns */
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            padding: 8px;
+            background-color: rgba(16, 185, 129, 0.06);
+            border-top: 2px solid #10b981;
+            font-size: 20px;
+            font-weight: 900;
+            color: #ffffff;
+        }
+        .total-row td { padding: 0 8px; }
+        .roi-card {
+            background-color: rgba(255, 255, 255, 0.03);
+            border-left: 6px solid #10b981;
+            padding: 12px; /* reduced from 30 */
+        }
+        .roi-title {
+            font-size: 24px;
+            font-weight: 700;
+            color: #ffffff;
+            margin-bottom: 8px;
+        }
+        .roi-stat {
+            font-size: 48px;
+            font-weight: 900;
+            color: #10b981;
+            line-height: 1;
+            margin-bottom: 6px;
+        }
+        .roi-desc {
+            font-size: 18px;
+            color: #e2e8f0;
+            line-height: 1.4;
+        }
+        .highlight {
+            color: #3b82f6;
+            font-weight: 700;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <h2 class="slide-title">$7,650 - $12,300 Total Investment to Cover All 19 Brands</h2>
+        </div>
+        
+        <div class="content-wrapper">
+            <div class="left-col">
+                <table class="budget-table" role="table">
+                    <thead>
+                        <tr>
+                            <th>Resource / Phase</th>
+                            <th>Estimated Cost</th>
+                            <th>Notes</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>
+                                <strong>Technical SEO / Web Dev</strong>
+                                <span>Phase 1 Fixes</span>
+                                <div class="row-note">One-time cost to fix all 19 sites (llms.txt, schema, robots.txt).</div>
+                            </td>
+                            <td class="cost-col">$3,500 - $5,500</td>
+                            <td style="display:none"></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <strong>Content Creation</strong>
+                                <span>Phase 2 (FAQs/Bios)</span>
+                                <div class="row-note">Copywriting for 19 sites (approx. 38-50 pages of structured content).</div>
+                            </td>
+                            <td class="cost-col">$4,000 - $6,500</td>
+                            <td style="display:none"></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <strong>Community Engagement</strong>
+                                <span>Phase 3 (Reddit)</span>
+                                <div class="row-note">3-5 team members dedicating 30 mins/day. No hard costs.</div>
+                            </td>
+                            <td class="cost-col" style="color: #3b82f6;">Internal Time</td>
+                            <td style="display:none"></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <strong>AI Tracking Tools</strong>
+                                <span>Phase 4 (Measurement)</span>
+                                <div class="row-note">Subscriptions to tools like Semrush or specialized AI trackers.</div>
+                            </td>
+                            <td class="cost-col">$150 - $300 / mo</td>
+                            <td style="display:none"></td>
+                        </tr>
+                        <tr class="total-row">
+                            <td>Total Estimated Hard Costs</td>
+                            <td colspan="1" style="color: #10b981; text-align:right;">$7,650 - $12,300</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            
+            <div class="right-col">
+                <div class="roi-card">
+                    <div class="roi-title">The AI Conversion Advantage</div>
+                    <div class="roi-stat">3x</div>
+                    <div class="roi-desc">
+                        GEO case studies show that referral traffic from AI engines (ChatGPT, Perplexity) converts at <span class="highlight">three times the rate</span> of traditional Google search traffic.
+                    </div>
+                </div>
+                
+                <div class="roi-card" style="border-left-color: #3b82f6;">
+                    <div class="roi-title">The Speed-to-Lead Multiplier</div>
+                    <div class="roi-stat">21x</div>
+                    <div class="roi-desc">
+                        The industry average close rate is 39%. However, leads contacted within 5 minutes are <span class="highlight">21 times more likely to book</span>. Phase 4 implements this SLA.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

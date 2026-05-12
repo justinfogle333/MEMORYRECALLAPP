@@ -1,0 +1,6 @@
+customer_name,phone,email,brand,location_id
+John Test,+15551234567,john.test@example.com,Cross Country Movers,NYC-001
+Jane Demo,+15559876543,jane.demo@example.com,State 2 State Movers,LA-002
+Mike Sample,+15555551234,mike.sample@example.com,Ultimate Movers,MIA-003
+Sarah Trial,+15552223333,sarah.trial@example.com,Long Distance Movers,CHI-004
+Bob Check,+15554445555,bob.check@example.com,USA Auto Transport,DAL-005

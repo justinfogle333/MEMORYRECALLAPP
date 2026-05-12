@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container {
+            width: 1280px;
+            min-height: 720px;
+            background-color: #0f172a;
+            font-family: 'Inter', sans-serif;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+        .header {
+            padding-top: 60px; /* keep upper padding */
+            padding-left: 80px;
+            padding-right: 80px;
+            margin-bottom: 16px; /* reduced from 30 */
+        }
+        .slide-title {
+            font-size: 42px;
+            font-weight: 900;
+            color: #ffffff;
+            line-height: 1.2;
+            border-left: 8px solid #3b82f6;
+            padding-left: 24px;
+        }
+        .content-wrapper {
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom: 20px; /* reduced from 40 */
+        }
+        .checklist-container {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr); /* two columns to reduce vertical height */
+            gap: 12px 16px; /* row gap 12, column gap 16 */
+            margin-bottom: 16px; /* reduced from 30 */
+        }
+        .task-row {
+            display: flex;
+            align-items: center;
+            background-color: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 12px 16px; /* reduced from 16px 24px */
+        }
+        .checkbox {
+            width: 24px;
+            height: 24px;
+            border: 3px solid #64748b;
+            margin-right: 16px;
+            flex-shrink: 0;
+        }
+        .task-text {
+            flex: 1;
+            font-size: 20px;
+            color: #e2e8f0;
+            line-height: 1.4;
+        }
+        .task-id {
+            font-weight: 700;
+            color: #ffffff;
+            margin-right: 8px;
+        }
+        .owner-badge {
+            font-size: 14px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            padding: 6px 12px;
+            margin-left: 12px;
+            white-space: nowrap;
+            border-radius: 4px;
+        }
+        .owner-marketing {
+            background-color: rgba(59, 130, 246, 0.15);
+            color: #3b82f6;
+            border: 1px solid rgba(59, 130, 246, 0.3);
+        }
+        .owner-dev {
+            background-color: rgba(16, 185, 129, 0.15);
+            color: #10b981;
+            border: 1px solid rgba(16, 185, 129, 0.3);
+        }
+        .owner-sales {
+            background-color: rgba(245, 158, 11, 0.15);
+            color: #f59e0b;
+            border: 1px solid rgba(245, 158, 11, 0.3);
+        }
+        .outcome-block {
+            background-color: rgba(16, 185, 129, 0.1);
+            border-left: 8px solid #10b981;
+            padding: 20px 30px;
+            display: flex;
+            align-items: center;
+            max-width: 880px;
+        }
+        .outcome-label {
+            font-size: 20px;
+            font-weight: 700;
+            color: #10b981;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-right: 24px;
+            white-space: nowrap;
+        }
+        .outcome-text {
+            font-size: 22px;
+            font-weight: 700;
+            color: #ffffff;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <h2 class="slide-title">Weeks 9-10: Establish AI Visibility Tracking and Optimize Conversions</h2>
+        </div>
+        
+        <div class="content-wrapper">
+            <div class="checklist-container">
+                <div class="task-row">
+                    <div class="checkbox"></div>
+                    <div class="task-text"><span class="task-id">Task 9.1:</span> Run weekly AI prompts across engines</div>
+                    <div class="owner-badge owner-marketing">Marketing Team</div>
+                </div>
+                
+                <div class="task-row">
+                    <div class="checkbox"></div>
+                    <div class="task-text"><span class="task-id">Task 9.1a:</span> Track which brands appear in AI results</div>
+                    <div class="owner-badge owner-marketing">Marketing Team</div>
+                </div>
+                
+                <div class="task-row">
+                    <div class="checkbox"></div>
+                    <div class="task-text"><span class="task-id">Task 9.2:</span> Set up GA4 referral tracking for AI & Reddit</div>
+                    <div class="owner-badge owner-dev">Dev Team</div>
+                </div>
+                
+                <div class="task-row">
+                    <div class="checkbox"></div>
+                    <div class="task-text"><span class="task-id">Task 9.3:</span> Implement 5-minute lead response SLA</div>
+                    <div class="owner-badge owner-sales">Sales Team</div>
+                </div>
+                
+                <div class="task-row">
+                    <div class="checkbox"></div>
+                    <div class="task-text"><span class="task-id">Task 9.3a:</span> Build automated new-lead alerts</div>
+                    <div class="owner-badge owner-dev">Dev Team</div>
+                </div>
+                
+                <div class="task-row">
+                    <div class="checkbox"></div>
+                    <div class="task-text"><span class="task-id">Task 9.4:</span> Compile initial AI Share of Voice report</div>
+                    <div class="owner-badge owner-marketing">Marketing Team</div>
+                </div>
+            </div>
+            
+            <div class="outcome-block">
+                <div class="outcome-label">Expected Outcome</div>
+                <div class="outcome-text">Baseline AI visibility data established; 5-minute SLA active.</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

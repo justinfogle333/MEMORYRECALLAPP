@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container {
+            width: 1280px;
+            min-height: 720px; /* keep as required */
+            background-color: #0f172a;
+            font-family: 'Inter', sans-serif;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+        .header {
+            padding-top: 60px; /* must not be changed */
+            padding-left: 80px;
+            padding-right: 80px;
+            margin-bottom: 16px; /* reduced from 40 to save vertical space */
+        }
+        .slide-title {
+            font-size: 42px;
+            font-weight: 900;
+            color: #ffffff;
+            line-height: 1.2;
+            border-left: 8px solid #10b981;
+            padding-left: 24px;
+        }
+        .content-wrapper {
+            display: flex;
+            flex: 1;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom: 18px; /* reduced from 60 */
+            gap: 16px;
+        }
+        .phase-card {
+            flex: 1;
+            background-color: rgba(255, 255, 255, 0.03);
+            border-top: 4px solid #3b82f6;
+            padding: 20px 14px; /* reduced from 30px 20px */
+            display: flex;
+            flex-direction: column;
+            position: relative;
+        }
+        .phase-card:nth-child(even) {
+            border-top-color: #10b981;
+        }
+        .phase-number {
+            font-size: 18px;
+            font-weight: 700;
+            color: #94a3b8;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 8px;
+        }
+        .phase-title {
+            font-size: 24px;
+            font-weight: 700;
+            color: #ffffff;
+            margin-bottom: 12px;
+            line-height: 1.3;
+            min-height: 48px; /* reduced from 62 to reduce vertical footprint */
+        }
+        .phase-timing {
+            font-size: 16px;
+            color: #3b82f6;
+            font-weight: 700;
+            margin-bottom: 12px; /* reduced from 20 */
+            padding-bottom: 8px; /* reduced from 16 */
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        .phase-card:nth-child(even) .phase-timing {
+            color: #10b981;
+        }
+        .task-list {
+            list-style: none;
+            /* removed flex:1 to avoid forcing tall equal heights across columns */
+        }
+        .task-item {
+            font-size: 16px;
+            color: #e2e8f0;
+            line-height: 1.5;
+            margin-bottom: 12px; /* reduced from 16 */
+            padding-left: 16px;
+            position: relative;
+        }
+        .task-item::before {
+            content: "•";
+            color: #94a3b8;
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <h2 class="slide-title">A 4-Phase, 12-Week Plan to Dominate AI Search Across All 19 Brands</h2>
+        </div>
+        
+        <div class="content-wrapper">
+            <div class="phase-card">
+                <div class="phase-number">Phase 1</div>
+                <div class="phase-title">Technical Foundation</div>
+                <div class="phase-timing">Weeks 1-2</div>
+                <ul class="task-list">
+                    <li class="task-item">Deploy llms.txt files across all 19 domains</li>
+                    <li class="task-item">Update robots.txt to explicitly allow AI crawlers</li>
+                    <li class="task-item">Fix critical errors on kerbmoving, shepherdmovers, ldmovers, and sunsetmoving</li>
+                    <li class="task-item">Link Google Business Profiles</li>
+                </ul>
+            </div>
+            
+            <div class="phase-card">
+                <div class="phase-number">Phase 2</div>
+                <div class="phase-title">Content &amp; Entity Authority</div>
+                <div class="phase-timing">Weeks 3-4</div>
+                <ul class="task-list">
+                    <li class="task-item">Build structured FAQ pages for all 19 brands</li>
+                    <li class="task-item">Implement FAQPage and MovingCompany schema</li>
+                    <li class="task-item">Upgrade "About Us" pages with real team bios</li>
+                    <li class="task-item">Ensure NAP consistency across directories</li>
+                </ul>
+            </div>
+            
+            <div class="phase-card">
+                <div class="phase-number">Phase 3</div>
+                <div class="phase-title">Authentic Community Engagement</div>
+                <div class="phase-timing">Weeks 5-8</div>
+                <ul class="task-list">
+                    <li class="task-item">Execute Reddit strategy across domestic and international subreddits</li>
+                    <li class="task-item">Train team on FTC disclosure rules</li>
+                    <li class="task-item">Build account karma via 90% helpful participation</li>
+                    <li class="task-item">Host AMA sessions for subtle brand promotion</li>
+                </ul>
+            </div>
+            
+            <div class="phase-card">
+                <div class="phase-number">Phase 4</div>
+                <div class="phase-title">Measurement &amp; Scaling</div>
+                <div class="phase-timing">Weeks 9-12</div>
+                <ul class="task-list">
+                    <li class="task-item">Track AI Share of Voice across ChatGPT and Perplexity</li>
+                    <li class="task-item">Implement 5-minute lead response SLA</li>
+                    <li class="task-item">Publish original research report on relocation costs</li>
+                    <li class="task-item">Conduct 90-day ROI review</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

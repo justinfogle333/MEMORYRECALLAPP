@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container {
+            width: 1280px;
+            min-height: 720px;
+            background-color: #0f172a;
+            font-family: 'Inter', sans-serif;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+        .content-wrapper {
+            width: 1000px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .slide-title {
+            font-size: 64px;
+            font-weight: 900;
+            color: #ffffff;
+            line-height: 1.2;
+            margin-bottom: 24px;
+        }
+        /* Reduced bottom gap to pull up the action area and keep total height under 720px */
+        .slide-subtitle {
+            font-size: 32px;
+            color: #94a3b8;
+            margin-bottom: 48px;
+            font-weight: 400;
+        }
+        .action-container {
+            display: flex;
+            gap: 40px;
+            width: 100%;
+        }
+        .action-box {
+            flex: 1;
+            background-color: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 40px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .action-box.primary {
+            border-top: 8px solid #3b82f6;
+            background-color: rgba(59, 130, 246, 0.05);
+        }
+        .action-box.secondary {
+            border-top: 8px solid #10b981;
+            background-color: rgba(16, 185, 129, 0.05);
+        }
+        .box-icon {
+            font-size: 48px;
+            margin-bottom: 24px;
+        }
+        .primary .box-icon {
+            color: #3b82f6;
+        }
+        .secondary .box-icon {
+            color: #10b981;
+        }
+        .box-title {
+            font-size: 24px;
+            font-weight: 700;
+            color: #ffffff;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        .box-list {
+            list-style: none;
+            text-align: left;
+            width: 100%;
+        }
+        .box-list li {
+            font-size: 22px;
+            color: #e2e8f0;
+            margin-bottom: 16px;
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+            line-height: 1.4;
+        }
+        .box-list li i {
+            margin-top: 6px;
+            font-size: 18px;
+        }
+        .primary .box-list li i {
+            color: #3b82f6;
+        }
+        .secondary .box-list li i {
+            color: #10b981;
+        }
+        .highlight {
+            font-weight: 700;
+            color: #ffffff;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="content-wrapper">
+            <h1 class="slide-title">The Next Step: Approve and We Start Monday</h1>
+            <div class="slide-subtitle">Turn the 19-brand portfolio into an AI lead generation engine.</div>
+            
+            <div class="action-container">
+                <div class="action-box primary">
+                    <div class="box-icon"><i class="fas fa-clipboard-check"></i></div>
+                    <div class="box-title">What We Need Today</div>
+                    <ul class="box-list">
+                        <li><i class="fas fa-check"></i> <span>Approval on the <span class="highlight">90-Day Sprint Plan</span></span></li>
+                        <li><i class="fas fa-check"></i> <span>Approval on the <span class="highlight">$7,650 - $12,300</span> budget</span></li>
+                        <li><i class="fas fa-check"></i> <span>Green light to brief the Dev and Content teams</span></li>
+                    </ul>
+                </div>
+                
+                <div class="action-box secondary">
+                    <div class="box-icon"><i class="fas fa-rocket"></i></div>
+                    <div class="box-title">What Happens Monday</div>
+                    <ul class="box-list">
+                        <li><i class="fas fa-arrow-right"></i> <span>Dev team begins <span class="highlight">Phase 1 technical fixes</span> on all 19 domains</span></li>
+                        <li><i class="fas fa-arrow-right"></i> <span>Sales team begins <span class="highlight">Reddit account warm-up</span></span></li>
+                        <li><i class="fas fa-arrow-right"></i> <span>First weekly progress report sent next Friday</span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

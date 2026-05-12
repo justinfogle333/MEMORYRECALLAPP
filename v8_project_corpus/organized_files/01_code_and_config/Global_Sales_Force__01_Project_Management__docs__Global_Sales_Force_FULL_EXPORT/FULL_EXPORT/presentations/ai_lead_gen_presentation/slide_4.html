@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;900&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; background-color: #121212; color: #F8F9FA; }
+        .slide-container { 
+            width: 1280px; 
+            min-height: 720px; 
+            background-color: #121212;
+            padding: 40px 80px 20px; /* keep top padding, reduce bottom */
+            display: flex;
+            flex-direction: column;
+        }
+        .header {
+            margin-bottom: 20px; /* reduced */
+            border-bottom: 1px solid #333;
+            padding-top: 20px;
+        }
+        .title {
+            font-size: 32px;
+            font-weight: 900;
+            color: #D00000;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            font-size: 48px;
+            font-weight: 900;
+            color: #F8F9FA;
+            margin-bottom: 10px; /* reduced */
+            line-height: 1.2;
+        }
+        .content-grid {
+            display: grid;
+            grid-template-columns: 40% 60%;
+            gap: 24px; /* reduced gap */
+            flex-grow: 1;
+        }
+        .left-column {
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+        }
+        .narrative {
+            font-size: 24px;
+            font-weight: 500;
+            color: #CED4DA;
+            line-height: 1.5;
+            margin-bottom: 12px; /* reduced */
+        }
+        .takeaway-box {
+            border: 2px solid #D00000;
+            padding: 12px; /* reduced */
+            background: rgba(208, 0, 0, 0.05);
+            font-size: 24px;
+            font-weight: 900;
+            color: #F8F9FA;
+            line-height: 1.4;
+            margin-top: auto;
+        }
+        .takeaway-highlight {
+            color: #D00000;
+        }
+        .right-column {
+            display: flex;
+            flex-direction: column;
+            gap: 8px; /* reduced */
+        }
+        .risk-point {
+            border: 1px solid #333;
+            border-left: 4px solid #D00000;
+            padding: 12px; /* reduced */
+            background: #1a1a1a;
+            display: flex;
+            align-items: flex-start;
+        }
+        .risk-icon {
+            font-size: 28px;
+            color: #D00000;
+            margin-right: 16px; /* slightly reduced */
+            min-width: 30px;
+            text-align: center;
+            font-weight: 900;
+            line-height: 1;
+        }
+        .risk-text {
+            font-size: 20px;
+            font-weight: 500;
+            color: #CED4DA;
+            line-height: 1.4;
+        }
+        .highlight {
+            color: #F8F9FA;
+            font-weight: 900;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <div class="title">Critical Warning</div>
+            <h2 class="subtitle">The FTC Now Penalizes Fake Posts Up to $53,088 Per Violation</h2>
+        </div>
+        
+        <div class="content-grid">
+            <div class="left-column">
+                <div class="narrative">
+                    While the goal is correct, posting manufactured questions and answers on Reddit (known as "astroturfing") is now explicitly illegal under federal law.
+                </div>
+                <div class="takeaway-box">
+                    <span class="takeaway-highlight">CATASTROPHIC RISK:</span> With 14 brands under one umbrella, getting caught would be devastating — one scandal could damage all companies simultaneously.
+                </div>
+            </div>
+            
+            <div class="right-column">
+                <div class="risk-point">
+                    <div class="risk-icon">!</div>
+                    <div class="risk-text"><span class="highlight">FTC Consumer Reviews Rule:</span> Effective Oct 21, 2024, prohibits businesses from creating or disseminating fake reviews or testimonials.</div>
+                </div>
+                <div class="risk-point">
+                    <div class="risk-icon">!</div>
+                    <div class="risk-text"><span class="highlight">Massive Financial Penalties:</span> Civil penalties reach $53,088 per violation as of 2025.</div>
+                </div>
+                <div class="risk-point">
+                    <div class="risk-icon">!</div>
+                    <div class="risk-text"><span class="highlight">Active Enforcement:</span> The FTC sent warning letters to 10 companies in December 2025 as its first enforcement action.</div>
+                </div>
+                <div class="risk-point">
+                    <div class="risk-icon">!</div>
+                    <div class="risk-text"><span class="highlight">Reddit Backlash:</span> Reddit actively detects and bans astroturfing; 63.2% of Reddit threads ranking for branded searches are negative toward the brand.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

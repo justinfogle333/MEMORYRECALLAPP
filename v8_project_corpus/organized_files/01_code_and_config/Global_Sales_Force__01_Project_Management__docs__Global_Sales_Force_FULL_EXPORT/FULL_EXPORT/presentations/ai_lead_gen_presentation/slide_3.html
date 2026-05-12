@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;900&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; background-color: #121212; color: #F8F9FA; }
+        .slide-container { 
+            width: 1280px; 
+            min-height: 720px; 
+            background-color: #121212;
+            padding: 40px 80px; /* reduced top/bottom padding */
+            display: flex;
+            flex-direction: column;
+        }
+        .header {
+            margin-bottom: 20px; /* reduced gap to content */
+            border-bottom: 1px solid #333;
+            padding-top: 20px; /* keep title top padding unchanged */
+        }
+        .title {
+            font-size: 32px;
+            font-weight: 900;
+            color: #38B000;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            font-size: 48px;
+            font-weight: 900;
+            color: #F8F9FA;
+            margin-bottom: 20px;
+            line-height: 1.2;
+        }
+        .content-grid {
+            display: grid;
+            grid-template-columns: 45% 55%;
+            gap: 30px; /* narrower gap */
+            flex-grow: 1;
+        }
+        .left-column {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .narrative {
+            font-size: 28px;
+            font-weight: 500;
+            color: #CED4DA;
+            line-height: 1.5;
+            margin-bottom: 20px; /* reduced spacing */
+        }
+        .takeaway-box {
+            border: 1px solid #38B000;
+            padding: 20px; /* reduced padding */
+            background: rgba(56, 176, 0, 0.05);
+            font-size: 24px;
+            font-weight: 900;
+            color: #F8F9FA;
+            line-height: 1.4;
+        }
+        .right-column {
+            display: grid; /* refreshed layout: two columns */
+            grid-template-columns: 1fr 1fr;
+            gap: 20px; /* consistent gutters */
+        }
+        .data-point {
+            border: 1px solid #333;
+            border-left: 4px solid #38B000;
+            padding: 12px 20px; /* reduced padding */
+            background: #1a1a1a;
+            display: flex;
+            align-items: center;
+        }
+        .data-icon {
+            font-size: 32px;
+            color: #38B000;
+            margin-right: 16px;
+            min-width: 40px;
+            text-align: center;
+            font-weight: 900;
+        }
+        .data-text {
+            font-size: 20px;
+            font-weight: 500;
+            color: #CED4DA;
+            line-height: 1.4;
+        }
+        .highlight {
+            color: #F8F9FA;
+            font-weight: 900;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <div class="title">Strategic Validation</div>
+            <h2 class="subtitle">Social Media and Reddit Directly Influence What AI Recommends</h2>
+        </div>
+        
+        <div class="content-grid">
+            <div class="left-column">
+                <div class="narrative">
+                    Alex's core idea — using community platforms to shape AI recommendations — is backed by data: Reddit is a notable source LLMs draw from when answering queries.
+                </div>
+                <div class="takeaway-box">
+                    Building presence on social platforms to influence AI is the right strategy. Execution and consistency determine impact.
+                </div>
+            </div>
+            
+            <div class="right-column">
+                <div class="data-point">
+                    <div class="data-icon">01</div>
+                    <div class="data-text"><span class="highlight">Reddit captures 2–3%</span> of ChatGPT citations (Profound/Semrush research)</div>
+                </div>
+                <div class="data-point">
+                    <div class="data-icon">02</div>
+                    <div class="data-text"><span class="highlight">99% of Reddit citations</span> come from individual discussion threads, not main pages</div>
+                </div>
+                <div class="data-point">
+                    <div class="data-icon">03</div>
+                    <div class="data-text"><span class="highlight">Low-engagement posts get cited:</span> AI-cited posts had far fewer comments and upvotes than viral posts</div>
+                </div>
+                <div class="data-point">
+                    <div class="data-icon">04</div>
+                    <div class="data-text"><span class="highlight">AI engines favor earned media</span> (community discussions, third-party reviews) over brand-owned content</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

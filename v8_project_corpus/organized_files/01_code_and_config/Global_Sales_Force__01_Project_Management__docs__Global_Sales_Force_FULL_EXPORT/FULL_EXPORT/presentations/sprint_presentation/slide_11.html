@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container {
+            width: 1280px;
+            min-height: 720px;
+            background-color: #0f172a;
+            font-family: 'Inter', sans-serif;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+        .header {
+            padding-top: 60px;
+            padding-left: 80px;
+            padding-right: 80px;
+            margin-bottom: 40px;
+        }
+        .slide-title {
+            font-size: 42px;
+            font-weight: 900;
+            color: #ffffff;
+            line-height: 1.2;
+            border-left: 8px solid #3b82f6;
+            padding-left: 24px;
+        }
+        .content-wrapper {
+            display: flex;
+            flex: 1;
+            padding-left: 80px;
+            padding-right: 80px;
+            gap: 40px;
+            padding-bottom: 60px;
+        }
+        .left-col {
+            flex: 1.5;
+            display: flex;
+            flex-direction: column;
+        }
+        .right-col {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+        }
+        .checklist-container {
+            background-color: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 30px;
+            flex: 1;
+        }
+        .checklist {
+            list-style: none;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        .check-item {
+            display: flex;
+            align-items: flex-start;
+            font-size: 18px;
+            color: #e2e8f0;
+            line-height: 1.5;
+        }
+        .checkbox {
+            width: 24px;
+            height: 24px;
+            border: 2px solid #64748b;
+            border-radius: 4px;
+            margin-right: 16px;
+            margin-top: 2px;
+            flex-shrink: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .task-owner {
+            font-size: 14px;
+            font-weight: 700;
+            padding: 4px 8px;
+            border-radius: 4px;
+            margin-left: 12px;
+            white-space: nowrap;
+            display: inline-block;
+        }
+        .owner-sales {
+            color: #10b981;
+            background-color: rgba(16, 185, 129, 0.1);
+        }
+        .owner-marketing {
+            color: #3b82f6;
+            background-color: rgba(59, 130, 246, 0.1);
+        }
+        .outcome-card {
+            background-color: rgba(16, 185, 129, 0.1);
+            border-left: 6px solid #10b981;
+            padding: 30px;
+        }
+        .outcome-title {
+            font-size: 24px;
+            font-weight: 700;
+            color: #10b981;
+            margin-bottom: 16px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .outcome-text {
+            font-size: 20px;
+            color: #ffffff;
+            line-height: 1.5;
+        }
+        .highlight-box {
+            background-color: rgba(239, 68, 68, 0.1);
+            border-left: 6px solid #ef4444;
+            padding: 30px;
+        }
+        .highlight-title {
+            font-size: 20px;
+            font-weight: 700;
+            color: #ef4444;
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .highlight-text {
+            font-size: 18px;
+            color: #e2e8f0;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <h2 class="slide-title">Week 5: Set Up Reddit Accounts and Train the Team</h2>
+        </div>
+        
+        <div class="content-wrapper">
+            <div class="left-col">
+                <div class="checklist-container">
+                    <ul class="checklist">
+                        <li class="check-item">
+                            <div class="checkbox"></div>
+                            <div>
+                                <strong>Task 5.1:</strong> Create individual Reddit accounts for 3-5 team members (personal handles, not company names).
+                                <span class="task-owner owner-sales">SALES TEAM</span>
+                            </div>
+                        </li>
+                        <li class="check-item">
+                            <div class="checkbox"></div>
+                            <div>
+                                <strong>Task 5.2:</strong> Subscribe to target subreddits: r/moving, r/SameGrassButGreener, r/expats, r/IWantOut, city-specific subs.
+                                <span class="task-owner owner-sales">SALES TEAM</span>
+                            </div>
+                        </li>
+                        <li class="check-item">
+                            <div class="checkbox"></div>
+                            <div>
+                                <strong>Task 5.3:</strong> Conduct mandatory FTC compliance training session.
+                                <span class="task-owner owner-marketing">MARKETING TEAM</span>
+                            </div>
+                        </li>
+                        <li class="check-item">
+                            <div class="checkbox"></div>
+                            <div>
+                                <strong>Task 5.3a:</strong> Distribute written guidelines: disclosure rules, 90/10 rule, multi-brand rotation.
+                                <span class="task-owner owner-marketing">MARKETING TEAM</span>
+                            </div>
+                        </li>
+                        <li class="check-item">
+                            <div class="checkbox"></div>
+                            <div>
+                                <strong>Task 5.4:</strong> Begin observing subreddit culture, tone, and posting patterns (no posting yet).
+                                <span class="task-owner owner-sales">SALES TEAM</span>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="right-col">
+                <div class="outcome-card">
+                    <div class="outcome-title">
+                        <i class="fas fa-flag-checkered"></i> Expected Outcome
+                    </div>
+                    <div class="outcome-text">
+                        All accounts created; team trained on FTC rules; observation period complete.
+                    </div>
+                </div>
+                
+                <div class="highlight-box">
+                    <div class="highlight-title">
+                        <i class="fas fa-exclamation-triangle"></i> FTC Compliance Warning
+                    </div>
+                    <div class="highlight-text">
+                        All team members must disclose employment when mentioning brands. Penalty for violations (astroturfing) is <strong>$53,088 per instance</strong>.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

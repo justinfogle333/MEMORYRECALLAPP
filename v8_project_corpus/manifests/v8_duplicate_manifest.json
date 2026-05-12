@@ -1,0 +1,1856 @@
+[
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/01_Review_Agent/code/README.md",
+    "size_bytes": 6312,
+    "sha256": "8f7f4d4abc7bf2aba4230c2d5b847a0fa5a7a9b0cc248e5a809666fc1d4f03b3",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Review Agent \u2014 Automated Review Solicitation System.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/01_Review_Agent/code/config.py",
+    "size_bytes": 5501,
+    "sha256": "cdb451d90a2f6abe032d1fff4cfeb3450b2d9fa046153171f936f47d7dd505a4",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/config.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/01_Review_Agent/code/csv_importer.py",
+    "size_bytes": 4964,
+    "sha256": "bff0c03a692e6814c600302f86c31de2155348bfd146c02f28a942406aefd312",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/csv_importer.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/01_Review_Agent/code/csv_inbox/sample_completed_moves.csv",
+    "size_bytes": 414,
+    "sha256": "f81f823bc8a2af59a7570eec5f776e583d846ed8a0d0dca1e41ad5d35d100ec2",
+    "extension": ".csv",
+    "mime_guess": "text/csv",
+    "duplicate_of": "03_data_and_spreadsheets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/sample_completed_moves.csv"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/01_Review_Agent/code/database.py",
+    "size_bytes": 7779,
+    "sha256": "ab69b42ed897399db5bf835c3b8175de28c9984eb9379d63d136ea7cd23f061d",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/database.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/01_Review_Agent/code/gift_card_sender.py",
+    "size_bytes": 3392,
+    "sha256": "9cf3c90f17042fe88ac6c2c77f5b320a5a81c92de4d9b4697c48bbb894f4379d",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/gift_card_sender.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/01_Review_Agent/code/requirements.txt",
+    "size_bytes": 44,
+    "sha256": "ba566044db8ff1d97da261498ca9525ca94a1b62e24fb36a22f18f37db8d3a4b",
+    "extension": ".txt",
+    "mime_guess": "text/plain",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/requirements.txt"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/01_Review_Agent/code/review_agent.zip",
+    "size_bytes": 22280,
+    "sha256": "610f2e10c4f32f226e43e44d2c96d25503723fec26ba86f8d1259491051a72ed",
+    "extension": ".zip",
+    "mime_guess": "application/zip",
+    "duplicate_of": "05_nested_archives/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/review_agent.zip"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/01_Review_Agent/code/server.py",
+    "size_bytes": 6001,
+    "sha256": "7f08a2a67eda1cb4662a9ef8f091aa966aed93ac93e18a4bdbc7df960f40c173",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/server.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/01_Review_Agent/code/sms_sender.py",
+    "size_bytes": 4458,
+    "sha256": "467544d6c324bcb40e6b68acfb3620d3e66722e0724f96c1452f1c8362dcd13f",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/sms_sender.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/01_Review_Agent/code/templates/google_apps_script.js",
+    "size_bytes": 2435,
+    "sha256": "e601b98688471a99bd57f335397a82acb5f3241acdd56e4c0f6e58edb4249680",
+    "extension": ".js",
+    "mime_guess": "text/javascript",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/google_apps_script.js"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/01_Review_Agent/code/test_agent.py",
+    "size_bytes": 15077,
+    "sha256": "5687f0f695c0e10ef35b676de467e3de370d39e450c0ea34798a8cedeb8a3a5f",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/test_agent.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/01_Review_Agent/code/worker.py",
+    "size_bytes": 5602,
+    "sha256": "169cafda9997587fa91254c505f9963e371d628355e347581e1cd39f599a6ebb",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/worker.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/01_Review_Agent/docs/Justin_Review_Agent_Implementation_Guide.md",
+    "size_bytes": 6546,
+    "sha256": "5c0599c3eece9ead455270238eeb300e33ae02d90e15f1698b8b53be86ae9ddf",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/The Developer's Guide: Building the Automated Review Agent.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/01_Review_Agent/docs/Review_Agent_Dev_Handoff.md",
+    "size_bytes": 5319,
+    "sha256": "5fc3edce35688240575b62796ea5324aec160ae9cce50b0fdb9e26d25bacbfee",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Developer Handoff Specification: Automated Review Solicitation Agent.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/01_Review_Agent/docs/SAVED_TASK_5_Day_Review_Agent_Build.md",
+    "size_bytes": 5229,
+    "sha256": "a708e26ca603c15589011a09ba3735414fe1573277a95e8517a00aefd55a89bf",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/SAVED TASK: 5-Day Review Agent Build Plan.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/01_Review_Agent/docs/research_crm.md",
+    "size_bytes": 1388,
+    "sha256": "e3000ec6ff0dcf891be124f2d1e0f088759bf643ba0daf7a87983c3b5b20a9f1",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/research_crm.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/01_Review_Agent/docs/research_platform_policies.md",
+    "size_bytes": 8292,
+    "sha256": "8797fbd0fe57b4a2fab4c86abeb055619fbfe09d0fb668ee89f2015a0bd0fa3b",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Platform Policy Deep Dive \u2014 Fine Print Analysis.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/01_Review_Agent/docs/research_review_agent.md",
+    "size_bytes": 5186,
+    "sha256": "6215a6d89a0e3dd4032b8250668512144510ac668462ef69b4101ab799f503b2",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/research_review_agent.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/01_Review_Agent/docs/review_agent_slide_content.md",
+    "size_bytes": 8660,
+    "sha256": "5d65e0e171c4bff3f8798a2927147042ffebcc0fbf97cb8bc951ed584adf9ae1",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/review_agent_slide_content.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/04_GEO_Strategy_Coordination/docs/90_Day_GEO_Sprint_Plan_v2.md",
+    "size_bytes": 9380,
+    "sha256": "bf256e7fe0d5fca46cac0005537bc6cbc061cad15c59acc048f4b5a8953a3172",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/90-Day GEO Implementation Sprint Plan (v2.0).md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/04_GEO_Strategy_Coordination/docs/Strategic_Analysis_AI_Lead_Gen.md",
+    "size_bytes": 8723,
+    "sha256": "0a7edf0dee0f65fc5ed0216942477bdfdb717e5a6efaaf723c326c2d03c6a870",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Strategic Analysis: AI Lead Generation Proposal for Global Sales Force.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/04_GEO_Strategy_Coordination/docs/research_geo.md",
+    "size_bytes": 13292,
+    "sha256": "11394f66a6f6c8e33612d006e29a74788382c97b3e7ad5ccf3087409b239f5b3",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Deep Research: GEO (Generative Engine Optimization) Strategies.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/04_GEO_Strategy_Coordination/docs/research_lead_gen.md",
+    "size_bytes": 7201,
+    "sha256": "64a8046b56e011afa7a80e72a6c101e53521de13812752b544c4eb526fc71211",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Deep Research: Lead Generation for Moving Companies.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/04_GEO_Strategy_Coordination/docs/research_notes.md",
+    "size_bytes": 2894,
+    "sha256": "a1b176284bda738d8601438c4e0a1307377d59e4b551d77e4ee9ec262f1fe11e",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/research_notes.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/04_GEO_Strategy_Coordination/docs/slide_content.md",
+    "size_bytes": 10812,
+    "sha256": "2afd65ddc43f9001509116767a26295cb6d81cdab379f95f724ce772fc775160",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/slide_content.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/04_GEO_Strategy_Coordination/docs/sprint_slide_content.md",
+    "size_bytes": 13617,
+    "sha256": "de92b597ef572ad60779690eb06aa30950666b50e02c1cbca3c743cf9040e580",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/sprint_slide_content.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/05_Technical_Foundation/audit_data/audit_critical_sites.md",
+    "size_bytes": 2467,
+    "sha256": "51f4eab69efc0afdba4b74e296fd49dd23e671b9410db12047952c5d6789f792",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/audit_critical_sites.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/05_Technical_Foundation/audit_data/intl_scorecard_categories.png",
+    "size_bytes": 79154,
+    "sha256": "ece934357245019d94000e6074793fe5fd7f81fd9692d8da92a56377d5402b59",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "duplicate_of": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/intl_scorecard_categories.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/05_Technical_Foundation/audit_data/intl_scorecard_heatmap.png",
+    "size_bytes": 139969,
+    "sha256": "f8e10b6563e0e774c42304ec5ea429ee38eea27fd381bb8437b7491aadfef82f",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "duplicate_of": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/intl_scorecard_heatmap.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/05_Technical_Foundation/audit_data/intl_scorecard_overall.png",
+    "size_bytes": 85585,
+    "sha256": "acdd71986f5dd4c1d7bcd480856e911f3947a109ea00ae08400cf1c4dba8887d",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "duplicate_of": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/intl_scorecard_overall.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/05_Technical_Foundation/audit_data/scorecard_categories.png",
+    "size_bytes": 64002,
+    "sha256": "65ffbfedbacda2a5981e47d82f2d12c264b5974c8402b0077e5d08f0e81c821d",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "duplicate_of": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/scorecard_categories.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/05_Technical_Foundation/audit_data/scorecard_heatmap.png",
+    "size_bytes": 144914,
+    "sha256": "b72cb3569d70352c51ccc608e1b0d91ed9530f96c2dd205b190f9e589f2927b2",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "duplicate_of": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/scorecard_heatmap.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/05_Technical_Foundation/audit_data/scorecard_overall.png",
+    "size_bytes": 146325,
+    "sha256": "b33f96893f670095bae25ff51bc4ee3fe340aebc345f9ab2090b1dd2c784407b",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "duplicate_of": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/scorecard_overall.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/05_Technical_Foundation/docs/Critical_Domains_Remediation_Plan.md",
+    "size_bytes": 7015,
+    "sha256": "255aa93621404bdbe290a51a911c85ffad4b230a128142a4d17cd6cb413e43b8",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Critical Domains Remediation Plan.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/05_Technical_Foundation/docs/Technical_Foundation_Guide.md",
+    "size_bytes": 6956,
+    "sha256": "831f11484fced11925e1e02346e99be9f834943d8d684a67e785c4fbc0cc6f59",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Technical Foundation Implementation Guide (Weeks 1-2).md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/05_Technical_Foundation/docs/combined_slide_content.md",
+    "size_bytes": 6098,
+    "sha256": "dd434738ea89ba5c9b0f019c18c121c93a890a5a6b6008b9244ee35cf0f26a19",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/combined_slide_content.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/05_Technical_Foundation/docs/research_technical.md",
+    "size_bytes": 3665,
+    "sha256": "e7052900911d129feb9ebbd0ddbc17ccd287c569e4a1073c5a2be31c6d5d682a",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/research_technical.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/07_Community_Engagement/docs/Community_Engagement_Playbook.md",
+    "size_bytes": 7980,
+    "sha256": "6dc574b1031bfcb28cf17fa7ffadf0e39c52539a17d69fc682fbfb9979529d95",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Community Engagement Playbook: Global Sales Force.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/07_Community_Engagement/docs/SAVED_TASK_community_engagement.md",
+    "size_bytes": 2497,
+    "sha256": "1f75b727eee5955f24e8ce66431b159cae020e3a688bd19c25a1c11229e4ca77",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/SAVED TASK: Elaborate on Authentic Community Engagement Phase.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/07_Community_Engagement/docs/research_communities.md",
+    "size_bytes": 6259,
+    "sha256": "cf32d83dabc7941c1b136df5f91a1b2eb0fb78491c8da3cb0c19ada948e7e95b",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/research_communities.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/README.md",
+    "size_bytes": 5489,
+    "sha256": "780f9368c754b12776d00ab66e3a8953539db201597be76630471875ed3af8e7",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Global Sales Force \u2014 Project Hub.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/_Master/knowledge_base/companies.md",
+    "size_bytes": 1439,
+    "sha256": "2d583148ebc1275e20464a43ec85922becd3ae3d33a7b2a39487de2ef27748fb",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/companies.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/_Master/knowledge_base/knowledgebase.md",
+    "size_bytes": 37019,
+    "sha256": "8c3d1614686f98ad8db5bce16258388c712a176fdf7f424cd03c5a074d9319a1",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/knowledgebase.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/_Master/meeting_notes/Meeting_Key_Points_and_Roadmap.md",
+    "size_bytes": 10786,
+    "sha256": "03d6ab77334e77a6fc213f709bae2b55a36a3271fb8b8f70f7b07c748437fa11",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Meeting with Alex \u2014 Key Points & Roadmap.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/_Master/meeting_notes/transcript.txt",
+    "size_bytes": 14938,
+    "sha256": "9ae69c5c0b6b6cef9bbfa582e037b3e287f83559a07b7b24b33fa2eea1601863",
+    "extension": ".txt",
+    "mime_guess": "text/plain",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/transcript.txt"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/_Master/task_lists/Master_Task_List.md",
+    "size_bytes": 6201,
+    "sha256": "ae6afa6bb83cb385a5da66769c37014f12ff6c8733b3b3044e83ddc519cd65f1",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Global Sales Force \u2014 Master Task List.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/_Master/task_lists/SAVED_TASK_5_Day_Review_Agent_Build.md",
+    "size_bytes": 5229,
+    "sha256": "a708e26ca603c15589011a09ba3735414fe1573277a95e8517a00aefd55a89bf",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/SAVED TASK: 5-Day Review Agent Build Plan.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/_Master/task_lists/SAVED_TASK_community_engagement.md",
+    "size_bytes": 2497,
+    "sha256": "1f75b727eee5955f24e8ce66431b159cae020e3a688bd19c25a1c11229e4ca77",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/SAVED TASK: Elaborate on Authentic Community Engagement Phase.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/90_Day_GEO_Sprint_Plan.md",
+    "size_bytes": 8681,
+    "sha256": "cf5d58d850187a8739331d84f91d78a4b1583c6c7102c403ee905d09a15d2164",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/90-Day GEO Implementation Sprint Plan.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/90_Day_GEO_Sprint_Plan_v2.md",
+    "size_bytes": 9380,
+    "sha256": "bf256e7fe0d5fca46cac0005537bc6cbc061cad15c59acc048f4b5a8953a3172",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/90-Day GEO Implementation Sprint Plan (v2.0).md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/AGENT_ONBOARDING.md",
+    "size_bytes": 13239,
+    "sha256": "fc7ac116f1b1c69c323a1d8d9582308b518e2efe30b17ee48d450201d1d7458c",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Agent Onboarding: Global Sales Force Project.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Community_Engagement_Playbook.md",
+    "size_bytes": 7980,
+    "sha256": "6dc574b1031bfcb28cf17fa7ffadf0e39c52539a17d69fc682fbfb9979529d95",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Community Engagement Playbook: Global Sales Force.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Critical_Domains_Remediation_Plan.md",
+    "size_bytes": 7015,
+    "sha256": "255aa93621404bdbe290a51a911c85ffad4b230a128142a4d17cd6cb413e43b8",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Critical Domains Remediation Plan.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/GEO_Readiness_Audit_Report.md",
+    "size_bytes": 5803,
+    "sha256": "9b5f9cef868a0f17c69bc44eebe821c3e2235818bc5ec5e20794b10588e5bf6c",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force/Global_Sales_Force/05_Technical_Foundation/docs/GEO_Readiness_Audit_Report.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/GEO_Readiness_Audit_Report_International.md",
+    "size_bytes": 4992,
+    "sha256": "67669fb41b3e7a24ee1b70bddd48d02f5e8314d4ca0c440d776daaf4598231cb",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force/Global_Sales_Force/05_Technical_Foundation/docs/GEO_Readiness_Audit_Report_International.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/01_Review_Agent/code/README.md",
+    "size_bytes": 6312,
+    "sha256": "8f7f4d4abc7bf2aba4230c2d5b847a0fa5a7a9b0cc248e5a809666fc1d4f03b3",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Review Agent \u2014 Automated Review Solicitation System.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/01_Review_Agent/code/config.py",
+    "size_bytes": 5501,
+    "sha256": "cdb451d90a2f6abe032d1fff4cfeb3450b2d9fa046153171f936f47d7dd505a4",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/config.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/01_Review_Agent/code/csv_importer.py",
+    "size_bytes": 4964,
+    "sha256": "bff0c03a692e6814c600302f86c31de2155348bfd146c02f28a942406aefd312",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/csv_importer.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/01_Review_Agent/code/csv_inbox/sample_completed_moves.csv",
+    "size_bytes": 414,
+    "sha256": "f81f823bc8a2af59a7570eec5f776e583d846ed8a0d0dca1e41ad5d35d100ec2",
+    "extension": ".csv",
+    "mime_guess": "text/csv",
+    "duplicate_of": "03_data_and_spreadsheets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/sample_completed_moves.csv"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/01_Review_Agent/code/database.py",
+    "size_bytes": 7779,
+    "sha256": "ab69b42ed897399db5bf835c3b8175de28c9984eb9379d63d136ea7cd23f061d",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/database.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/01_Review_Agent/code/gift_card_sender.py",
+    "size_bytes": 3392,
+    "sha256": "9cf3c90f17042fe88ac6c2c77f5b320a5a81c92de4d9b4697c48bbb894f4379d",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/gift_card_sender.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/01_Review_Agent/code/requirements.txt",
+    "size_bytes": 44,
+    "sha256": "ba566044db8ff1d97da261498ca9525ca94a1b62e24fb36a22f18f37db8d3a4b",
+    "extension": ".txt",
+    "mime_guess": "text/plain",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/requirements.txt"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/01_Review_Agent/code/review_agent.zip",
+    "size_bytes": 22280,
+    "sha256": "610f2e10c4f32f226e43e44d2c96d25503723fec26ba86f8d1259491051a72ed",
+    "extension": ".zip",
+    "mime_guess": "application/zip",
+    "duplicate_of": "05_nested_archives/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/review_agent.zip"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/01_Review_Agent/code/server.py",
+    "size_bytes": 6001,
+    "sha256": "7f08a2a67eda1cb4662a9ef8f091aa966aed93ac93e18a4bdbc7df960f40c173",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/server.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/01_Review_Agent/code/sms_sender.py",
+    "size_bytes": 4458,
+    "sha256": "467544d6c324bcb40e6b68acfb3620d3e66722e0724f96c1452f1c8362dcd13f",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/sms_sender.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/01_Review_Agent/code/templates/google_apps_script.js",
+    "size_bytes": 2435,
+    "sha256": "e601b98688471a99bd57f335397a82acb5f3241acdd56e4c0f6e58edb4249680",
+    "extension": ".js",
+    "mime_guess": "text/javascript",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/google_apps_script.js"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/01_Review_Agent/code/test_agent.py",
+    "size_bytes": 15077,
+    "sha256": "5687f0f695c0e10ef35b676de467e3de370d39e450c0ea34798a8cedeb8a3a5f",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/test_agent.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/01_Review_Agent/code/worker.py",
+    "size_bytes": 5602,
+    "sha256": "169cafda9997587fa91254c505f9963e371d628355e347581e1cd39f599a6ebb",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/worker.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/01_Review_Agent/docs/Justin_Review_Agent_Implementation_Guide.md",
+    "size_bytes": 6546,
+    "sha256": "5c0599c3eece9ead455270238eeb300e33ae02d90e15f1698b8b53be86ae9ddf",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/The Developer's Guide: Building the Automated Review Agent.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/01_Review_Agent/docs/Review_Agent_Dev_Handoff.md",
+    "size_bytes": 5319,
+    "sha256": "5fc3edce35688240575b62796ea5324aec160ae9cce50b0fdb9e26d25bacbfee",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Developer Handoff Specification: Automated Review Solicitation Agent.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/01_Review_Agent/docs/SAVED_TASK_5_Day_Review_Agent_Build.md",
+    "size_bytes": 5229,
+    "sha256": "a708e26ca603c15589011a09ba3735414fe1573277a95e8517a00aefd55a89bf",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/SAVED TASK: 5-Day Review Agent Build Plan.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/01_Review_Agent/docs/research_crm.md",
+    "size_bytes": 1388,
+    "sha256": "e3000ec6ff0dcf891be124f2d1e0f088759bf643ba0daf7a87983c3b5b20a9f1",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/research_crm.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/01_Review_Agent/docs/research_platform_policies.md",
+    "size_bytes": 8292,
+    "sha256": "8797fbd0fe57b4a2fab4c86abeb055619fbfe09d0fb668ee89f2015a0bd0fa3b",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Platform Policy Deep Dive \u2014 Fine Print Analysis.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/01_Review_Agent/docs/research_review_agent.md",
+    "size_bytes": 5186,
+    "sha256": "6215a6d89a0e3dd4032b8250668512144510ac668462ef69b4101ab799f503b2",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/research_review_agent.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/01_Review_Agent/docs/review_agent_slide_content.md",
+    "size_bytes": 8660,
+    "sha256": "5d65e0e171c4bff3f8798a2927147042ffebcc0fbf97cb8bc951ed584adf9ae1",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/review_agent_slide_content.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/04_GEO_Strategy_Coordination/docs/90_Day_GEO_Sprint_Plan_v2.md",
+    "size_bytes": 9380,
+    "sha256": "bf256e7fe0d5fca46cac0005537bc6cbc061cad15c59acc048f4b5a8953a3172",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/90-Day GEO Implementation Sprint Plan (v2.0).md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/04_GEO_Strategy_Coordination/docs/Strategic_Analysis_AI_Lead_Gen.md",
+    "size_bytes": 8723,
+    "sha256": "0a7edf0dee0f65fc5ed0216942477bdfdb717e5a6efaaf723c326c2d03c6a870",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Strategic Analysis: AI Lead Generation Proposal for Global Sales Force.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/04_GEO_Strategy_Coordination/docs/research_geo.md",
+    "size_bytes": 13292,
+    "sha256": "11394f66a6f6c8e33612d006e29a74788382c97b3e7ad5ccf3087409b239f5b3",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Deep Research: GEO (Generative Engine Optimization) Strategies.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/04_GEO_Strategy_Coordination/docs/research_lead_gen.md",
+    "size_bytes": 7201,
+    "sha256": "64a8046b56e011afa7a80e72a6c101e53521de13812752b544c4eb526fc71211",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Deep Research: Lead Generation for Moving Companies.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/04_GEO_Strategy_Coordination/docs/research_notes.md",
+    "size_bytes": 2894,
+    "sha256": "a1b176284bda738d8601438c4e0a1307377d59e4b551d77e4ee9ec262f1fe11e",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/research_notes.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/04_GEO_Strategy_Coordination/docs/slide_content.md",
+    "size_bytes": 10812,
+    "sha256": "2afd65ddc43f9001509116767a26295cb6d81cdab379f95f724ce772fc775160",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/slide_content.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/04_GEO_Strategy_Coordination/docs/sprint_slide_content.md",
+    "size_bytes": 13617,
+    "sha256": "de92b597ef572ad60779690eb06aa30950666b50e02c1cbca3c743cf9040e580",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/sprint_slide_content.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/05_Technical_Foundation/audit_data/audit_critical_sites.md",
+    "size_bytes": 2467,
+    "sha256": "51f4eab69efc0afdba4b74e296fd49dd23e671b9410db12047952c5d6789f792",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/audit_critical_sites.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/05_Technical_Foundation/audit_data/audit_intl_websites_geo.csv",
+    "size_bytes": 1964,
+    "sha256": "9fb7ec0e2768308969901f17e156ca1ebb6998a62b637f94eaee206bbb396521",
+    "extension": ".csv",
+    "mime_guess": "text/csv",
+    "duplicate_of": "03_data_and_spreadsheets/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force/Global_Sales_Force/05_Technical_Foundation/audit_data/audit_intl_websites_geo.csv"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/05_Technical_Foundation/audit_data/audit_websites_geo.csv",
+    "size_bytes": 15216,
+    "sha256": "adbb7669c35e723b2bc828557ead39eb56c3f6ded2d94b498ade3a4f0e05f86e",
+    "extension": ".csv",
+    "mime_guess": "text/csv",
+    "duplicate_of": "03_data_and_spreadsheets/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force/Global_Sales_Force/05_Technical_Foundation/audit_data/audit_websites_geo.csv"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/05_Technical_Foundation/audit_data/intl_scorecard_categories.png",
+    "size_bytes": 79154,
+    "sha256": "ece934357245019d94000e6074793fe5fd7f81fd9692d8da92a56377d5402b59",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "duplicate_of": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/intl_scorecard_categories.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/05_Technical_Foundation/audit_data/intl_scorecard_heatmap.png",
+    "size_bytes": 139969,
+    "sha256": "f8e10b6563e0e774c42304ec5ea429ee38eea27fd381bb8437b7491aadfef82f",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "duplicate_of": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/intl_scorecard_heatmap.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/05_Technical_Foundation/audit_data/intl_scorecard_overall.png",
+    "size_bytes": 85585,
+    "sha256": "acdd71986f5dd4c1d7bcd480856e911f3947a109ea00ae08400cf1c4dba8887d",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "duplicate_of": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/intl_scorecard_overall.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/05_Technical_Foundation/audit_data/scorecard_categories.png",
+    "size_bytes": 64002,
+    "sha256": "65ffbfedbacda2a5981e47d82f2d12c264b5974c8402b0077e5d08f0e81c821d",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "duplicate_of": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/scorecard_categories.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/05_Technical_Foundation/audit_data/scorecard_heatmap.png",
+    "size_bytes": 144914,
+    "sha256": "b72cb3569d70352c51ccc608e1b0d91ed9530f96c2dd205b190f9e589f2927b2",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "duplicate_of": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/scorecard_heatmap.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/05_Technical_Foundation/audit_data/scorecard_overall.png",
+    "size_bytes": 146325,
+    "sha256": "b33f96893f670095bae25ff51bc4ee3fe340aebc345f9ab2090b1dd2c784407b",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "duplicate_of": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/scorecard_overall.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/05_Technical_Foundation/docs/Critical_Domains_Remediation_Plan.md",
+    "size_bytes": 7015,
+    "sha256": "255aa93621404bdbe290a51a911c85ffad4b230a128142a4d17cd6cb413e43b8",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Critical Domains Remediation Plan.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/05_Technical_Foundation/docs/GEO_Readiness_Audit_Report.md",
+    "size_bytes": 5803,
+    "sha256": "9b5f9cef868a0f17c69bc44eebe821c3e2235818bc5ec5e20794b10588e5bf6c",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force/Global_Sales_Force/05_Technical_Foundation/docs/GEO_Readiness_Audit_Report.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/05_Technical_Foundation/docs/GEO_Readiness_Audit_Report_International.md",
+    "size_bytes": 4992,
+    "sha256": "67669fb41b3e7a24ee1b70bddd48d02f5e8314d4ca0c440d776daaf4598231cb",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force/Global_Sales_Force/05_Technical_Foundation/docs/GEO_Readiness_Audit_Report_International.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/05_Technical_Foundation/docs/Technical_Foundation_Guide.md",
+    "size_bytes": 6956,
+    "sha256": "831f11484fced11925e1e02346e99be9f834943d8d684a67e785c4fbc0cc6f59",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Technical Foundation Implementation Guide (Weeks 1-2).md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/05_Technical_Foundation/docs/combined_slide_content.md",
+    "size_bytes": 6098,
+    "sha256": "dd434738ea89ba5c9b0f019c18c121c93a890a5a6b6008b9244ee35cf0f26a19",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/combined_slide_content.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/05_Technical_Foundation/docs/research_technical.md",
+    "size_bytes": 3665,
+    "sha256": "e7052900911d129feb9ebbd0ddbc17ccd287c569e4a1073c5a2be31c6d5d682a",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/research_technical.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/07_Community_Engagement/docs/Community_Engagement_Playbook.md",
+    "size_bytes": 7980,
+    "sha256": "6dc574b1031bfcb28cf17fa7ffadf0e39c52539a17d69fc682fbfb9979529d95",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Community Engagement Playbook: Global Sales Force.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/07_Community_Engagement/docs/SAVED_TASK_community_engagement.md",
+    "size_bytes": 2497,
+    "sha256": "1f75b727eee5955f24e8ce66431b159cae020e3a688bd19c25a1c11229e4ca77",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/SAVED TASK: Elaborate on Authentic Community Engagement Phase.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/07_Community_Engagement/docs/research_communities.md",
+    "size_bytes": 6259,
+    "sha256": "cf32d83dabc7941c1b136df5f91a1b2eb0fb78491c8da3cb0c19ada948e7e95b",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/research_communities.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/README.md",
+    "size_bytes": 5489,
+    "sha256": "780f9368c754b12776d00ab66e3a8953539db201597be76630471875ed3af8e7",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Global Sales Force \u2014 Project Hub.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/_Master/knowledge_base/companies.md",
+    "size_bytes": 1439,
+    "sha256": "2d583148ebc1275e20464a43ec85922becd3ae3d33a7b2a39487de2ef27748fb",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/companies.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/_Master/knowledge_base/knowledgebase.md",
+    "size_bytes": 37019,
+    "sha256": "8c3d1614686f98ad8db5bce16258388c712a176fdf7f424cd03c5a074d9319a1",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/knowledgebase.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/_Master/meeting_notes/Meeting_Key_Points_and_Roadmap.md",
+    "size_bytes": 10786,
+    "sha256": "03d6ab77334e77a6fc213f709bae2b55a36a3271fb8b8f70f7b07c748437fa11",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Meeting with Alex \u2014 Key Points & Roadmap.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/_Master/meeting_notes/transcript.txt",
+    "size_bytes": 14938,
+    "sha256": "9ae69c5c0b6b6cef9bbfa582e037b3e287f83559a07b7b24b33fa2eea1601863",
+    "extension": ".txt",
+    "mime_guess": "text/plain",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/transcript.txt"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/_Master/task_lists/Master_Task_List.md",
+    "size_bytes": 6201,
+    "sha256": "ae6afa6bb83cb385a5da66769c37014f12ff6c8733b3b3044e83ddc519cd65f1",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Global Sales Force \u2014 Master Task List.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/_Master/task_lists/SAVED_TASK_5_Day_Review_Agent_Build.md",
+    "size_bytes": 5229,
+    "sha256": "a708e26ca603c15589011a09ba3735414fe1573277a95e8517a00aefd55a89bf",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/SAVED TASK: 5-Day Review Agent Build Plan.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Global_Sales_Force/_Master/task_lists/SAVED_TASK_community_engagement.md",
+    "size_bytes": 2497,
+    "sha256": "1f75b727eee5955f24e8ce66431b159cae020e3a688bd19c25a1c11229e4ca77",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/SAVED TASK: Elaborate on Authentic Community Engagement Phase.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Justin_Review_Agent_Implementation_Guide.md",
+    "size_bytes": 6546,
+    "sha256": "5c0599c3eece9ead455270238eeb300e33ae02d90e15f1698b8b53be86ae9ddf",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/The Developer's Guide: Building the Automated Review Agent.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Master_Task_List.md",
+    "size_bytes": 6201,
+    "sha256": "ae6afa6bb83cb385a5da66769c37014f12ff6c8733b3b3044e83ddc519cd65f1",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Global Sales Force \u2014 Master Task List.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Meeting_Key_Points_and_Roadmap.md",
+    "size_bytes": 10786,
+    "sha256": "03d6ab77334e77a6fc213f709bae2b55a36a3271fb8b8f70f7b07c748437fa11",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Meeting with Alex \u2014 Key Points & Roadmap.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Review_Agent_Dev_Handoff.md",
+    "size_bytes": 5319,
+    "sha256": "5fc3edce35688240575b62796ea5324aec160ae9cce50b0fdb9e26d25bacbfee",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Developer Handoff Specification: Automated Review Solicitation Agent.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/SAVED_TASK_5_Day_Review_Agent_Build.md",
+    "size_bytes": 5229,
+    "sha256": "a708e26ca603c15589011a09ba3735414fe1573277a95e8517a00aefd55a89bf",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/SAVED TASK: 5-Day Review Agent Build Plan.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/SAVED_TASK_community_engagement.md",
+    "size_bytes": 2497,
+    "sha256": "1f75b727eee5955f24e8ce66431b159cae020e3a688bd19c25a1c11229e4ca77",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/SAVED TASK: Elaborate on Authentic Community Engagement Phase.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Strategic_Analysis_AI_Lead_Gen.md",
+    "size_bytes": 8723,
+    "sha256": "0a7edf0dee0f65fc5ed0216942477bdfdb717e5a6efaaf723c326c2d03c6a870",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Strategic Analysis: AI Lead Generation Proposal for Global Sales Force.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/Technical_Foundation_Guide.md",
+    "size_bytes": 6956,
+    "sha256": "831f11484fced11925e1e02346e99be9f834943d8d684a67e785c4fbc0cc6f59",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Technical Foundation Implementation Guide (Weeks 1-2).md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/analysis.md",
+    "size_bytes": 10970,
+    "sha256": "011bbae3e61b3df6589476a1d899b38d15182490583c220abe67e78e5d2095d2",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/analysis.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/audit_critical_sites.md",
+    "size_bytes": 2467,
+    "sha256": "51f4eab69efc0afdba4b74e296fd49dd23e671b9410db12047952c5d6789f792",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/audit_critical_sites.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/audit_intl_websites_geo.csv",
+    "size_bytes": 1964,
+    "sha256": "9fb7ec0e2768308969901f17e156ca1ebb6998a62b637f94eaee206bbb396521",
+    "extension": ".csv",
+    "mime_guess": "text/csv",
+    "duplicate_of": "03_data_and_spreadsheets/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force/Global_Sales_Force/05_Technical_Foundation/audit_data/audit_intl_websites_geo.csv"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/audit_websites_geo.csv",
+    "size_bytes": 15216,
+    "sha256": "adbb7669c35e723b2bc828557ead39eb56c3f6ded2d94b498ade3a4f0e05f86e",
+    "extension": ".csv",
+    "mime_guess": "text/csv",
+    "duplicate_of": "03_data_and_spreadsheets/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force/Global_Sales_Force/05_Technical_Foundation/audit_data/audit_websites_geo.csv"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/combined_slide_content.md",
+    "size_bytes": 6098,
+    "sha256": "dd434738ea89ba5c9b0f019c18c121c93a890a5a6b6008b9244ee35cf0f26a19",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/combined_slide_content.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/companies.md",
+    "size_bytes": 1439,
+    "sha256": "2d583148ebc1275e20464a43ec85922becd3ae3d33a7b2a39487de2ef27748fb",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/companies.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/intl_scorecard_categories.png",
+    "size_bytes": 79154,
+    "sha256": "ece934357245019d94000e6074793fe5fd7f81fd9692d8da92a56377d5402b59",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "duplicate_of": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/intl_scorecard_categories.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/intl_scorecard_heatmap.png",
+    "size_bytes": 139969,
+    "sha256": "f8e10b6563e0e774c42304ec5ea429ee38eea27fd381bb8437b7491aadfef82f",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "duplicate_of": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/intl_scorecard_heatmap.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/intl_scorecard_overall.png",
+    "size_bytes": 85585,
+    "sha256": "acdd71986f5dd4c1d7bcd480856e911f3947a109ea00ae08400cf1c4dba8887d",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "duplicate_of": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/intl_scorecard_overall.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/knowledgebase.md",
+    "size_bytes": 37019,
+    "sha256": "8c3d1614686f98ad8db5bce16258388c712a176fdf7f424cd03c5a074d9319a1",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/knowledgebase.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/research_communities.md",
+    "size_bytes": 6259,
+    "sha256": "cf32d83dabc7941c1b136df5f91a1b2eb0fb78491c8da3cb0c19ada948e7e95b",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/research_communities.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/research_crm.md",
+    "size_bytes": 1388,
+    "sha256": "e3000ec6ff0dcf891be124f2d1e0f088759bf643ba0daf7a87983c3b5b20a9f1",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/research_crm.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/research_geo.md",
+    "size_bytes": 13292,
+    "sha256": "11394f66a6f6c8e33612d006e29a74788382c97b3e7ad5ccf3087409b239f5b3",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Deep Research: GEO (Generative Engine Optimization) Strategies.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/research_lead_gen.md",
+    "size_bytes": 7201,
+    "sha256": "64a8046b56e011afa7a80e72a6c101e53521de13812752b544c4eb526fc71211",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Deep Research: Lead Generation for Moving Companies.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/research_notes.md",
+    "size_bytes": 2894,
+    "sha256": "a1b176284bda738d8601438c4e0a1307377d59e4b551d77e4ee9ec262f1fe11e",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/research_notes.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/research_platform_policies.md",
+    "size_bytes": 8292,
+    "sha256": "8797fbd0fe57b4a2fab4c86abeb055619fbfe09d0fb668ee89f2015a0bd0fa3b",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Platform Policy Deep Dive \u2014 Fine Print Analysis.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/research_review_agent.md",
+    "size_bytes": 5186,
+    "sha256": "6215a6d89a0e3dd4032b8250668512144510ac668462ef69b4101ab799f503b2",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/research_review_agent.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/research_technical.md",
+    "size_bytes": 3665,
+    "sha256": "e7052900911d129feb9ebbd0ddbc17ccd287c569e4a1073c5a2be31c6d5d682a",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/research_technical.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/review_agent/.env.example",
+    "size_bytes": 962,
+    "sha256": "9073bfe38105ba4f27825228fd1e9d54fc79af02614d44ab995443c207986ea1",
+    "extension": ".example",
+    "mime_guess": null,
+    "duplicate_of": "06_other_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/.env.example"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/review_agent/README.md",
+    "size_bytes": 6312,
+    "sha256": "8f7f4d4abc7bf2aba4230c2d5b847a0fa5a7a9b0cc248e5a809666fc1d4f03b3",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Review Agent \u2014 Automated Review Solicitation System.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/review_agent/config.py",
+    "size_bytes": 5501,
+    "sha256": "cdb451d90a2f6abe032d1fff4cfeb3450b2d9fa046153171f936f47d7dd505a4",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/config.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/review_agent/csv_importer.py",
+    "size_bytes": 4964,
+    "sha256": "bff0c03a692e6814c600302f86c31de2155348bfd146c02f28a942406aefd312",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/csv_importer.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/review_agent/csv_inbox/sample_completed_moves.csv",
+    "size_bytes": 414,
+    "sha256": "f81f823bc8a2af59a7570eec5f776e583d846ed8a0d0dca1e41ad5d35d100ec2",
+    "extension": ".csv",
+    "mime_guess": "text/csv",
+    "duplicate_of": "03_data_and_spreadsheets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/sample_completed_moves.csv"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/review_agent/database.py",
+    "size_bytes": 7779,
+    "sha256": "ab69b42ed897399db5bf835c3b8175de28c9984eb9379d63d136ea7cd23f061d",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/database.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/review_agent/gift_card_sender.py",
+    "size_bytes": 3392,
+    "sha256": "9cf3c90f17042fe88ac6c2c77f5b320a5a81c92de4d9b4697c48bbb894f4379d",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/gift_card_sender.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/review_agent/requirements.txt",
+    "size_bytes": 44,
+    "sha256": "ba566044db8ff1d97da261498ca9525ca94a1b62e24fb36a22f18f37db8d3a4b",
+    "extension": ".txt",
+    "mime_guess": "text/plain",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/requirements.txt"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/review_agent/server.py",
+    "size_bytes": 6001,
+    "sha256": "7f08a2a67eda1cb4662a9ef8f091aa966aed93ac93e18a4bdbc7df960f40c173",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/server.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/review_agent/sms_sender.py",
+    "size_bytes": 4458,
+    "sha256": "467544d6c324bcb40e6b68acfb3620d3e66722e0724f96c1452f1c8362dcd13f",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/sms_sender.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/review_agent/templates/google_apps_script.js",
+    "size_bytes": 2435,
+    "sha256": "e601b98688471a99bd57f335397a82acb5f3241acdd56e4c0f6e58edb4249680",
+    "extension": ".js",
+    "mime_guess": "text/javascript",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/google_apps_script.js"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/review_agent/test_agent.py",
+    "size_bytes": 15077,
+    "sha256": "5687f0f695c0e10ef35b676de467e3de370d39e450c0ea34798a8cedeb8a3a5f",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/test_agent.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/review_agent/worker.py",
+    "size_bytes": 5602,
+    "sha256": "169cafda9997587fa91254c505f9963e371d628355e347581e1cd39f599a6ebb",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/worker.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/review_agent.zip",
+    "size_bytes": 22280,
+    "sha256": "610f2e10c4f32f226e43e44d2c96d25503723fec26ba86f8d1259491051a72ed",
+    "extension": ".zip",
+    "mime_guess": "application/zip",
+    "duplicate_of": "05_nested_archives/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/review_agent.zip"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/review_agent_slide_content.md",
+    "size_bytes": 8660,
+    "sha256": "5d65e0e171c4bff3f8798a2927147042ffebcc0fbf97cb8bc951ed584adf9ae1",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/review_agent_slide_content.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/scorecard_categories.png",
+    "size_bytes": 64002,
+    "sha256": "65ffbfedbacda2a5981e47d82f2d12c264b5974c8402b0077e5d08f0e81c821d",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "duplicate_of": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/scorecard_categories.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/scorecard_heatmap.png",
+    "size_bytes": 144914,
+    "sha256": "b72cb3569d70352c51ccc608e1b0d91ed9530f96c2dd205b190f9e589f2927b2",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "duplicate_of": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/scorecard_heatmap.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/scorecard_overall.png",
+    "size_bytes": 146325,
+    "sha256": "b33f96893f670095bae25ff51bc4ee3fe340aebc345f9ab2090b1dd2c784407b",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "duplicate_of": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/scorecard_overall.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/scripts/check_viewport.py",
+    "size_bytes": 554,
+    "sha256": "a82cd4ce9f5a07e4d76540050f5dd9944502c221caa2d9cb237940dd3db29324",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/check_viewport.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/scripts/generate_intl_scorecard.py",
+    "size_bytes": 9000,
+    "sha256": "639a731574ef96c3692ad8ce4fde5dc0ce34a3225b5929b59954814ec21311bf",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/generate_intl_scorecard.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/scripts/generate_scorecard.py",
+    "size_bytes": 10826,
+    "sha256": "d3beac1e016065c890de4f9b9f834717f80db657ad76419036e58050bd577203",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/generate_scorecard.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/slide_content.md",
+    "size_bytes": 10812,
+    "sha256": "2afd65ddc43f9001509116767a26295cb6d81cdab379f95f724ce772fc775160",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/slide_content.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/sprint_slide_content.md",
+    "size_bytes": 13617,
+    "sha256": "de92b597ef572ad60779690eb06aa30950666b50e02c1cbca3c743cf9040e580",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/sprint_slide_content.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/transcript.txt",
+    "size_bytes": 14938,
+    "sha256": "9ae69c5c0b6b6cef9bbfa582e037b3e287f83559a07b7b24b33fa2eea1601863",
+    "extension": ".txt",
+    "mime_guess": "text/plain",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/transcript.txt"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/uploads/NewRecording2.m4a",
+    "size_bytes": 13773009,
+    "sha256": "313cf8fe6744eb5866fa6ac2f5ddd624744873bcc3edff4ef53c2da320283325",
+    "extension": ".m4a",
+    "mime_guess": "audio/mp4",
+    "duplicate_of": "06_other_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/NewRecording2.m4a"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/uploads/Pasted_content.txt",
+    "size_bytes": 13720,
+    "sha256": "4ad37faf164662308e6c5cdb50efbdd4a3845049e95cecedc591d03cdc2181cc",
+    "extension": ".txt",
+    "mime_guess": "text/plain",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Pasted_content.txt"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/uploads/pasted_file_0lXtKW_image.png",
+    "size_bytes": 76639,
+    "sha256": "2aed4e5b2cdc7b1ce0843c12e090087b4697cb467cc0aa8fe48a3b1125d245ca",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "duplicate_of": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/pasted_file_0lXtKW_image.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/uploads/pasted_file_MM4ymI_image.png",
+    "size_bytes": 38114,
+    "sha256": "2a1fd00081361f0a16399e82909e51b50260e5347e05ed18ecac484cdf64bb26",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "duplicate_of": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/pasted_file_MM4ymI_image.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/uploads/pasted_file_q8my2m_image.png",
+    "size_bytes": 41621,
+    "sha256": "8e71caa3088bba38e7b8454cf6a5143995c0303a0f903d3345b5166d3f5da4ac",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "duplicate_of": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/pasted_file_q8my2m_image.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__03_Automated_Review_Agent__src__review_agent",
+    "relative_path": "review_agent/.env.example",
+    "size_bytes": 962,
+    "sha256": "9073bfe38105ba4f27825228fd1e9d54fc79af02614d44ab995443c207986ea1",
+    "extension": ".example",
+    "mime_guess": null,
+    "duplicate_of": "06_other_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/.env.example"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__03_Automated_Review_Agent__src__review_agent",
+    "relative_path": "review_agent/README.md",
+    "size_bytes": 6312,
+    "sha256": "8f7f4d4abc7bf2aba4230c2d5b847a0fa5a7a9b0cc248e5a809666fc1d4f03b3",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Review Agent \u2014 Automated Review Solicitation System.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__03_Automated_Review_Agent__src__review_agent",
+    "relative_path": "review_agent/config.py",
+    "size_bytes": 5501,
+    "sha256": "cdb451d90a2f6abe032d1fff4cfeb3450b2d9fa046153171f936f47d7dd505a4",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/config.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__03_Automated_Review_Agent__src__review_agent",
+    "relative_path": "review_agent/csv_importer.py",
+    "size_bytes": 4964,
+    "sha256": "bff0c03a692e6814c600302f86c31de2155348bfd146c02f28a942406aefd312",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/csv_importer.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__03_Automated_Review_Agent__src__review_agent",
+    "relative_path": "review_agent/csv_inbox/sample_completed_moves.csv",
+    "size_bytes": 414,
+    "sha256": "f81f823bc8a2af59a7570eec5f776e583d846ed8a0d0dca1e41ad5d35d100ec2",
+    "extension": ".csv",
+    "mime_guess": "text/csv",
+    "duplicate_of": "03_data_and_spreadsheets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/sample_completed_moves.csv"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__03_Automated_Review_Agent__src__review_agent",
+    "relative_path": "review_agent/database.py",
+    "size_bytes": 7779,
+    "sha256": "ab69b42ed897399db5bf835c3b8175de28c9984eb9379d63d136ea7cd23f061d",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/database.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__03_Automated_Review_Agent__src__review_agent",
+    "relative_path": "review_agent/gift_card_sender.py",
+    "size_bytes": 3392,
+    "sha256": "9cf3c90f17042fe88ac6c2c77f5b320a5a81c92de4d9b4697c48bbb894f4379d",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/gift_card_sender.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__03_Automated_Review_Agent__src__review_agent",
+    "relative_path": "review_agent/requirements.txt",
+    "size_bytes": 44,
+    "sha256": "ba566044db8ff1d97da261498ca9525ca94a1b62e24fb36a22f18f37db8d3a4b",
+    "extension": ".txt",
+    "mime_guess": "text/plain",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/requirements.txt"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__03_Automated_Review_Agent__src__review_agent",
+    "relative_path": "review_agent/server.py",
+    "size_bytes": 6001,
+    "sha256": "7f08a2a67eda1cb4662a9ef8f091aa966aed93ac93e18a4bdbc7df960f40c173",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/server.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__03_Automated_Review_Agent__src__review_agent",
+    "relative_path": "review_agent/sms_sender.py",
+    "size_bytes": 4458,
+    "sha256": "467544d6c324bcb40e6b68acfb3620d3e66722e0724f96c1452f1c8362dcd13f",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/sms_sender.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__03_Automated_Review_Agent__src__review_agent",
+    "relative_path": "review_agent/templates/google_apps_script.js",
+    "size_bytes": 2435,
+    "sha256": "e601b98688471a99bd57f335397a82acb5f3241acdd56e4c0f6e58edb4249680",
+    "extension": ".js",
+    "mime_guess": "text/javascript",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/google_apps_script.js"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__03_Automated_Review_Agent__src__review_agent",
+    "relative_path": "review_agent/test_agent.py",
+    "size_bytes": 15077,
+    "sha256": "5687f0f695c0e10ef35b676de467e3de370d39e450c0ea34798a8cedeb8a3a5f",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/test_agent.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__03_Automated_Review_Agent__src__review_agent",
+    "relative_path": "review_agent/worker.py",
+    "size_bytes": 5602,
+    "sha256": "169cafda9997587fa91254c505f9963e371d628355e347581e1cd39f599a6ebb",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/worker.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/modules/__init__.py",
+    "size_bytes": 1,
+    "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2/home/ubuntu/bot_a_lead_quoting_engine/config/__init__.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/tests/__init__.py",
+    "size_bytes": 1,
+    "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2/home/ubuntu/bot_a_lead_quoting_engine/config/__init__.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/03_IMAGE_ASSETS/hero_expert_move.png",
+    "size_bytes": 2177571,
+    "sha256": "2a39859cf203c9a54db7146a855aea1cdb53549ef9864dd5fe756ba6eb9c51e6",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "duplicate_of": "04_media_assets/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/assets/hero_expert_move.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/03_IMAGE_ASSETS/hero_normal_move.png",
+    "size_bytes": 1906822,
+    "sha256": "cf68a34d6342faf6b6409756f3db974251b94698f28f04e472615b80b392cdb6",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "duplicate_of": "04_media_assets/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/assets/hero_normal_move.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/03_IMAGE_ASSETS/hero_web_banner.png",
+    "size_bytes": 1759999,
+    "sha256": "b8023abc203852fe42d355dd12e17720d422794dfba15463abb367c4cc1a0198",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "duplicate_of": "04_media_assets/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/assets/hero_web_banner.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/03_IMAGE_ASSETS/truck_diagram.png",
+    "size_bytes": 1469476,
+    "sha256": "beae4336496318a1b74717e7a17f82f870f7e913c6dc4a72a6582b4882074f47",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "duplicate_of": "04_media_assets/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/assets/truck_diagram.png"
+  },
+  {
+    "source_archive_slug": "bot_a_lead_quoting_engine_v3",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/.env.example",
+    "size_bytes": 1329,
+    "sha256": "b72787ad2910435942d45c82ce3318cdd19b78a02e981b2796019e65a1e7ee8e",
+    "extension": ".example",
+    "mime_guess": null,
+    "duplicate_of": "06_other_assets/Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2/home/ubuntu/bot_a_lead_quoting_engine/.env.example"
+  },
+  {
+    "source_archive_slug": "bot_a_lead_quoting_engine_v3",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/.gitignore",
+    "size_bytes": 88,
+    "sha256": "dfe08d394e291c6da5a5366e8ae3af46740ffbf049bc5bbf921deb4c77538a64",
+    "extension": "",
+    "mime_guess": null,
+    "duplicate_of": "06_other_assets/Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2/home/ubuntu/bot_a_lead_quoting_engine/.gitignore"
+  },
+  {
+    "source_archive_slug": "bot_a_lead_quoting_engine_v3",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/README.md",
+    "size_bytes": 2443,
+    "sha256": "75d36d80f4f91e7eed126638c963f17ce68b0eb4cf73550ecbfd6eb115285d2c",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2/home/ubuntu/bot_a_lead_quoting_engine/README.md"
+  },
+  {
+    "source_archive_slug": "bot_a_lead_quoting_engine_v3",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/config/__init__.py",
+    "size_bytes": 1,
+    "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2/home/ubuntu/bot_a_lead_quoting_engine/config/__init__.py"
+  },
+  {
+    "source_archive_slug": "bot_a_lead_quoting_engine_v3",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/data/Auto_Shipping_Training_Data_Combined.csv",
+    "size_bytes": 8124960,
+    "sha256": "13f386f958c0fa2ffd1a1608252a781973bf81e11ce319135f9c9925492295ed",
+    "extension": ".csv",
+    "mime_guess": "text/csv",
+    "duplicate_of": "03_data_and_spreadsheets/Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2/home/ubuntu/bot_a_lead_quoting_engine/data/Auto_Shipping_Training_Data_Combined.csv"
+  },
+  {
+    "source_archive_slug": "bot_a_lead_quoting_engine_v3",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/modules/__init__.py",
+    "size_bytes": 1,
+    "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2/home/ubuntu/bot_a_lead_quoting_engine/config/__init__.py"
+  },
+  {
+    "source_archive_slug": "bot_a_lead_quoting_engine_v3",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/requirements.txt",
+    "size_bytes": 346,
+    "sha256": "a671d525a92afc52fb22a474fa214b5e9e5f69f87b4e74de055e561259e344ad",
+    "extension": ".txt",
+    "mime_guess": "text/plain",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2/home/ubuntu/bot_a_lead_quoting_engine/requirements.txt"
+  },
+  {
+    "source_archive_slug": "bot_a_lead_quoting_engine_v3",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/tests/__init__.py",
+    "size_bytes": 1,
+    "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2/home/ubuntu/bot_a_lead_quoting_engine/config/__init__.py"
+  },
+  {
+    "source_archive_slug": "bot_a_lead_quoting_engine_v3",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/tests/test_full_pipeline.py",
+    "size_bytes": 10358,
+    "sha256": "df499f6aef968c2c7f4fbf84ce0787587a43c85e8fec398fa346e1a480519aaf",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2/home/ubuntu/bot_a_lead_quoting_engine/tests/test_full_pipeline.py"
+  },
+  {
+    "source_archive_slug": "bot_a_lead_quoting_engine_v3",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/tests/test_pricing_engine.py",
+    "size_bytes": 7598,
+    "sha256": "611386f2a3bd7a98a6ebcef8cd6fb712802944a5248d85fc8f789136490f5093",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2/home/ubuntu/bot_a_lead_quoting_engine/tests/test_pricing_engine.py"
+  },
+  {
+    "source_archive_slug": "drive_id_1inM9__code__review_agent",
+    "relative_path": "review_agent/.env.example",
+    "size_bytes": 962,
+    "sha256": "9073bfe38105ba4f27825228fd1e9d54fc79af02614d44ab995443c207986ea1",
+    "extension": ".example",
+    "mime_guess": null,
+    "duplicate_of": "06_other_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/.env.example"
+  },
+  {
+    "source_archive_slug": "drive_id_1inM9__code__review_agent",
+    "relative_path": "review_agent/README.md",
+    "size_bytes": 6312,
+    "sha256": "8f7f4d4abc7bf2aba4230c2d5b847a0fa5a7a9b0cc248e5a809666fc1d4f03b3",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Review Agent \u2014 Automated Review Solicitation System.md"
+  },
+  {
+    "source_archive_slug": "drive_id_1inM9__code__review_agent",
+    "relative_path": "review_agent/config.py",
+    "size_bytes": 5501,
+    "sha256": "cdb451d90a2f6abe032d1fff4cfeb3450b2d9fa046153171f936f47d7dd505a4",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/config.py"
+  },
+  {
+    "source_archive_slug": "drive_id_1inM9__code__review_agent",
+    "relative_path": "review_agent/csv_importer.py",
+    "size_bytes": 4964,
+    "sha256": "bff0c03a692e6814c600302f86c31de2155348bfd146c02f28a942406aefd312",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/csv_importer.py"
+  },
+  {
+    "source_archive_slug": "drive_id_1inM9__code__review_agent",
+    "relative_path": "review_agent/csv_inbox/sample_completed_moves.csv",
+    "size_bytes": 414,
+    "sha256": "f81f823bc8a2af59a7570eec5f776e583d846ed8a0d0dca1e41ad5d35d100ec2",
+    "extension": ".csv",
+    "mime_guess": "text/csv",
+    "duplicate_of": "03_data_and_spreadsheets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/sample_completed_moves.csv"
+  },
+  {
+    "source_archive_slug": "drive_id_1inM9__code__review_agent",
+    "relative_path": "review_agent/database.py",
+    "size_bytes": 7779,
+    "sha256": "ab69b42ed897399db5bf835c3b8175de28c9984eb9379d63d136ea7cd23f061d",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/database.py"
+  },
+  {
+    "source_archive_slug": "drive_id_1inM9__code__review_agent",
+    "relative_path": "review_agent/gift_card_sender.py",
+    "size_bytes": 3392,
+    "sha256": "9cf3c90f17042fe88ac6c2c77f5b320a5a81c92de4d9b4697c48bbb894f4379d",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/gift_card_sender.py"
+  },
+  {
+    "source_archive_slug": "drive_id_1inM9__code__review_agent",
+    "relative_path": "review_agent/requirements.txt",
+    "size_bytes": 44,
+    "sha256": "ba566044db8ff1d97da261498ca9525ca94a1b62e24fb36a22f18f37db8d3a4b",
+    "extension": ".txt",
+    "mime_guess": "text/plain",
+    "duplicate_of": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/requirements.txt"
+  },
+  {
+    "source_archive_slug": "drive_id_1inM9__code__review_agent",
+    "relative_path": "review_agent/server.py",
+    "size_bytes": 6001,
+    "sha256": "7f08a2a67eda1cb4662a9ef8f091aa966aed93ac93e18a4bdbc7df960f40c173",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/server.py"
+  },
+  {
+    "source_archive_slug": "drive_id_1inM9__code__review_agent",
+    "relative_path": "review_agent/sms_sender.py",
+    "size_bytes": 4458,
+    "sha256": "467544d6c324bcb40e6b68acfb3620d3e66722e0724f96c1452f1c8362dcd13f",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/sms_sender.py"
+  },
+  {
+    "source_archive_slug": "drive_id_1inM9__code__review_agent",
+    "relative_path": "review_agent/templates/google_apps_script.js",
+    "size_bytes": 2435,
+    "sha256": "e601b98688471a99bd57f335397a82acb5f3241acdd56e4c0f6e58edb4249680",
+    "extension": ".js",
+    "mime_guess": "text/javascript",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/google_apps_script.js"
+  },
+  {
+    "source_archive_slug": "drive_id_1inM9__code__review_agent",
+    "relative_path": "review_agent/test_agent.py",
+    "size_bytes": 15077,
+    "sha256": "5687f0f695c0e10ef35b676de467e3de370d39e450c0ea34798a8cedeb8a3a5f",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/test_agent.py"
+  },
+  {
+    "source_archive_slug": "drive_id_1inM9__code__review_agent",
+    "relative_path": "review_agent/worker.py",
+    "size_bytes": 5602,
+    "sha256": "169cafda9997587fa91254c505f9963e371d628355e347581e1cd39f599a6ebb",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "duplicate_of": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/worker.py"
+  }
+]

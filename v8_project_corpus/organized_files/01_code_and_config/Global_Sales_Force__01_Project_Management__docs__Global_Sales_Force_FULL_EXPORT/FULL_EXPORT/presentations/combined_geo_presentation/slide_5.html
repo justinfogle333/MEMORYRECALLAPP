@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.9.1"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container {
+            width: 1280px;
+            min-height: 720px;
+            background-color: #0f172a;
+            font-family: 'Inter', sans-serif;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+        .header {
+            padding-top: 60px;
+            padding-left: 80px;
+            padding-right: 80px;
+            margin-bottom: 20px; /* reduced from 40px to save vertical space */
+        }
+        .slide-title {
+            font-size: 48px;
+            font-weight: 900;
+            color: #ffffff;
+            line-height: 1.2;
+            border-left: 8px solid #3b82f6;
+            padding-left: 24px;
+        }
+        .content-wrapper {
+            display: flex;
+            flex: 1;
+            padding-left: 80px;
+            padding-right: 80px;
+            gap: 40px;
+        }
+        .left-col {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        .right-col {
+            flex: 1.5;
+            display: flex;
+            flex-direction: column;
+        }
+        .score-card {
+            background-color: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 24px;
+            border-left-width: 6px;
+            border-left-style: solid;
+        }
+        .score-card.domestic {
+            border-left-color: #3b82f6;
+        }
+        .score-card.international {
+            border-left-color: #10b981;
+        }
+        .score-title {
+            font-size: 24px;
+            font-weight: 700;
+            color: #ffffff;
+            margin-bottom: 8px;
+        }
+        .score-value {
+            font-size: 64px;
+            font-weight: 900;
+            line-height: 1;
+            margin-bottom: 12px;
+        }
+        .domestic .score-value { color: #3b82f6; }
+        .international .score-value { color: #10b981; }
+        .score-max {
+            font-size: 24px;
+            color: #94a3b8;
+            font-weight: 400;
+        }
+        .score-desc {
+            font-size: 18px;
+            color: #e2e8f0;
+            line-height: 1.5;
+        }
+        .chart-container {
+            height: 480px;
+            width: 100%;
+            background-color: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 24px;
+        }
+        .chart-title {
+            font-size: 20px;
+            font-weight: 700;
+            color: #ffffff;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .image-container {
+            width: 100%;
+            height: 105px; /* reduced from 160px to fit within 720px total */
+            background-color: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .image-container img {
+            max-width: 100%;
+            max-height: 100%;
+            object-fit: contain;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <h2 class="slide-title">Domestic vs. International — The Gap Is Clear</h2>
+        </div>
+        
+        <div class="content-wrapper">
+            <div class="left-col">
+                <div class="score-card domestic">
+                    <div class="score-title">Domestic Portfolio</div>
+                    <div class="score-value">68<span class="score-max">/100</span></div>
+                    <div class="score-desc">Solid foundation, needs AI-specific signals</div>
+                </div>
+                <div class="score-card international">
+                    <div class="score-title">International Portfolio</div>
+                    <div class="score-value">50<span class="score-max">/100</span></div>
+                    <div class="score-desc">Significant gaps in every category</div>
+                </div>
+                <div class="image-container">
+                    <img src="/home/ubuntu/upload/pasted_file_0lXtKW_image.png" alt="Brand Portfolio Emails">
+                </div>
+            </div>
+            
+            <div class="right-col">
+                <div class="chart-container">
+                    <div class="chart-title">Category Comparison: Domestic vs. International</div>
+                    <div style="height: 390px; width: 100%;">
+                        <canvas id="comparisonChart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const ctx = document.getElementById('comparisonChart').getContext('2d');
+            new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: ['Technical Foundation', 'Content Quality', 'Trust & Authority', 'AI Discoverability'],
+                    datasets: [
+                        {
+                            label: 'Domestic (14 Brands)',
+                            data: [96, 69, 59, 59],
+                            backgroundColor: '#3b82f6',
+                            borderRadius: 4
+                        },
+                        {
+                            label: 'International (5 Brands)',
+                            data: [90, 50, 45, 28],
+                            backgroundColor: '#10b981',
+                            borderRadius: 4
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'top',
+                            labels: { 
+                                color: '#ffffff', 
+                                font: { size: 14, family: 'Inter' },
+                                padding: 20
+                            }
+                        },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    return context.dataset.label + ': ' + context.raw + '%';
+                                }
+                            }
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            max: 100,
+                            grid: { color: 'rgba(255,255,255,0.1)' },
+                            ticks: { 
+                                color: '#94a3b8', 
+                                font: { size: 14, family: 'Inter' },
+                                callback: function(value) { return value + '%'; }
+                            }
+                        },
+                        x: {
+                            grid: { display: false },
+                            ticks: { color: '#e2e8f0', font: { size: 14, family: 'Inter' } }
+                        }
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container {
+            width: 1280px;
+            min-height: 720px;
+            background-color: #0f172a;
+            font-family: 'Inter', sans-serif;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+        .header {
+            padding-top: 60px;
+            padding-left: 80px;
+            padding-right: 80px;
+            margin-bottom: 40px;
+        }
+        .phase-label {
+            font-size: 24px;
+            font-weight: 700;
+            color: #10b981;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 16px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .phase-label::before {
+            content: "";
+            display: block;
+            width: 40px;
+            height: 4px;
+            background-color: #10b981;
+        }
+        .slide-title {
+            font-size: 48px;
+            font-weight: 900;
+            color: #ffffff;
+            line-height: 1.2;
+        }
+        .content-wrapper {
+            display: flex;
+            flex: 1;
+            padding-left: 80px;
+            padding-right: 80px;
+            gap: 60px;
+            padding-bottom: 60px;
+        }
+        .left-col {
+            flex: 1.2;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            gap: 30px;
+        }
+        .right-col {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            gap: 20px;
+        }
+        .context-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 20px;
+        }
+        .context-icon {
+            width: 48px;
+            height: 48px;
+            background-color: rgba(59, 130, 246, 0.1);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-shrink: 0;
+        }
+        .context-icon i {
+            font-size: 24px;
+            color: #3b82f6;
+        }
+        .context-text {
+            font-size: 22px;
+            color: #e2e8f0;
+            line-height: 1.5;
+        }
+        .highlight {
+            color: #ffffff;
+            font-weight: 700;
+        }
+        .warning-highlight {
+            color: #ef4444;
+            font-weight: 700;
+        }
+        .exec-block {
+            background-color: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 24px 30px;
+            border-left: 6px solid #3b82f6;
+        }
+        .exec-block.kpi {
+            border-left-color: #10b981;
+            background-color: rgba(16, 185, 129, 0.05);
+        }
+        .exec-label {
+            font-size: 16px;
+            color: #94a3b8;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-weight: 700;
+            margin-bottom: 8px;
+        }
+        .exec-value {
+            font-size: 24px;
+            color: #ffffff;
+            font-weight: 700;
+            line-height: 1.4;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <div class="phase-label">Phase 2 &bull; Weeks 3-4</div>
+            <h2 class="slide-title">Build the Content AI Engines Pull Answers From</h2>
+        </div>
+        
+        <div class="content-wrapper">
+            <div class="left-col">
+                <div class="context-item">
+                    <div class="context-icon"><i class="fas fa-brain"></i></div>
+                    <div class="context-text">
+                        AI engines generate recommendations from <span class="highlight">structured, factual content</span>. They do not read marketing fluff.
+                    </div>
+                </div>
+                
+                <div class="context-item">
+                    <div class="context-icon"><i class="fas fa-question-circle"></i></div>
+                    <div class="context-text">
+                        <span class="warning-highlight">11 of 19 sites</span> lack FAQ sections — the #1 content type AI engines extract for direct answers.
+                    </div>
+                </div>
+                
+                <div class="context-item">
+                    <div class="context-icon"><i class="fas fa-users"></i></div>
+                    <div class="context-text">
+                        <span class="warning-highlight">10 of 19 sites</span> lack "About Us" pages with real team bios — a critical trust signal for Entity Authority.
+                    </div>
+                </div>
+            </div>
+            
+            <div class="right-col">
+                <div class="exec-block">
+                    <div class="exec-label">Owner</div>
+                    <div class="exec-value">Content Team / SEO Team</div>
+                </div>
+                
+                <div class="exec-block">
+                    <div class="exec-label">Estimated Budget</div>
+                    <div class="exec-value" style="color: #3b82f6;">$4,000 - $6,500 <span style="font-size: 18px; color: #94a3b8; font-weight: 400;">(One-time)</span></div>
+                </div>
+                
+                <div class="exec-block kpi">
+                    <div class="exec-label" style="color: #10b981;">Phase KPI</div>
+                    <div class="exec-value">19 FAQ pages live; 19 About Us pages complete; improved Content Quality scores.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

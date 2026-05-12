@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;900&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; background-color: #121212; color: #F8F9FA; }
+        .slide-container { 
+            width: 1280px; 
+            min-height: 720px; /* keep as required */
+            background-color: #121212;
+            padding: 40px 80px 12px; /* reduced bottom padding to cut overall height */
+            display: flex;
+            flex-direction: column;
+        }
+        .header {
+            margin-bottom: 20px; /* reduced */
+            border-bottom: 1px solid #333;
+            padding-top: 20px; /* must not change */
+        }
+        .title {
+            font-size: 32px;
+            font-weight: 900;
+            color: #38B000;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            font-size: 42px;
+            font-weight: 900;
+            color: #F8F9FA;
+            margin-bottom: 12px; /* reduced */
+            line-height: 1.2;
+        }
+        .content-grid {
+            display: grid;
+            grid-template-columns: 45% 50%;
+            gap: 4%; /* slightly reduced */
+            flex-grow: 1;
+        }
+        .left-column {
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start; /* avoid extra spacing */
+            gap: 18px; /* tighter spacing */
+        }
+        .definition {
+            font-size: 24px;
+            font-weight: 500;
+            color: #CED4DA;
+            line-height: 1.6;
+            border-left: 4px solid #38B000;
+            padding-left: 20px; /* slightly reduced */
+            margin-bottom: 18px; /* reduced */
+        }
+        .takeaway-box {
+            border: 1px solid #38B000;
+            padding: 18px; /* reduced padding */
+            background: rgba(56, 176, 0, 0.05);
+            font-size: 22px;
+            font-weight: 900;
+            color: #F8F9FA;
+            line-height: 1.5;
+        }
+        .right-column {
+            display: flex;
+            flex-direction: column;
+            gap: 12px; /* reduced */
+        }
+        .comparison-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px; /* reduced */
+        }
+        .comp-box {
+            border: 1px solid #333;
+            padding: 18px; /* reduced */
+            background: #1a1a1a;
+            display: flex;
+            flex-direction: column;
+        }
+        .comp-box.geo {
+            border-color: #38B000;
+            background: rgba(56, 176, 0, 0.05);
+        }
+        .comp-title {
+            font-size: 20px;
+            font-weight: 900;
+            color: #CED4DA;
+            margin-bottom: 12px; /* reduced */
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        .comp-box.geo .comp-title {
+            color: #38B000;
+        }
+        .comp-text {
+            font-size: 20px;
+            font-weight: 500;
+            color: #F8F9FA;
+            line-height: 1.5;
+        }
+        .vs-divider {
+            text-align: center;
+            font-size: 18px;
+            font-weight: 900;
+            color: #555;
+            margin: 8px 0; /* reduced */
+            text-transform: uppercase;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <div class="title">The New Paradigm</div>
+            <h2 class="subtitle">GEO Is the Legitimate, Scalable Way to Win AI Recommendations</h2>
+        </div>
+        
+        <div class="content-grid">
+            <div class="left-column">
+                <div class="definition">
+                    <span style="color: #F8F9FA; font-weight: 900;">Generative Engine Optimization (GEO)</span> is the practice of structuring a brand's digital presence so that AI-powered search platforms can retrieve, cite, and recommend it. Think of it as SEO for the AI era.
+                </div>
+                <div class="takeaway-box">
+                    GEO is now a recognized discipline with dedicated conferences, agency specializations, and purpose-built tools. This is not experimental — it's mainstream.
+                </div>
+            </div>
+            
+            <div class="right-column">
+                <div class="comparison-row">
+                    <div class="comp-box">
+                        <div class="comp-title">Traditional SEO</div>
+                        <div class="comp-text">Ranking on Google's page 1 among 10 blue links</div>
+                    </div>
+                    <div class="comp-box geo">
+                        <div class="comp-title">GEO Strategy</div>
+                        <div class="comp-text">Being one of 2-7 brands an AI engine names in its answer</div>
+                    </div>
+                </div>
+                
+                <div class="vs-divider">The Shift in Tactics</div>
+                
+                <div class="comparison-row">
+                    <div class="comp-box">
+                        <div class="comp-title">SEO Relies On</div>
+                        <div class="comp-text">Keyword density, backlinks, and technical site structure</div>
+                    </div>
+                    <div class="comp-box geo">
+                        <div class="comp-title">GEO Relies On</div>
+                        <div class="comp-text">Entity authority, earned media, structured data, and freshness</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

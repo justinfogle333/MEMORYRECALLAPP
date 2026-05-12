@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;900&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; background-color: #121212; color: #F8F9FA; }
+        .slide-container { 
+            width: 1280px; 
+            min-height: 720px; 
+            background-color: #121212;
+            padding: 50px 80px 20px; /* reduced bottom padding */
+            display: flex;
+            flex-direction: column;
+        }
+        .header {
+            margin-bottom: 20px; /* reduced to save vertical space */
+            border-bottom: 1px solid #333;
+            padding-top: 10px;
+        }
+        .title {
+            font-size: 32px;
+            font-weight: 900;
+            color: #38B000;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            font-size: 48px;
+            font-weight: 900;
+            color: #F8F9FA;
+            margin-bottom: 12px; /* slightly reduced */
+            line-height: 1.2;
+        }
+        .content-grid {
+            display: grid;
+            grid-template-columns: 45% 50%;
+            gap: 5%;
+            flex-grow: 1;
+        }
+        .left-column {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+        }
+        .narrative {
+            font-size: 24px;
+            font-weight: 500;
+            color: #CED4DA;
+            line-height: 1.6;
+            margin-bottom: 12px; /* reduced */
+        }
+        .next-step-box {
+            border: 2px solid #38B000;
+            background: rgba(56, 176, 0, 0.1);
+            padding: 16px; /* reduced */
+            margin-top: 0;
+        }
+        .next-step-title {
+            font-size: 24px;
+            font-weight: 900;
+            color: #38B000;
+            text-transform: uppercase;
+            margin-bottom: 8px;
+            letter-spacing: 1px;
+        }
+        .next-step-text {
+            font-size: 22px;
+            font-weight: 900;
+            color: #F8F9FA;
+            line-height: 1.4;
+        }
+        .right-column {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr); /* refreshed layout: three columns to reduce vertical height */
+            gap: 12px;
+            align-items: start;
+        }
+        .summary-item {
+            display: flex;
+            align-items: flex-start;
+            border: 1px solid #333;
+            background: #1a1a1a;
+            padding: 8px; /* reduced padding */
+        }
+        .summary-icon {
+            color: #38B000;
+            font-size: 24px;
+            margin-right: 10px;
+            margin-top: 2px;
+        }
+        .summary-text {
+            font-size: 20px;
+            font-weight: 500;
+            color: #CED4DA;
+            line-height: 1.4;
+        }
+        .highlight {
+            color: #F8F9FA;
+            font-weight: 900;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <div class="title">The Bottom Line</div>
+            <h2 class="subtitle">Your Vision + The Right Execution = Market Dominance</h2>
+        </div>
+        
+        <div class="content-grid">
+            <div class="left-column">
+                <div class="narrative">
+                    Alex, pursuing AI search optimization is the right move — our 14 keyword-rich domains give us an unmatched lead-generation edge.
+                </div>
+                
+                <div class="next-step-box">
+                    <div class="next-step-title">Next Step</div>
+                    <div class="next-step-text">
+                        Start Phase 1 this week; Justin's team will begin the technical foundation across all domains.
+                    </div>
+                </div>
+            </div>
+            
+            <div class="right-column">
+                <div class="summary-item">
+                    <div class="summary-icon">■</div>
+                    <div class="summary-text"><span class="highlight">AI search is replacing traditional search</span> — be where customers go.</div>
+                </div>
+                <div class="summary-item">
+                    <div class="summary-icon">■</div>
+                    <div class="summary-text"><span class="highlight">Reddit influences AI</span> — strategy validated.</div>
+                </div>
+                <div class="summary-item">
+                    <div class="summary-icon">■</div>
+                    <div class="summary-text"><span class="highlight">Legitimate GEO outperforms astroturfing</span> — more durable.</div>
+                </div>
+                <div class="summary-item">
+                    <div class="summary-icon">■</div>
+                    <div class="summary-text"><span class="highlight">With 14 brands</span> — dominate recommendation slots.</div>
+                </div>
+                <div class="summary-item">
+                    <div class="summary-icon">■</div>
+                    <div class="summary-text"><span class="highlight">FTC enforcement is active</span> — we protect the portfolio.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

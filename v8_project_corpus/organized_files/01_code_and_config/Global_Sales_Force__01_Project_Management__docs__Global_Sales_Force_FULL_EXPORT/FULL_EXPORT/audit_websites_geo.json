@@ -1,0 +1,312 @@
+{
+  "results": [
+    {
+      "input": "https://ultimatemovers.net",
+      "output": {
+        "domain": "theultimatemoversllc.com",
+        "site_loads": "YES - The site loads successfully.",
+        "https_enabled": "YES",
+        "mobile_responsive": "YES",
+        "schema_markup_present": "NO",
+        "schema_types_found": "NONE",
+        "llms_txt_exists": "YES",
+        "robots_txt_ai_crawlers": "NOT_MENTIONED - The robots.txt file exists but does not specifically mention any AI crawlers. It has 'User-agent: *' which allows all crawlers.",
+        "faq_content": "YES - The site has a dedicated FAQ page with Q&A formatted content.",
+        "meta_description": "NO - The homepage does not have a meta description.",
+        "blog_or_resources": "YES - The site has a 'Resources' section with blog-style articles.",
+        "reviews_displayed": "YES - The site has a dedicated 'Reviews' page displaying customer testimonials.",
+        "team_about_page": "PARTIAL - The site has an 'About' page that mentions the owner's name but does not contain detailed bios or photos of the team.",
+        "service_area_pages": "YES - The site has a dedicated 'Areas We Serve' page with links to individual location pages.",
+        "gbp_link": "NO - There is no visible link to a Google Business Profile or Google Maps page.",
+        "overall_notes": "The website is generally well-structured with good content for users, including a blog, FAQs, and service area pages. However, it is lacking in technical AI readiness signals such as schema markup and a specific meta description. The presence of an llms.txt file is a positive signal. The design is clean and modern."
+      },
+      "error": ""
+    },
+    {
+      "input": "https://california-seattleexpress.com",
+      "output": {
+        "domain": "california-seattleexpress.com",
+        "site_loads": "YES - The site loads successfully with an HTTP 200 status code.",
+        "https_enabled": "YES",
+        "mobile_responsive": "YES",
+        "schema_markup_present": "YES",
+        "schema_types_found": "WebPage, BreadcrumbList, WebSite, MovingCompany, AggregateRating",
+        "llms_txt_exists": "NO",
+        "robots_txt_ai_crawlers": "NOT_MENTIONED - The robots.txt file exists but does not contain any directives for GPTBot, ClaudeBot, or PerplexityBot.",
+        "faq_content": "NO - No dedicated FAQ page or Q&A section was found on the homepage.",
+        "meta_description": "YES - 'California-Seattle Express is a professional licensed long distance moving company. We offer packing services, moving supplies, car shipping and more.'",
+        "blog_or_resources": "YES - The site has a blog with numerous articles providing moving tips and guides.",
+        "reviews_displayed": "YES - Customer testimonials are displayed on the homepage.",
+        "team_about_page": "PARTIAL - The site has an 'About Us' page, but it does not feature individual team member bios.",
+        "service_area_pages": "YES - The footer contains links to numerous service area pages.",
+        "gbp_link": "NO - No direct link to a Google Business Profile or Google Maps page was found.",
+        "overall_notes": "The website is well-structured with a blog, service area pages, and customer reviews. It has basic schema markup but could be improved by adding more specific types like FAQPage or Service. The site is mobile-friendly and uses HTTPS. For AI readiness, it's missing an llms.txt file and specific directives for AI crawlers in robots.txt."
+      },
+      "error": ""
+    },
+    {
+      "input": "https://crosscountrymovers.com",
+      "output": {
+        "domain": "crosscountrymovers.com",
+        "site_loads": "YES - The site loads successfully with an HTTP 200 status code.",
+        "https_enabled": "YES",
+        "mobile_responsive": "YES",
+        "schema_markup_present": "YES",
+        "schema_types_found": "WebPage, BreadcrumbList, WebSite, Organization, UserCheckins, Person",
+        "llms_txt_exists": "YES",
+        "robots_txt_ai_crawlers": "NOT_MENTIONED - The robots.txt file does not specifically mention GPTBot, ClaudeBot, or PerplexityBot.",
+        "faq_content": "YES - The site has a dedicated FAQ page with accordian-style Q&A content.",
+        "meta_description": "YES - Cross Country Moving Company is one of the top recommended long distance moving service providers in the United States. Move with confidence.",
+        "blog_or_resources": "YES - The site has a blog with regularly updated content.",
+        "reviews_displayed": "YES - The site has a dedicated reviews page with customer testimonials.",
+        "team_about_page": "PARTIAL - The site has an 'About Us' page, but it does not contain individual team member bios.",
+        "service_area_pages": "YES - The site has a dedicated 'Areas We Serve' page with a list of states and cities.",
+        "gbp_link": "NO - There is no direct link to a Google Business Profile or Google Maps page.",
+        "overall_notes": "The website is well-optimized for search engines and has several AI readiness factors in place, including a llms.txt file and schema markup. The content is fresh, and the site is user-friendly. To further improve, the site could add more specific schema types like MovingCompany and FAQPage, and include a direct link to their Google Business Profile."
+      },
+      "error": ""
+    },
+    {
+      "input": "https://crosscountrymovingcompany.net",
+      "output": {
+        "domain": "crosscountrymovingcompany.net",
+        "site_loads": "YES - The site loads successfully with an HTTP 200 status code.",
+        "https_enabled": "YES",
+        "mobile_responsive": "YES",
+        "schema_markup_present": "YES",
+        "schema_types_found": "MovingCompany, AggregateRating, OpeningHoursSpecification, ContactPoint, BreadcrumbList, WebSite",
+        "llms_txt_exists": "YES",
+        "robots_txt_ai_crawlers": "NOT_MENTIONED - The robots.txt file does not specifically mention GPTBot, ClaudeBot, or PerplexityBot.",
+        "faq_content": "NO - There is no dedicated FAQ page or section with Q&A content.",
+        "meta_description": "YES - Cross Country Moving Company offers trusted nationwide movers and full service moving across the USA. Expert interstate movers for stress-free moving. Call 628-215-4935 for your free quote today.",
+        "blog_or_resources": "YES - The site has a blog section with multiple articles.",
+        "reviews_displayed": "YES - The site has a dedicated reviews page and displays testimonials on the homepage.",
+        "team_about_page": "YES - The site has an 'About Us' page.",
+        "service_area_pages": "YES - The site has an 'Areas We Serve' section with numerous location pages.",
+        "gbp_link": "NO - There is no direct link to a Google Business Profile or Google Maps page.",
+        "overall_notes": "The website is well-structured with good content and clear calls-to-action. It has a modern design and is mobile-friendly. The presence of schema markup, an llms.txt file, and a blog are all positive signals for AI readiness. The robots.txt file could be more specific about AI crawlers."
+      },
+      "error": ""
+    },
+    {
+      "input": "https://eastcoastwestcoastmovers.com",
+      "output": {
+        "domain": "eastcoastwestcoastmovers.com",
+        "site_loads": "YES",
+        "https_enabled": "YES",
+        "mobile_responsive": "YES",
+        "schema_markup_present": "YES",
+        "schema_types_found": "MovingCompany, AggregateRating, ContactPoint, WebPage, BreadcrumbList, WebSite",
+        "llms_txt_exists": "NO",
+        "robots_txt_ai_crawlers": "NOT_MENTIONED - The robots.txt file does not mention GPTBot, ClaudeBot, or PerplexityBot.",
+        "faq_content": "NO - There is no dedicated FAQ page or section on the website.",
+        "meta_description": "YES - East Coast West Coast Movers is a reputable professional moving company offering cross-country relocation services for years.",
+        "blog_or_resources": "YES - The site has a blog with multiple articles.",
+        "reviews_displayed": "YES - The site has a dedicated testimonials page with numerous customer reviews.",
+        "team_about_page": "NO - The about us page describes the company but does not feature individual team members or bios.",
+        "service_area_pages": "YES - The site has a dedicated page listing numerous cities they service across the country.",
+        "gbp_link": "NO - There is no direct link to a Google Business Profile or Google Maps page.",
+        "overall_notes": "The website is well-structured with a blog, testimonials, and service area pages, which is good for AI readiness. However, it lacks a llms.txt file, has no specific AI crawler directives in robots.txt, and is missing FAQ and team pages. Adding these elements would significantly improve its AI/GEO readiness."
+      },
+      "error": ""
+    },
+    {
+      "input": "https://flatpriceautotransport.com",
+      "output": {
+        "domain": "flatpriceautotransport.com",
+        "site_loads": "YES - The site loads successfully with an HTTP 200 status code.",
+        "https_enabled": "YES",
+        "mobile_responsive": "YES",
+        "schema_markup_present": "YES",
+        "schema_types_found": "MovingCompany, AggregateRating",
+        "llms_txt_exists": "NO",
+        "robots_txt_ai_crawlers": "ALLOWED - The robots.txt file does not explicitly disallow any major AI crawlers.",
+        "faq_content": "YES - The site has a dedicated FAQ page with questions and answers in an accordion format.",
+        "meta_description": "NO - The homepage does not have a meta description tag.",
+        "blog_or_resources": "YES - The site has a blog section with city guides, moving tips, and other resources.",
+        "reviews_displayed": "YES - The site has a dedicated reviews page with numerous customer testimonials.",
+        "team_about_page": "PARTIAL - The site has an about page, but it does not contain individual team member bios.",
+        "service_area_pages": "YES - The site has a dedicated 'Cities Served' page with a list of locations.",
+        "gbp_link": "NO - There is no link to a Google Business Profile or Google Maps on the site.",
+        "overall_notes": "The website is well-structured with a blog, reviews, and service area pages. It has some schema markup but is missing a meta description and a llms.txt file. The robots.txt file is permissive for AI crawlers. The site is mobile-friendly and uses HTTPS."
+      },
+      "error": ""
+    },
+    {
+      "input": "https://kerbmoving.com",
+      "output": {
+        "domain": "kerbmoving.com",
+        "site_loads": "YES - HTTP 200",
+        "https_enabled": "YES",
+        "mobile_responsive": "YES",
+        "schema_markup_present": "NO",
+        "schema_types_found": "NONE",
+        "llms_txt_exists": "YES",
+        "robots_txt_ai_crawlers": "BLOCKED - llms.txt disallows training for all user agents.",
+        "faq_content": "NO",
+        "meta_description": "NO",
+        "blog_or_resources": "NO",
+        "reviews_displayed": "NO",
+        "team_about_page": "NO",
+        "service_area_pages": "NO",
+        "gbp_link": "NO",
+        "overall_notes": "The website is a parked domain lander and not a functional business website. It has a llms.txt file that disallows AI training."
+      },
+      "error": ""
+    },
+    {
+      "input": "https://ldmovers.com",
+      "output": {
+        "domain": "ldmovers.com",
+        "site_loads": "REDIRECT - The site redirects to https://longdistanceusamovers.com/ and loads successfully.",
+        "https_enabled": "YES",
+        "mobile_responsive": "YES",
+        "schema_markup_present": "YES",
+        "schema_types_found": "WebPage, BreadcrumbList, WebSite, Organization, MovingCompany, AggregateRating, Review, Person",
+        "llms_txt_exists": "NO",
+        "robots_txt_ai_crawlers": "NO_ROBOTS_TXT",
+        "faq_content": "NO - No dedicated FAQ page or section was found.",
+        "meta_description": "YES - With the help of Long Distance USA Movers, you can rest assured that you will get the best long-distance moving services.",
+        "blog_or_resources": "YES - There is a blog link in the navigation, but the page failed to load.",
+        "reviews_displayed": "YES - Customer reviews are displayed on the homepage.",
+        "team_about_page": "NO - The 'About Us' page failed to load.",
+        "service_area_pages": "NO - The 'Cities Served' page failed to load.",
+        "gbp_link": "NO - No link to Google Business Profile or Google Maps was found.",
+        "overall_notes": "The website redirects from ldmovers.com to longdistanceusamovers.com. Many of the internal links on the homepage are broken, including links to the 'About Us', 'Blog', and 'Cities Served' pages. The site has a good variety of schema markup, but is missing both llms.txt and robots.txt files."
+      },
+      "error": ""
+    },
+    {
+      "input": "https://longdistancemovers.com",
+      "output": {
+        "domain": "longdistancemovers.com",
+        "site_loads": "YES - The site loads successfully with an HTTP 200 status code.",
+        "https_enabled": "YES",
+        "mobile_responsive": "YES",
+        "schema_markup_present": "YES",
+        "schema_types_found": "WebPage, BreadcrumbList, WebSite, Organization, MovingCompany, AggregateRating",
+        "llms_txt_exists": "YES",
+        "robots_txt_ai_crawlers": "NOT_MENTIONED - The robots.txt file does not explicitly mention GPTBot, ClaudeBot, PerplexityBot, or Google-Extended.",
+        "faq_content": "NO - No dedicated FAQ page or FAQ section was found.",
+        "meta_description": "YES - \"Long Distance Movers strive to make sure people have a smooth relocation process. We have a history of being the most trusted movers.\"",
+        "blog_or_resources": "YES - The site has a blog with numerous articles.",
+        "reviews_displayed": "YES - The homepage has a \"User Review & Feedback\" section.",
+        "team_about_page": "NO - The \"About Us\" page does not have team bios.",
+        "service_area_pages": "YES - The site has a \"Cities Served\" section with links to various location pages.",
+        "gbp_link": "NO - No link to a Google Business Profile or Google Maps was found.",
+        "overall_notes": "The website is well-structured with good content and some GEO/AI readiness signals like schema markup and an llms.txt file. However, it could be improved by adding a dedicated FAQ section, including team bios to build trust, and explicitly allowing AI crawlers in the robots.txt file. The lack of a visible Google Business Profile link is also a missed opportunity for local SEO."
+      },
+      "error": ""
+    },
+    {
+      "input": "https://longdistancemovingexperts.com",
+      "output": {
+        "domain": "longdistancemovingexperts.com",
+        "site_loads": "YES - The site loads successfully with an HTTP 200 status code.",
+        "https_enabled": "YES",
+        "mobile_responsive": "YES",
+        "schema_markup_present": "YES",
+        "schema_types_found": "WebPage, BreadcrumbList, WebSite",
+        "llms_txt_exists": "NO",
+        "robots_txt_ai_crawlers": "NOT_MENTIONED - The robots.txt file allows all user agents but does not specifically mention any AI crawlers.",
+        "faq_content": "YES - The site has a dedicated FAQ page with extensive Q&A content.",
+        "meta_description": "YES - We are long distance moving experts. As long distance movers we take every job with the same outstanding care and precision. Whether you are moving to",
+        "blog_or_resources": "YES - The site has a blog with numerous articles and moving guides.",
+        "reviews_displayed": "YES - The site has a dedicated reviews page with customer testimonials.",
+        "team_about_page": "NO - The 'About Us' page provides a company history but no individual team member bios.",
+        "service_area_pages": "NO - The 'Cities' link in the navigation leads to a 404 error page.",
+        "gbp_link": "NO - There is no visible link to a Google Business Profile or Google Maps.",
+        "overall_notes": "The website is well-structured with a good amount of content, including a blog and FAQ page. However, it lacks specific local SEO signals like service area pages and a Google Business Profile link. The schema markup is present but could be more comprehensive. The site is generally AI-crawler-friendly due to a permissive robots.txt file."
+      },
+      "error": ""
+    },
+    {
+      "input": "https://longdistanceusamovers.com",
+      "output": {
+        "domain": "longdistanceusamovers.com",
+        "site_loads": "YES - The site loads successfully with an HTTP 200 status code.",
+        "https_enabled": "YES",
+        "mobile_responsive": "YES",
+        "schema_markup_present": "NO",
+        "schema_types_found": "NONE",
+        "llms_txt_exists": "NO",
+        "robots_txt_ai_crawlers": "NOT_MENTIONED - The robots.txt file exists but does not mention GPTBot, ClaudeBot, or PerplexityBot.",
+        "faq_content": "NO - There is no dedicated FAQ page or section on the homepage.",
+        "meta_description": "NO - The homepage does not have a meta description.",
+        "blog_or_resources": "YES - The site has a blog section.",
+        "reviews_displayed": "YES - Customer reviews are displayed on the homepage.",
+        "team_about_page": "NO - The 'About Us' page does not have team bios.",
+        "service_area_pages": "YES - The site has a dedicated 'Cities Served' page.",
+        "gbp_link": "NO - There is no link to a Google Business Profile or Google Maps on the site.",
+        "overall_notes": "The website is mobile-responsive and uses HTTPS. It has a blog, displays customer reviews, and has service area pages. However, it lacks schema markup, a llms.txt file, and a meta description, which are important for AI readiness. The robots.txt file does not specifically mention AI crawlers. The 'About Us' page is generic and lacks team bios. There is no FAQ content or a link to a Google Business Profile."
+      },
+      "error": ""
+    },
+    {
+      "input": "https://state2statemovers.com",
+      "output": {
+        "domain": "state2statemovers.com",
+        "site_loads": "YES - The site loads successfully with an HTTP 200 status code.",
+        "https_enabled": "YES",
+        "mobile_responsive": "YES",
+        "schema_markup_present": "YES",
+        "schema_types_found": "WebPage, BreadcrumbList, WebSite, Organization, MovingCompany",
+        "llms_txt_exists": "NO",
+        "robots_txt_ai_crawlers": "NOT_MENTIONED - The robots.txt file does not explicitly mention GPTBot, ClaudeBot, or PerplexityBot.",
+        "faq_content": "YES - The site has a dedicated FAQ page.",
+        "meta_description": "YES - State to State can help you relocate all across the US. Give us a call and book your stress-free move.",
+        "blog_or_resources": "YES - The site has a blog section.",
+        "reviews_displayed": "YES - The site has a dedicated reviews page.",
+        "team_about_page": "YES - The site has an 'About Us' page.",
+        "service_area_pages": "YES - The site has a 'Cities We Serve' section.",
+        "gbp_link": "YES - There is a Google Business Profile link in the footer.",
+        "overall_notes": "The website is well-structured with good SEO and GEO readiness signals. It has a comprehensive set of pages that are important for local businesses. The schema markup is good, but could be improved by adding FAQPage schema to the FAQ page, and Review or AggregateRating to the reviews page. The robots.txt is permissive for AI crawlers by not explicitly disallowing them. The lack of an llms.txt file is a missed opportunity to provide guidance to LLMs."
+      },
+      "error": ""
+    },
+    {
+      "input": "https://tricolongdistancemovers.com",
+      "output": {
+        "domain": "tricolongdistancemovers.com",
+        "site_loads": "YES - HTTP 200",
+        "https_enabled": "YES",
+        "mobile_responsive": "YES",
+        "schema_markup_present": "NO",
+        "schema_types_found": "NONE",
+        "llms_txt_exists": "NO",
+        "robots_txt_ai_crawlers": "NOT_MENTIONED - No specific directives for AI crawlers found.",
+        "faq_content": "YES - The site has a dedicated FAQ page with Q&A content.",
+        "meta_description": "NO - No meta description found on the homepage.",
+        "blog_or_resources": "YES - The site has a blog with many articles.",
+        "reviews_displayed": "YES - The site has a dedicated testimonials page with a lot of reviews.",
+        "team_about_page": "YES - The site has an about page, but it does not contain team bios.",
+        "service_area_pages": "YES - The site has a dedicated page listing locations served.",
+        "gbp_link": "NO",
+        "overall_notes": "The website is well-structured with a lot of content, including a blog, testimonials, and service area pages. However, it lacks basic AI readiness signals like schema markup and a meta description. There is also no llms.txt file and no specific directives for AI crawlers in the robots.txt file. The site is mobile-responsive and uses HTTPS."
+      },
+      "error": ""
+    },
+    {
+      "input": "https://usa-autotransport.com",
+      "output": {
+        "domain": "usa-autotransport.com",
+        "site_loads": "YES - The site loads successfully with HTTP 200.",
+        "https_enabled": "YES",
+        "mobile_responsive": "NO - No viewport meta tag found.",
+        "schema_markup_present": "YES",
+        "schema_types_found": "MovingCompany, AggregateRating",
+        "llms_txt_exists": "NO",
+        "robots_txt_ai_crawlers": "NOT_MENTIONED - No specific directives for GPTBot, ClaudeBot, or PerplexityBot were found in robots.txt.",
+        "faq_content": "YES - The homepage has a FAQ section.",
+        "meta_description": "NO - No meta description tag found on the homepage.",
+        "blog_or_resources": "YES - The site has a blog.",
+        "reviews_displayed": "YES - Testimonials are displayed on the homepage.",
+        "team_about_page": "YES - The \"About Us\" page contains bios of the founders.",
+        "service_area_pages": "YES - The site has a \"Cities We Cover\" section.",
+        "gbp_link": "NO - No link to Google Business Profile or Google Maps was found.",
+        "overall_notes": "The website has a good foundation for AI readiness with some schema markup and content quality indicators. However, it lacks a mobile-responsive viewport tag, a meta description, and an llms.txt file. The robots.txt file does not specifically address AI crawlers."
+      },
+      "error": ""
+    }
+  ]
+}

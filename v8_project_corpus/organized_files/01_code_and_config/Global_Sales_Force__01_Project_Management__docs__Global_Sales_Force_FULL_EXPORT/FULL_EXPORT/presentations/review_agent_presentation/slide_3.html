@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container { 
+            width: 1280px; 
+            min-height: 720px; 
+            background-color: #0A192F; 
+            font-family: 'Inter', sans-serif;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        
+        /* Header Area */
+        .header {
+            padding-top: 60px;
+            padding-left: 80px;
+            padding-right: 80px;
+            display: flex;
+            align-items: center;
+        }
+        
+        .header-accent {
+            width: 8px;
+            height: 40px;
+            background-color: #00B4D8;
+            margin-right: 20px;
+        }
+        
+        .slide-title {
+            color: #00B4D8;
+            font-size: 32px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        /* Content Area */
+        .content-area {
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            padding-top: 10px; /* reduced from 40 => saved 30px */
+            padding-left: 80px;
+            padding-right: 80px;
+        }
+
+        .main-heading {
+            color: #FFFFFF;
+            font-size: 48px;
+            font-weight: 800;
+            line-height: 1.2;
+            margin-bottom: 30px; /* reduced from 60 => saved 30px */
+            text-align: center;
+            max-width: 1000px;
+            align-self: center;
+        }
+
+        .highlight {
+            color: #00B4D8;
+        }
+
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 24px; /* reduced from 40 */
+            margin-top: 12px; /* reduced from 20 */
+        }
+
+        .grid-item {
+            background-color: rgba(255, 255, 255, 0.03);
+            border-top: 4px solid #00B4D8;
+            padding: 24px 20px; /* reduced from 40px 30px */
+            display: flex;
+            flex-direction: column;
+        }
+
+        .item-number {
+            color: rgba(0, 180, 216, 0.3);
+            font-size: 64px;
+            font-weight: 800;
+            line-height: 1;
+            margin-bottom: 20px;
+        }
+
+        .item-title {
+            color: #FFFFFF;
+            font-size: 28px;
+            font-weight: 600;
+            margin-bottom: 12px; /* slightly reduced */
+            line-height: 1.3;
+        }
+
+        .item-text {
+            color: #F8F9FA;
+            font-size: 20px;
+            line-height: 1.6;
+            opacity: 0.9;
+        }
+        
+        .flow-diagram {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-top: 12px; /* reduced spacing */
+            background-color: rgba(0, 180, 216, 0.1);
+            padding: 8px; /* reduced from 15px */
+            border-radius: 8px;
+        }
+        
+        .flow-step {
+            color: #00B4D8;
+            font-weight: 600;
+            font-size: 18px;
+        }
+        
+        .flow-arrow {
+            color: #FFFFFF;
+            margin: 0 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <div class="header-accent"></div>
+            <div class="slide-title">The Opportunity</div>
+        </div>
+        
+        <div class="content-area">
+            <div class="main-heading">
+                The existing satisfaction text system is the foundation — <span class="highlight">we just need to connect it.</span>
+            </div>
+            
+            <div class="grid-container">
+                <div class="grid-item">
+                    <div class="item-number">01</div>
+                    <div class="item-title">The Missing Link</div>
+                    <div class="item-text">Alex's system already texts customers post-move to gauge satisfaction. Happy customers are identified but never routed to leave a public review.</div>
+                </div>
+                
+                <div class="grid-item">
+                    <div class="item-number">02</div>
+                    <div class="item-title">The Agent Bridge</div>
+                    <div class="item-text">The automated agent bridges this exact gap, turning internal feedback into public reputation automatically.</div>
+                    <div class="flow-diagram">
+                        <span class="flow-step">Signal</span>
+                        <span class="flow-arrow">→</span>
+                        <span class="flow-step">Request</span>
+                        <span class="flow-arrow">→</span>
+                        <span class="flow-step">Review</span>
+                    </div>
+                </div>
+                
+                <div class="grid-item">
+                    <div class="item-number">03</div>
+                    <div class="item-title">Massive Scale</div>
+                    <div class="item-text">With 100+ locations, even a conservative 15% conversion rate equals hundreds of new reviews per month. This is the highest-ROI project because it compounds.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

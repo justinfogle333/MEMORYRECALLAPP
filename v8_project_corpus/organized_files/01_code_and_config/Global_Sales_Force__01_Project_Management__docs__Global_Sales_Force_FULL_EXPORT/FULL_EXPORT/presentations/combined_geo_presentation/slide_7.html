@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container {
+            width: 1280px;
+            min-height: 720px;
+            background-color: #0f172a;
+            font-family: 'Inter', sans-serif;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+        .header {
+            padding-top: 60px; /* must keep as-is */
+            padding-left: 80px;
+            padding-right: 80px;
+            margin-bottom: 20px; /* reduced from 40px to save vertical space */
+        }
+        .slide-title {
+            font-size: 40px;
+            font-weight: 900;
+            color: #ffffff;
+            line-height: 1.2;
+            border-left: 8px solid #3b82f6;
+            padding-left: 24px;
+        }
+        .content-wrapper {
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            padding-left: 80px;
+            padding-right: 80px;
+            gap: 12px; /* reduced from 20px to compact the layout */
+        }
+        .heatmap-row {
+            display: flex;
+            align-items: center;
+            background-color: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            height: 80px;
+        }
+        .category-name {
+            width: 300px;
+            font-size: 24px;
+            font-weight: 700;
+            color: #ffffff;
+            padding-left: 20px;
+        }
+        .score-bar-container {
+            flex: 1;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            padding-right: 20px;
+        }
+        .score-bar {
+            height: 40px;
+            display: flex;
+            align-items: center;
+            padding-left: 20px;
+            font-size: 20px;
+            font-weight: 700;
+            color: #0f172a;
+        }
+        /* Heatmap Colors */
+        .bg-strong { background-color: #10b981; width: 93%; } /* 93% */
+        .bg-moderate { background-color: #f59e0b; width: 62%; } /* 62% */
+        .bg-weak { background-color: #f97316; width: 54%; } /* 54% */
+        .bg-critical { background-color: #ef4444; width: 47%; color: #ffffff !important; } /* 47% */
+        .bg-variable { background: linear-gradient(90deg, #10b981, #ef4444); width: 100%; color: #ffffff !important; }
+        
+        .legend {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin-top: 20px;
+        }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 18px;
+            color: #e2e8f0;
+        }
+        .legend-color {
+            width: 20px;
+            height: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <h2 class="slide-title">Technical Foundation Is Strong; AI Discoverability Is the Critical Failure</h2>
+        </div>
+        
+        <div class="content-wrapper">
+            <div class="heatmap-row">
+                <div class="category-name">Technical Foundation</div>
+                <div class="score-bar-container">
+                    <div class="score-bar bg-strong">93% Average (Strong)</div>
+                </div>
+            </div>
+            
+            <div class="heatmap-row">
+                <div class="category-name">Content Quality</div>
+                <div class="score-bar-container">
+                    <div class="score-bar bg-moderate">62% Average (Moderate)</div>
+                </div>
+            </div>
+            
+            <div class="heatmap-row">
+                <div class="category-name">Trust & Authority</div>
+                <div class="score-bar-container">
+                    <div class="score-bar bg-weak">54% Average (Weak)</div>
+                </div>
+            </div>
+            
+            <div class="heatmap-row">
+                <div class="category-name">AI Discoverability</div>
+                <div class="score-bar-container">
+                    <div class="score-bar bg-critical">47% Average (Critical Gap)</div>
+                </div>
+            </div>
+            
+            <div class="heatmap-row">
+                <div class="category-name">Entity Authority</div>
+                <div class="score-bar-container">
+                    <div class="score-bar bg-variable">Highly Variable Across Portfolio</div>
+                </div>
+            </div>
+            
+            <div class="legend">
+                <div class="legend-item"><div class="legend-color" style="background-color: #10b981;"></div> Strong (80-100%)</div>
+                <div class="legend-item"><div class="legend-color" style="background-color: #f59e0b;"></div> Moderate (60-79%)</div>
+                <div class="legend-item"><div class="legend-color" style="background-color: #f97316;"></div> Weak (50-59%)</div>
+                <div class="legend-item"><div class="legend-color" style="background-color: #ef4444;"></div> Critical (&lt; 50%)</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

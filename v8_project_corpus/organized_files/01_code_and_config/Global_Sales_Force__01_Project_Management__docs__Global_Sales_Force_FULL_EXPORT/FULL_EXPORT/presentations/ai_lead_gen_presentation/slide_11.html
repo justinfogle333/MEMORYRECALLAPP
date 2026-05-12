@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;900&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; background-color: #121212; color: #F8F9FA; }
+        .slide-container { 
+            width: 1280px; 
+            min-height: 720px; 
+            background-color: #121212;
+            padding: 40px 80px 30px;
+            display: flex;
+            flex-direction: column;
+        }
+        .header {
+            margin-bottom: 30px;
+            border-bottom: 1px solid #333;
+            padding-top: 10px;
+        }
+        .title {
+            font-size: 32px;
+            font-weight: 900;
+            color: #38B000;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            font-size: 42px;
+            font-weight: 900;
+            color: #F8F9FA;
+            margin-bottom: 10px;
+            line-height: 1.2;
+        }
+        .timeline-container {
+            display: flex;
+            flex-direction: column;
+            gap: 8px; /* reduced gap */
+            flex-grow: 1;
+        }
+        .timeline-header {
+            display: grid;
+            grid-template-columns: 240px 140px 1fr 1fr;
+            gap: 20px;
+            padding: 0 20px;
+            margin-bottom: 5px;
+        }
+        .col-title {
+            font-size: 16px;
+            font-weight: 900;
+            color: #555;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        .timeline-row {
+            display: grid;
+            grid-template-columns: 240px 140px 1fr 1fr;
+            gap: 20px;
+            background: #1a1a1a;
+            border: 1px solid #333;
+            border-left: 4px solid #38B000;
+            padding: 8px; /* reduced padding */
+            align-items: center;
+        }
+        .phase-name {
+            font-size: 22px;
+            font-weight: 900;
+            color: #F8F9FA;
+            line-height: 1.3;
+        }
+        .phase-time {
+            font-size: 20px;
+            font-weight: 900;
+            color: #38B000;
+        }
+        .phase-focus {
+            font-size: 18px;
+            font-weight: 500;
+            color: #CED4DA;
+            line-height: 1.4;
+        }
+        .phase-impact {
+            font-size: 18px;
+            font-weight: 500;
+            color: #F8F9FA;
+            line-height: 1.4;
+            border-left: 1px solid #333;
+            padding-left: 20px;
+        }
+        .metric-box {
+            border: 1px solid #38B000;
+            background: rgba(56, 176, 0, 0.05);
+            padding: 12px 18px; /* reduced padding */
+            display: flex;
+            align-items: center;
+            margin-top: 12px; /* reduced margin */
+        }
+        .metric-title {
+            font-size: 20px;
+            font-weight: 900;
+            color: #38B000;
+            text-transform: uppercase;
+            margin-right: 18px;
+            white-space: nowrap;
+            border-right: 1px solid #38B000;
+            padding-right: 18px;
+        }
+        .metric-desc {
+            font-size: 22px;
+            font-weight: 500;
+            color: #F8F9FA;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <div class="title">Implementation Timeline</div>
+            <h2 class="subtitle">A 12-Month Roadmap to AI Search Dominance</h2>
+        </div>
+        
+        <div class="timeline-container">
+            <div class="timeline-header">
+                <div class="col-title">Phase</div>
+                <div class="col-title">Timeline</div>
+                <div class="col-title">Focus Area</div>
+                <div class="col-title">Expected Impact</div>
+            </div>
+            
+            <div class="timeline-row">
+                <div class="phase-name">Phase 1:<br>Technical Foundation</div>
+                <div class="phase-time">Weeks 1-4</div>
+                <div class="phase-focus">Schema markup, FAQs, AI crawlability</div>
+                <div class="phase-impact">AI engines can read and index all 14 sites</div>
+            </div>
+            
+            <div class="timeline-row">
+                <div class="phase-name">Phase 2:<br>Entity Authority</div>
+                <div class="phase-time">Months 1-3</div>
+                <div class="phase-focus">Reviews, directories, digital PR</div>
+                <div class="phase-impact">Brands begin appearing in AI recommendations</div>
+            </div>
+            
+            <div class="timeline-row">
+                <div class="phase-name">Phase 3:<br>Community Engagement</div>
+                <div class="phase-time">Ongoing</div>
+                <div class="phase-focus">Authentic Reddit and social participation</div>
+                <div class="phase-impact">Organic mentions fuel AI citations</div>
+            </div>
+            
+            <div class="timeline-row">
+                <div class="phase-name">Phase 4:<br>Content Leadership</div>
+                <div class="phase-time">Months 3-12</div>
+                <div class="phase-focus">Original research, brand differentiation</div>
+                <div class="phase-impact">Multiple brands dominate AI recommendation lists</div>
+            </div>
+        </div>
+        
+        <div class="metric-box">
+            <div class="metric-title">Key Metric to Track</div>
+            <div class="metric-desc"><strong>AI Citation Frequency</strong> — how often our brands appear in AI-generated answers vs. competitors.</div>
+        </div>
+    </div>
+</body>
+</html>

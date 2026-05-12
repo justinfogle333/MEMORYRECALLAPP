@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container { 
+            width: 1280px; 
+            min-height: 720px; 
+            background-color: #0A192F; 
+            font-family: 'Inter', sans-serif;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        
+        /* Header Area */
+        .header {
+            padding-top: 60px;
+            padding-left: 80px;
+            padding-right: 80px;
+            display: flex;
+            align-items: center;
+        }
+        
+        .header-accent {
+            width: 8px;
+            height: 40px;
+            background-color: #00B4D8;
+            margin-right: 20px;
+        }
+        
+        .slide-title {
+            color: #00B4D8;
+            font-size: 32px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        /* Content Area */
+        .content-area {
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            padding-top: 20px; /* reduced from 40 to save vertical space */
+            padding-left: 80px;
+            padding-right: 80px;
+        }
+
+        .main-heading {
+            color: #FFFFFF;
+            font-size: 42px;
+            font-weight: 800;
+            line-height: 1.2;
+            margin-bottom: 30px; /* reduced from 60 */
+        }
+
+        /* Timeline */
+        .timeline-container {
+            position: relative;
+            display: flex;
+            justify-content: space-between;
+            margin-top: 10px;
+        }
+
+        .timeline-line {
+            position: absolute;
+            top: 30px;
+            left: 32px;
+            width: 75%;
+            height: 4px;
+            background-color: rgba(0, 180, 216, 0.3);
+            z-index: 1;
+        }
+
+        .timeline-step {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            z-index: 2;
+            padding-right: 30px;
+        }
+
+        .step-marker {
+            width: 64px;
+            height: 64px;
+            background-color: #0A192F;
+            border: 4px solid #00B4D8;
+            color: #00B4D8;
+            font-size: 24px;
+            font-weight: 800;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 20px; /* slightly smaller */
+        }
+
+        .step-title {
+            color: #FFFFFF;
+            font-size: 22px;
+            font-weight: 800;
+            margin-bottom: 16px; /* reduced from 20 */
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            min-height: 54px;
+        }
+
+        .step-tasks {
+            list-style: none;
+        }
+
+        .step-tasks li {
+            color: #F8F9FA;
+            font-size: 18px;
+            line-height: 1.4;
+            margin-bottom: 12px; /* reduced from 16 */
+            position: relative;
+            padding-left: 20px;
+            opacity: 0.9;
+        }
+
+        .step-tasks li::before {
+            content: '■';
+            color: #00B4D8;
+            position: absolute;
+            left: 0;
+            top: 2px;
+            font-size: 12px;
+        }
+
+        /* Summary Box */
+        .summary-box {
+            margin-top: auto;
+            margin-bottom: 40px;
+            background-color: rgba(0, 180, 216, 0.05);
+            border-left: 6px solid #00B4D8;
+            padding-top: 20px; /* slightly reduced */
+            padding-left: 30px;
+            padding-right: 30px;
+        }
+
+        .summary-title {
+            color: #00B4D8;
+            font-size: 20px;
+            font-weight: 800;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+            letter-spacing: 1px;
+        }
+
+        .summary-text {
+            color: #FFFFFF;
+            font-size: 20px;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <div class="header-accent"></div>
+            <div class="slide-title">30-Day Implementation Timeline</div>
+        </div>
+        
+        <div class="content-area">
+            <div class="main-heading">
+                From approval to first automated review in 30 days
+            </div>
+            
+            <div class="timeline-container">
+                <div class="timeline-line"></div>
+                
+                <div class="timeline-step">
+                    <div class="step-marker">W1</div>
+                    <div class="step-title">Architecture &amp; API</div>
+                    <ul class="step-tasks">
+                        <li>Connect CRM to Agent</li>
+                        <li>Map all 100+ GBP locations</li>
+                        <li>Set up Twilio/Email gateways</li>
+                    </ul>
+                </div>
+                
+                <div class="timeline-step">
+                    <div class="step-marker">W2</div>
+                    <div class="step-title">Logic &amp; Templates</div>
+                    <ul class="step-tasks">
+                        <li>Build 1-10 routing logic</li>
+                        <li>Draft FTC-compliant copy</li>
+                        <li>Set up gift card API</li>
+                    </ul>
+                </div>
+                
+                <div class="timeline-step">
+                    <div class="step-marker">W3</div>
+                    <div class="step-title">WordPress Integration</div>
+                    <ul class="step-tasks">
+                        <li>Build 19 brand landing pages</li>
+                        <li>Implement disclosure text</li>
+                        <li>Set up tracking dashboard</li>
+                    </ul>
+                </div>
+                
+                <div class="timeline-step">
+                    <div class="step-marker">W4</div>
+                    <div class="step-title">Testing &amp; Go-Live</div>
+                    <ul class="step-tasks">
+                        <li>End-to-end dummy testing</li>
+                        <li>Final compliance review</li>
+                        <li>Turn on the agent</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="summary-box">
+                <div class="summary-title">Month 2 &amp; Beyond</div>
+                <div class="summary-text">Once the Review Agent is live, we shift focus to the Social Media Automation Pipeline and AI Sales Assist, running concurrently while reviews generate on autopilot.</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

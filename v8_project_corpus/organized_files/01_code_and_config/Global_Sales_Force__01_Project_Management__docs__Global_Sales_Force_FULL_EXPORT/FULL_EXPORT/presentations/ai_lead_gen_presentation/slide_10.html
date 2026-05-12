@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;900&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; background-color: #121212; color: #F8F9FA; }
+        .slide-container { 
+            width: 1280px; 
+            min-height: 720px; 
+            background-color: #121212;
+            padding: 20px 80px;
+            display: flex;
+            flex-direction: column;
+        }
+        .header {
+            margin-bottom: 16px;
+            border-bottom: 1px solid #333;
+            padding-top: 10px;
+        }
+        .title {
+            font-size: 32px;
+            font-weight: 900;
+            color: #38B000;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            font-size: 40px;
+            font-weight: 900;
+            color: #F8F9FA;
+            margin-bottom: 12px;
+            line-height: 1.2;
+        }
+        .content-grid {
+            display: grid;
+            grid-template-columns: 45% 50%;
+            gap: 5%;
+            flex-grow: 1;
+        }
+        .left-column {
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            gap: 20px;
+        }
+        .narrative {
+            font-size: 24px;
+            font-weight: 500;
+            color: #CED4DA;
+            line-height: 1.6;
+            border-left: 4px solid #38B000;
+            padding-left: 20px;
+        }
+        .takeaway-box {
+            border: 1px solid #38B000;
+            background: rgba(56, 176, 0, 0.05);
+            padding: 14px;
+            display: flex;
+            flex-direction: column;
+        }
+        .takeaway-title {
+            font-size: 20px;
+            font-weight: 900;
+            color: #38B000;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+        }
+        .takeaway-text {
+            font-size: 22px;
+            font-weight: 900;
+            color: #F8F9FA;
+            line-height: 1.5;
+        }
+        .right-column {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+        .initiative-block {
+            border: 1px solid #333;
+            border-top: 4px solid #38B000;
+            background: #1a1a1a;
+            padding: 18px;
+            display: flex;
+            flex-direction: column;
+        }
+        .initiative-title {
+            font-size: 26px;
+            font-weight: 900;
+            color: #F8F9FA;
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+        }
+        .initiative-number {
+            color: #38B000;
+            margin-right: 15px;
+            font-size: 32px;
+        }
+        .initiative-desc {
+            font-size: 20px;
+            font-weight: 500;
+            color: #CED4DA;
+            line-height: 1.5;
+            padding-left: 47px;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <div class="title">Phase 4 — Content Leadership (Months 3-12)</div>
+            <h2 class="subtitle">Publish Original Data and Research That AI Engines Must Cite</h2>
+        </div>
+        
+        <div class="content-grid">
+            <div class="left-column">
+                <div class="narrative">
+                    The ultimate GEO strategy is creating content that no one else has. When we publish proprietary data and original research, AI engines have a unique reason to cite us over every competitor.
+                </div>
+                
+                <div class="takeaway-box">
+                    <div class="takeaway-title">The Multi-Brand Advantage</div>
+                    <div class="takeaway-text">
+                        When ChatGPT lists the "best long-distance movers," we don't just want one slot — we want three or four. With 14 differentiated brands, this is entirely achievable through legitimate means.
+                    </div>
+                </div>
+            </div>
+            
+            <div class="right-column">
+                <div class="initiative-block">
+                    <div class="initiative-title">
+                        <span class="initiative-number">01</span> Original Research Reports
+                    </div>
+                    <div class="initiative-desc">
+                        Publish data like "Average Moving Costs by State in 2026" or "The State of Long-Distance Moving in America" using our operational data across 14 brands.
+                    </div>
+                </div>
+                
+                <div class="initiative-block">
+                    <div class="initiative-title">
+                        <span class="initiative-number">02</span> Multi-Brand Differentiation
+                    </div>
+                    <div class="initiative-desc">
+                        Position each brand with a distinct identity (budget-friendly, premium service, fastest delivery, best auto transport) so the conglomerate captures multiple AI recommendation slots simultaneously.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

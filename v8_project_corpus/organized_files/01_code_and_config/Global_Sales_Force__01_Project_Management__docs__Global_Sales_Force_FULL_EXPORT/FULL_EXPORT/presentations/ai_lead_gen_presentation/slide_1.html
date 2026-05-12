@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;900&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; background-color: #121212; color: #F8F9FA; }
+        .slide-container { 
+            width: 1280px; 
+            min-height: 720px; 
+            background-color: #121212;
+            display: flex;
+            position: relative;
+            overflow: hidden;
+        }
+        .left-block {
+            width: 60%;
+            padding: 80px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            border-right: 1px solid #38B000;
+            position: relative;
+        }
+        .right-block {
+            width: 40%;
+            padding: 80px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            background: linear-gradient(135deg, #121212 0%, #1a1a1a 100%);
+        }
+        .title {
+            font-size: 64px;
+            font-weight: 900;
+            line-height: 1.1;
+            color: #F8F9FA;
+            margin-bottom: 30px;
+            text-transform: uppercase;
+            letter-spacing: -1px;
+        }
+        .title-highlight {
+            color: #38B000;
+        }
+        .subtitle {
+            font-size: 32px;
+            font-weight: 500;
+            color: #CED4DA;
+            line-height: 1.4;
+            border-left: 4px solid #38B000;
+            padding-left: 20px;
+        }
+        .footer {
+            font-size: 20px;
+            font-weight: 500;
+            color: #CED4DA;
+            margin-top: auto;
+            border-top: 1px solid #333;
+            padding-top: 20px;
+        }
+        .accent-box {
+            position: absolute;
+            top: 40px;
+            left: 40px;
+            width: 100px;
+            height: 100px;
+            border: 1px solid #38B000;
+            opacity: 0.3;
+        }
+        .accent-box-2 {
+            position: absolute;
+            bottom: 40px;
+            right: 40px;
+            width: 150px;
+            height: 150px;
+            border: 1px solid #D00000;
+            opacity: 0.2;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="accent-box"></div>
+        <div class="left-block">
+            <h1 class="title">Dominating <span class="title-highlight">AI Search</span></h1>
+            <h1 class="title" style="font-size: 48px; color: #CED4DA;">A Lead Generation Strategy for Global Sales Force</h1>
+        </div>
+        <div class="right-block">
+            <div class="accent-box-2"></div>
+            <h2 class="subtitle">How to Make ChatGPT, Google AI, and Perplexity Recommend Our Moving Companies</h2>
+            <div class="footer">
+                Prepared by Justin / HaVoK<br>
+                <span style="color: #38B000;">March 2026</span>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

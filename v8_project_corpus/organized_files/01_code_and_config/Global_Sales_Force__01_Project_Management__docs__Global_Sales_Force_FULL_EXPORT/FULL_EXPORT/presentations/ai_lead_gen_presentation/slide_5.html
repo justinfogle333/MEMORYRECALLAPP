@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;900&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; background-color: #121212; color: #F8F9FA; }
+        .slide-container { 
+            width: 1280px; 
+            min-height: 720px; 
+            background-color: #121212;
+            padding: 40px 80px 8px; /* reduced bottom padding */
+            display: flex;
+            flex-direction: column;
+        }
+        .header {
+            margin-bottom: 12px; /* reduced spacing under header */
+            border-bottom: 1px solid #333;
+            padding-top: 20px; /* keep title upper padding */
+        }
+        .title {
+            font-size: 32px;
+            font-weight: 900;
+            color: #38B000;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            font-size: 48px;
+            font-weight: 900;
+            color: #F8F9FA;
+            margin-bottom: 16px;
+            line-height: 1.2;
+        }
+        .content-grid {
+            display: grid;
+            grid-template-columns: 55% 40%;
+            gap: 5%;
+            flex-grow: 1;
+        }
+        .left-column {
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+        }
+        .narrative {
+            font-size: 22px;
+            font-weight: 500;
+            color: #CED4DA;
+            line-height: 1.5;
+            margin-bottom: 6px; /* reduced */
+        }
+        .breakdown-list {
+            list-style: none;
+            margin-bottom: 8px; /* reduced */
+        }
+        .breakdown-item {
+            font-size: 20px;
+            font-weight: 500;
+            color: #F8F9FA;
+            margin-bottom: 6px; /* reduced */
+            display: flex;
+            align-items: center;
+        }
+        .breakdown-item::before {
+            content: "";
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            background-color: #38B000;
+            margin-right: 15px;
+        }
+        .takeaway-box {
+            border: 1px solid #38B000;
+            padding: 8px; /* reduced */
+            background: rgba(56, 176, 0, 0.05);
+            font-size: 22px;
+            font-weight: 900;
+            color: #F8F9FA;
+            line-height: 1.4;
+            border-left: 4px solid #38B000;
+            margin-top: 8px;
+        }
+        .right-column {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            border: 1px solid #333;
+            background: #1a1a1a;
+            padding: 8px; /* reduced */
+        }
+        .image-container {
+            width: 100%;
+            height: 280px; /* reduced image height */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .image-container img {
+            max-width: 100%;
+            max-height: 100%;
+            object-fit: contain;
+            border: 1px solid #333;
+        }
+        .image-caption {
+            margin-top: 6px; /* reduced */
+            font-size: 16px;
+            color: #CED4DA;
+            text-align: center;
+            font-weight: 500;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <div class="title">Strategic Asset</div>
+            <h2 class="subtitle">Our 14 Brands Are a Massive Competitive Advantage</h2>
+        </div>
+        
+        <div class="content-grid">
+            <div class="left-column">
+                <div class="narrative">
+                    14 keyword-rich domains are a major asset for AI search — exact-match domains are what AI recommends.
+                </div>
+                
+                <ul class="breakdown-list">
+                    <li class="breakdown-item">7 Long-Distance / Cross-Country Moving brands</li>
+                    <li class="breakdown-item">2 Auto Transport brands</li>
+                    <li class="breakdown-item">2 General Moving brands</li>
+                    <li class="breakdown-item">2 Regional / Route-Specific brands</li>
+                    <li class="breakdown-item">1 Interstate Moving brand</li>
+                </ul>
+                
+                <div class="takeaway-box">
+                    Most competitors have one brand. We have 14 — allowing multiple AI recommendation slots.
+                </div>
+            </div>
+            
+            <div class="right-column">
+                <div class="image-container">
+                    <img src="/home/ubuntu/upload/pasted_file_0lXtKW_image.png" alt="List of 14 domain emails">
+                </div>
+                <div class="image-caption">Global Sales Force Domain Portfolio</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

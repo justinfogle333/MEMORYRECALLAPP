@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container { 
+            width: 1280px; 
+            min-height: 720px; 
+            background-color: #0A192F; 
+            font-family: 'Inter', sans-serif;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        
+        /* Header Area */
+        .header {
+            padding-top: 50px;
+            padding-left: 80px;
+            padding-right: 80px;
+            display: flex;
+            align-items: center;
+        }
+        
+        .header-accent {
+            width: 8px;
+            height: 40px;
+            background-color: #00B4D8;
+            margin-right: 20px;
+        }
+        
+        .slide-title {
+            color: #00B4D8;
+            font-size: 32px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        /* Content Area */
+        .content-area {
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            padding-top: 30px;
+            padding-left: 80px;
+            padding-right: 80px;
+        }
+
+        .main-heading {
+            color: #FFFFFF;
+            font-size: 42px;
+            font-weight: 800;
+            line-height: 1.2;
+            margin-bottom: 40px;
+        }
+
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            column-gap: 40px;
+            row-gap: 16px;
+        }
+
+        .strategy-item {
+            display: flex;
+            align-items: flex-start;
+            background-color: rgba(255, 255, 255, 0.02);
+            padding: 8px 16px; /* reduced vertical padding to save height */
+            border-left: 3px solid #00B4D8;
+        }
+
+        .strategy-number {
+            color: #00B4D8;
+            font-size: 24px;
+            font-weight: 800;
+            margin-right: 12px;
+            min-width: 30px;
+        }
+
+        .strategy-content {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .strategy-title {
+            color: #FFFFFF;
+            font-size: 22px;
+            font-weight: 600;
+            margin-bottom: 6px;
+        }
+
+        .strategy-desc {
+            color: #F8F9FA;
+            font-size: 16px;
+            line-height: 1.5;
+            opacity: 0.9;
+        }
+        
+        /* Highlight the first strategy as it's the core one */
+        .strategy-item.featured {
+            background-color: rgba(0, 180, 216, 0.08);
+            border-left: 5px solid #00B4D8;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <div class="header-accent"></div>
+            <div class="slide-title">The Playbook</div>
+        </div>
+        
+        <div class="content-area">
+            <div class="main-heading">
+                7 strategies that stay within the lines but maximize review generation
+            </div>
+            
+            <div class="grid-container">
+                <!-- Row 1 -->
+                <div class="strategy-item featured">
+                    <div class="strategy-number">01</div>
+                    <div class="strategy-content">
+                        <div class="strategy-title">The Two-Step Decoupled System</div>
+                        <div class="strategy-desc">Gift card for a survey (not a review); follow up with a non-incentivized review request.</div>
+                    </div>
+                </div>
+                
+                <div class="strategy-item">
+                    <div class="strategy-number">02</div>
+                    <div class="strategy-content">
+                        <div class="strategy-title">Own-Site Testimonial Engine</div>
+                        <div class="strategy-desc">Offer $15 for testimonials on our WordPress sites with clear disclosure.</div>
+                    </div>
+                </div>
+                
+                <div class="strategy-item">
+                    <div class="strategy-number">03</div>
+                    <div class="strategy-content">
+                        <div class="strategy-title">Google Review Solicitation</div>
+                        <div class="strategy-desc">Send a short text/email with a direct Google review link within 24 hours. No incentive.</div>
+                    </div>
+                </div>
+
+                <!-- Row 2 -->
+                <div class="strategy-item">
+                    <div class="strategy-number">04</div>
+                    <div class="strategy-content">
+                        <div class="strategy-title">Video Testimonials</div>
+                        <div class="strategy-desc">Record willing customers and post on YouTube; embed on sites for extra visibility.</div>
+                    </div>
+                </div>
+
+                <div class="strategy-item">
+                    <div class="strategy-number">05</div>
+                    <div class="strategy-content">
+                        <div class="strategy-title">Blog Story Interviews</div>
+                        <div class="strategy-desc">Interview customers and publish editorial-style posts—different from "reviews."</div>
+                    </div>
+                </div>
+                
+                <div class="strategy-item">
+                    <div class="strategy-number">06</div>
+                    <div class="strategy-content">
+                        <div class="strategy-title">BBB Review Requests</div>
+                        <div class="strategy-desc">Solicit reviews via BBB—high authority and allowed by their policies.</div>
+                    </div>
+                </div>
+
+                <!-- Row 3 -->
+                <div class="strategy-item">
+                    <div class="strategy-number">07</div>
+                    <div class="strategy-content">
+                        <div class="strategy-title">Reddit Authority Building</div>
+                        <div class="strategy-desc">Build expert presence on Reddit (90/10 rule) that AI engines reference—not direct reviews.</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

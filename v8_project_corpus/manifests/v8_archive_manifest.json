@@ -1,0 +1,66 @@
+[
+  {
+    "archive": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation.zip",
+    "size_bytes": 34427174,
+    "source_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "members_total": 70,
+    "members_extracted": 70,
+    "errors": []
+  },
+  {
+    "archive": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force.zip",
+    "size_bytes": 710178,
+    "source_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "members_total": 86,
+    "members_extracted": 53,
+    "errors": []
+  },
+  {
+    "archive": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT.zip",
+    "size_bytes": 15208928,
+    "source_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "members_total": 228,
+    "members_extracted": 182,
+    "errors": []
+  },
+  {
+    "archive": "Global_Sales_Force__03_Automated_Review_Agent__src__review_agent.zip",
+    "size_bytes": 22280,
+    "source_slug": "Global_Sales_Force__03_Automated_Review_Agent__src__review_agent",
+    "members_total": 16,
+    "members_extracted": 13,
+    "errors": []
+  },
+  {
+    "archive": "Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2.zip",
+    "size_bytes": 2266443,
+    "source_slug": "Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2",
+    "members_total": 24,
+    "members_extracted": 17,
+    "errors": []
+  },
+  {
+    "archive": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE.zip",
+    "size_bytes": 27515330,
+    "source_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "members_total": 127,
+    "members_extracted": 109,
+    "errors": []
+  },
+  {
+    "archive": "bot_a_lead_quoting_engine_v3.zip",
+    "size_bytes": 2288458,
+    "source_slug": "bot_a_lead_quoting_engine_v3",
+    "members_total": 29,
+    "members_extracted": 22,
+    "errors": []
+  },
+  {
+    "archive": "drive_id_1inM9__code__review_agent.zip",
+    "size_bytes": 22280,
+    "source_slug": "drive_id_1inM9__code__review_agent",
+    "members_total": 16,
+    "members_extracted": 13,
+    "errors": []
+  }
+]

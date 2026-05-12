@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container {
+            width: 1280px;
+            min-height: 720px;
+            background-color: #0f172a;
+            font-family: 'Inter', sans-serif;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+        .header {
+            padding-top: 60px;
+            padding-left: 80px;
+            padding-right: 80px;
+            margin-bottom: 40px;
+        }
+        .slide-title {
+            font-size: 48px;
+            font-weight: 900;
+            color: #ffffff;
+            line-height: 1.2;
+            border-left: 8px solid #3b82f6;
+            padding-left: 24px;
+        }
+        .content-wrapper {
+            display: flex;
+            flex: 1;
+            padding-left: 80px;
+            padding-right: 80px;
+            gap: 60px;
+        }
+        .left-col {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: flex-start;
+        }
+        .right-col {
+            flex: 1.5;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .stat-box {
+            background-color: rgba(59, 130, 246, 0.1);
+            border: 2px solid #3b82f6;
+            padding: 40px;
+            width: 100%;
+        }
+        .stat-number {
+            font-size: 120px;
+            font-weight: 900;
+            color: #10b981;
+            line-height: 1;
+            margin-bottom: 10px;
+        }
+        .stat-label {
+            font-size: 24px;
+            font-weight: 700;
+            color: #ffffff;
+            line-height: 1.4;
+        }
+        .point-list {
+            list-style: none;
+        }
+        .point-item {
+            font-size: 24px;
+            color: #e2e8f0;
+            line-height: 1.6;
+            margin-bottom: 32px;
+            position: relative;
+            padding-left: 40px;
+        }
+        .point-item::before {
+            content: "■";
+            color: #3b82f6;
+            position: absolute;
+            left: 0;
+            top: 2px;
+            font-size: 20px;
+        }
+        .highlight {
+            color: #10b981;
+            font-weight: 700;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <h2 class="slide-title">Why This Matters — AI Search Is Replacing Google</h2>
+        </div>
+        
+        <div class="content-wrapper">
+            <div class="left-col">
+                <div class="stat-box">
+                    <div class="stat-number">40%+</div>
+                    <div class="stat-label">Of all searches globally now go through AI-powered engines.</div>
+                </div>
+            </div>
+            
+            <div class="right-col">
+                <ul class="point-list">
+                    <li class="point-item">When someone asks "best movers" or "best international movers," AI pulls answers from <span class="highlight">structured data, Reddit, and authoritative websites</span>.</li>
+                    <li class="point-item">Generative Engine Optimization (GEO) case studies show AI referrals convert at <span class="highlight">3x the rate</span> of traditional search traffic.</li>
+                    <li class="point-item">The 19-brand conglomerate is a <span class="highlight">massive competitive advantage</span> — but only if the sites are technically ready for AI to read them.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container {
+            width: 1280px;
+            min-height: 720px;
+            background-color: #0f172a;
+            font-family: 'Inter', sans-serif;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+        .header {
+            padding-top: 60px;
+            padding-left: 80px;
+            padding-right: 80px;
+            margin-bottom: 15px; /* reduced to save vertical space */
+        }
+        .slide-title {
+            font-size: 42px;
+            font-weight: 900;
+            color: #ffffff;
+            line-height: 1.2;
+            border-left: 8px solid #3b82f6;
+            padding-left: 24px;
+        }
+        .content-wrapper {
+            display: flex;
+            flex: 1;
+            padding-left: 80px;
+            padding-right: 80px;
+            gap: 30px; /* slightly reduced */
+            padding-bottom: 48px; /* reduced to pull content up */
+        }
+        .left-col {
+            flex: 1.5;
+            display: flex;
+            flex-direction: column;
+        }
+        .right-col {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 20px; /* reduced gap between cards */
+        }
+        .checklist-container {
+            background-color: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 20px; /* reduced inner padding */
+            flex: 1;
+        }
+        .checklist {
+            list-style: none;
+            display: flex;
+            flex-direction: column;
+            gap: 16px; /* reduced gap */
+        }
+        .check-item {
+            display: flex;
+            align-items: flex-start;
+            font-size: 18px;
+            color: #e2e8f0;
+            line-height: 1.5;
+        }
+        .checkbox {
+            width: 24px;
+            height: 24px;
+            border: 2px solid #64748b;
+            border-radius: 4px;
+            margin-right: 16px;
+            margin-top: 2px;
+            flex-shrink: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .task-owner {
+            font-size: 14px;
+            font-weight: 700;
+            padding: 4px 8px;
+            border-radius: 4px;
+            margin-left: 12px;
+            white-space: nowrap;
+            display: inline-block;
+        }
+        .owner-content {
+            color: #10b981;
+            background-color: rgba(16, 185, 129, 0.1);
+        }
+        .owner-dev {
+            color: #3b82f6;
+            background-color: rgba(59, 130, 246, 0.1);
+        }
+        .qa-item {
+            background-color: rgba(245, 158, 11, 0.1);
+            border-left: 4px solid #f59e0b;
+            padding: 12px; /* slightly reduced */
+            margin-top: 10px;
+        }
+        .qa-item .checkbox {
+            border-color: #f59e0b;
+        }
+        .outcome-card {
+            background-color: rgba(16, 185, 129, 0.1);
+            border-left: 6px solid #10b981;
+            padding: 20px; /* reduced */
+        }
+        .outcome-title {
+            font-size: 24px;
+            font-weight: 700;
+            color: #10b981;
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .outcome-text {
+            font-size: 20px;
+            color: #ffffff;
+            line-height: 1.5;
+        }
+        .highlight-box {
+            background-color: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 20px; /* reduced */
+        }
+        .highlight-title {
+            font-size: 20px;
+            font-weight: 700;
+            color: #3b82f6;
+            margin-bottom: 12px;
+        }
+        .highlight-text {
+            font-size: 18px;
+            color: #e2e8f0;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <h2 class="slide-title">Week 3: Create Structured FAQ Pages for All 19 Brands</h2>
+        </div>
+        
+        <div class="content-wrapper">
+            <div class="left-col">
+                <div class="checklist-container">
+                    <ul class="checklist">
+                        <li class="check-item">
+                            <div class="checkbox"></div>
+                            <div>
+                                <strong>Task 3.1:</strong> Write comprehensive FAQ pages for all 19 brands (pricing, logistics, insurance, routes).
+                                <span class="task-owner owner-content">CONTENT TEAM</span>
+                            </div>
+                        </li>
+                        <li class="check-item">
+                            <div class="checkbox"></div>
+                            <div>
+                                <strong>Task 3.1a:</strong> Include international-specific FAQs for 5 intl brands (customs, shipping times, documentation).
+                                <span class="task-owner owner-content">CONTENT TEAM</span>
+                            </div>
+                        </li>
+                        <li class="check-item">
+                            <div class="checkbox"></div>
+                            <div>
+                                <strong>Task 3.2:</strong> Implement FAQPage JSON-LD schema on all 19 FAQ pages.
+                                <span class="task-owner owner-dev">DEV TEAM</span>
+                            </div>
+                        </li>
+                        <li class="check-item">
+                            <div class="checkbox"></div>
+                            <div>
+                                <strong>Task 3.3:</strong> Audit and reformat homepage content into claim-based statements with verifiable data.
+                                <span class="task-owner owner-content">CONTENT TEAM</span>
+                            </div>
+                        </li>
+                        <li class="check-item qa-item">
+                            <div class="checkbox"></div>
+                            <div>
+                                <strong>QA Check:</strong> Validate FAQ schema using Google Rich Results Test.
+                                <span class="task-owner owner-dev">DEV TEAM</span>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="right-col">
+                <div class="outcome-card">
+                    <div class="outcome-title">
+                        <i class="fas fa-flag-checkered"></i> Expected Outcome
+                    </div>
+                    <div class="outcome-text">
+                        19 FAQ pages live and indexed; AI engines can extract structured answers directly from our sites.
+                    </div>
+                </div>
+                
+                <div class="highlight-box">
+                    <div class="highlight-title">Why FAQs Matter for AI</div>
+                    <div class="highlight-text">
+                        AI engines like ChatGPT and Perplexity rely heavily on structured Q&A formats to generate recommendations. Currently, 11 of the 19 sites lack dedicated FAQ sections, meaning AI engines have to guess or look elsewhere for answers.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

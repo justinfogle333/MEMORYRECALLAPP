@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container {
+            width: 1280px;
+            min-height: 720px;
+            background-color: #0f172a;
+            font-family: 'Inter', sans-serif;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+        .header {
+            padding-top: 60px; /* must keep this */
+            padding-left: 80px;
+            padding-right: 80px;
+            margin-bottom: 40px;
+        }
+        .slide-title {
+            font-size: 48px;
+            font-weight: 900;
+            color: #ffffff;
+            line-height: 1.2;
+            border-left: 8px solid #3b82f6;
+            padding-left: 24px;
+        }
+        .content-wrapper {
+            display: flex;
+            flex: 1;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom: 24px; /* reduced from 60 -> helps overall height */
+        }
+        .grid-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-template-rows: 1fr 1fr;
+            gap: 20px; /* reduced gap */
+            width: 100%;
+        }
+        .grid-item {
+            background-color: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(59, 130, 246, 0.3);
+            padding: 18px; /* reduced from 30 */
+            display: flex;
+            flex-direction: column;
+        }
+        .domain-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 12px; /* reduced spacing */
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            padding-bottom: 12px; /* reduced spacing */
+        }
+        .domain-name {
+            font-size: 28px;
+            font-weight: 700;
+            color: #3b82f6;
+        }
+        .score-badge {
+            background-color: rgba(255, 255, 255, 0.1);
+            color: #ffffff;
+            font-size: 20px;
+            font-weight: 700;
+            padding: 6px 16px;
+        }
+        .issue-text {
+            font-size: 22px;
+            color: #e2e8f0;
+            line-height: 1.6;
+        }
+        .highlight {
+            color: #10b981;
+            font-weight: 700;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <h2 class="slide-title">4 Domains Are Actively Losing Leads Every Day</h2>
+        </div>
+        
+        <div class="content-wrapper">
+            <div class="grid-container">
+                <div class="grid-item">
+                    <div class="domain-header">
+                        <div class="domain-name">kerbmoving.com</div>
+                        <div class="score-badge">Score: 25 (F)</div>
+                    </div>
+                    <div class="issue-text">
+                        Currently a <span class="highlight">parked domain</span> redirecting to a streaming article site. The existing llms.txt file <span class="highlight">actively blocks AI training</span>.
+                    </div>
+                </div>
+                
+                <div class="grid-item">
+                    <div class="domain-header">
+                        <div class="domain-name">shepherdmovers.com</div>
+                        <div class="score-badge">Score: 15 (F)</div>
+                    </div>
+                    <div class="issue-text">
+                        Causes <span class="highlight">browser crashes</span> due to client-side errors. Missing nearly all GEO signals, including schema, meta descriptions, and AI files.
+                    </div>
+                </div>
+                
+                <div class="grid-item">
+                    <div class="domain-header">
+                        <div class="domain-name">ldmovers.com</div>
+                        <div class="score-badge">Redirects</div>
+                    </div>
+                    <div class="issue-text">
+                        Redirects to longdistanceusamovers.com, but the main Blog link returns a <span class="highlight">404 error</span>. Missing crucial MovingCompany schema.
+                    </div>
+                </div>
+                
+                <div class="grid-item">
+                    <div class="domain-header">
+                        <div class="domain-name">sunsetmoving.com</div>
+                        <div class="score-badge">Score: 43 (D)</div>
+                    </div>
+                    <div class="issue-text">
+                        Contains <span class="highlight">malformed HTML</span> that AI crawlers cannot parse programmatically. Missing schema and viewport meta tags.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

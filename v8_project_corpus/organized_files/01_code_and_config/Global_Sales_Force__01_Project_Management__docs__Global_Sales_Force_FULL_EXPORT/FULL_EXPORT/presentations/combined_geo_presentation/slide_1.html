@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container {
+            width: 1280px;
+            min-height: 720px;
+            background-color: #0f172a;
+            font-family: 'Inter', sans-serif;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            padding-left: 120px;
+        }
+        .shape-1 {
+            position: absolute;
+            top: -100px;
+            right: -100px;
+            width: 600px;
+            height: 600px;
+            background: linear-gradient(135deg, #3b82f6 0%, transparent 100%);
+            border-radius: 50%;
+            opacity: 0.2;
+        }
+        .shape-2 {
+            position: absolute;
+            bottom: -150px;
+            right: 200px;
+            width: 400px;
+            height: 400px;
+            background: linear-gradient(135deg, #10b981 0%, transparent 100%);
+            transform: rotate(45deg);
+            opacity: 0.15;
+        }
+        .shape-3 {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 20px;
+            height: 100%;
+            background-color: #3b82f6;
+        }
+        .title {
+            font-size: 64px;
+            font-weight: 900;
+            color: #ffffff;
+            line-height: 1.1;
+            margin-bottom: 24px;
+            max-width: 900px;
+            z-index: 10;
+        }
+        .subtitle {
+            font-size: 32px;
+            font-weight: 400;
+            color: #3b82f6;
+            margin-bottom: 60px;
+            max-width: 800px;
+            z-index: 10;
+        }
+        .meta-container {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            z-index: 10;
+        }
+        .meta-text {
+            font-size: 20px;
+            color: #94a3b8;
+            font-weight: 400;
+        }
+        .highlight {
+            color: #10b981;
+            font-weight: 700;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="shape-1"></div>
+        <div class="shape-2"></div>
+        <div class="shape-3"></div>
+        
+        <h1 class="title">GEO Readiness Audit:<br>The Complete 19-Brand Portfolio</h1>
+        <h2 class="subtitle">Generative Engine Optimization Scorecard — Domestic & International</h2>
+        
+        <div class="meta-container">
+            <div class="meta-text">Date: <span class="highlight">March 2026</span></div>
+            <div class="meta-text">Prepared for: <span class="highlight">Alex & Global Sales Force Leadership</span></div>
+        </div>
+    </div>
+</body>
+</html>

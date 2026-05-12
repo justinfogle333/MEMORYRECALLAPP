@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container {
+            width: 1280px;
+            min-height: 720px;
+            background-color: #0f172a;
+            font-family: 'Inter', sans-serif;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+        .header {
+            padding-top: 60px;
+            padding-left: 80px;
+            padding-right: 80px;
+        }
+        .slide-title {
+            font-size: 48px;
+            font-weight: 900;
+            color: #ffffff;
+            line-height: 1.2;
+            border-left: 8px solid #3b82f6;
+            padding-left: 24px;
+        }
+        .content-wrapper {
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            padding-top: 40px;
+            padding-left: 80px;
+            padding-right: 80px;
+        }
+        .budget-grid {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+        .budget-row {
+            display: flex;
+            align-items: center;
+            background-color: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 20px 30px;
+        }
+        .phase-col {
+            flex: 1;
+            font-size: 24px;
+            font-weight: 700;
+            color: #ffffff;
+        }
+        .desc-col {
+            flex: 2;
+            font-size: 20px;
+            color: #94a3b8;
+        }
+        .cost-col {
+            flex: 1;
+            font-size: 28px;
+            font-weight: 700;
+            color: #3b82f6;
+            text-align: right;
+        }
+        .cost-col.internal {
+            color: #10b981;
+        }
+        .total-block {
+            margin-top: 40px;
+            background-color: rgba(59, 130, 246, 0.1);
+            border-left: 8px solid #3b82f6;
+            padding: 30px 40px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .total-label {
+            font-size: 28px;
+            font-weight: 700;
+            color: #ffffff;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        .total-value {
+            font-size: 48px;
+            font-weight: 900;
+            color: #3b82f6;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <h2 class="slide-title">Budget & Resource Summary (All 19 Brands)</h2>
+        </div>
+        
+        <div class="content-wrapper">
+            <div class="budget-grid">
+                <div class="budget-row">
+                    <div class="phase-col">Phase 1: Technical</div>
+                    <div class="desc-col">Dev time for schema, llms.txt, robots.txt, domain fixes</div>
+                    <div class="cost-col">$1,500 - $2,500</div>
+                </div>
+                
+                <div class="budget-row">
+                    <div class="phase-col">Phase 2: Content</div>
+                    <div class="desc-col">Copywriting for FAQs, About pages, Service pages</div>
+                    <div class="cost-col">$6,000 - $9,500</div>
+                </div>
+                
+                <div class="budget-row">
+                    <div class="phase-col">Phase 3: Community</div>
+                    <div class="desc-col">Reddit engagement, AMA hosting, monitoring</div>
+                    <div class="cost-col internal">Internal Time</div>
+                </div>
+                
+                <div class="budget-row">
+                    <div class="phase-col">Phase 4: Measurement</div>
+                    <div class="desc-col">AI tracking software, GA4 setup, reporting</div>
+                    <div class="cost-col">$150 - $300 / mo</div>
+                </div>
+            </div>
+            
+            <div class="total-block">
+                <div class="total-label">Total Estimated Hard Costs</div>
+                <div class="total-value">$7,650 - $12,300</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

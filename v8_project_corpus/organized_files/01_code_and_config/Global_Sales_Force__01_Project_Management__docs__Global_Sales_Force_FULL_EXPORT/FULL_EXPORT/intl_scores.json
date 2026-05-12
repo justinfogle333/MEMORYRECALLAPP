@@ -1,0 +1,47 @@
+{
+  "myinternationalmovers.com": {
+    "Technical Foundation": 20,
+    "AI Discoverability": 9,
+    "Content Quality": 20,
+    "Trust & Authority": 15,
+    "Entity Authority": 10,
+    "Total": 74,
+    "Grade": "B"
+  },
+  "ilovemoving.com": {
+    "Technical Foundation": 20,
+    "AI Discoverability": 9,
+    "Content Quality": 10,
+    "Trust & Authority": 15,
+    "Entity Authority": 10,
+    "Total": 64,
+    "Grade": "C"
+  },
+  "shepherdmovers.com": {
+    "Technical Foundation": 15,
+    "AI Discoverability": 0,
+    "Content Quality": 0,
+    "Trust & Authority": 0,
+    "Entity Authority": 0,
+    "Total": 15,
+    "Grade": "F"
+  },
+  "sunsetmoving.com": {
+    "Technical Foundation": 15,
+    "AI Discoverability": 8,
+    "Content Quality": 15,
+    "Trust & Authority": 5,
+    "Entity Authority": 0,
+    "Total": 43,
+    "Grade": "D"
+  },
+  "schmidtmovers.com": {
+    "Technical Foundation": 20,
+    "AI Discoverability": 9,
+    "Content Quality": 5,
+    "Trust & Authority": 10,
+    "Entity Authority": 10,
+    "Total": 54,
+    "Grade": "C"
+  }
+}

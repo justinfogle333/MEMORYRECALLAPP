@@ -1,0 +1,26 @@
+[
+  {
+    "provider": "perplexity_sonar_pro",
+    "status": "ok",
+    "path": "/home/ubuntu/workspace/MEMORYRECALLAPP/v8_project_corpus/llm_crosscheck/perplexity_sonar_pro.md",
+    "meta": {}
+  },
+  {
+    "provider": "gemini_2_5_flash",
+    "status": "ok",
+    "path": "/home/ubuntu/workspace/MEMORYRECALLAPP/v8_project_corpus/llm_crosscheck/gemini_2_5_flash.md",
+    "meta": {}
+  },
+  {
+    "provider": "anthropic_claude_sonnet",
+    "status": "failed",
+    "path": "/home/ubuntu/workspace/MEMORYRECALLAPP/v8_project_corpus/llm_crosscheck/anthropic_claude_sonnet.md",
+    "meta": {}
+  },
+  {
+    "provider": "openai_gpt_5",
+    "status": "failed",
+    "path": "/home/ubuntu/workspace/MEMORYRECALLAPP/v8_project_corpus/llm_crosscheck/openai_gpt_5.md",
+    "meta": {}
+  }
+]

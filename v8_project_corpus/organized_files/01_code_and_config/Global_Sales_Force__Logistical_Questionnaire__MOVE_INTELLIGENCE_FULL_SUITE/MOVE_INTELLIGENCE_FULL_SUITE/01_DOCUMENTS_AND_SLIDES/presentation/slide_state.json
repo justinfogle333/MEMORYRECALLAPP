@@ -1,0 +1,132 @@
+{
+  "project_info": {
+    "title": "MOVE INTELLIGENCE SYSTEM",
+    "created": 1777395681.0908043,
+    "last_updated": 1777395888.000978,
+    "total_slides": 10
+  },
+  "slides": [
+    {
+      "id": "slide_1",
+      "state": "edited",
+      "pageNum": 1
+    },
+    {
+      "id": "slide_2",
+      "state": "edited",
+      "pageNum": 2
+    },
+    {
+      "id": "slide_3",
+      "state": "edited",
+      "pageNum": 3
+    },
+    {
+      "id": "slide_4",
+      "state": "edited",
+      "pageNum": 4
+    },
+    {
+      "id": "slide_5",
+      "state": "edited",
+      "pageNum": 5
+    },
+    {
+      "id": "slide_6",
+      "state": "edited",
+      "pageNum": 6
+    },
+    {
+      "id": "slide_7",
+      "state": "edited",
+      "pageNum": 7
+    },
+    {
+      "id": "slide_8",
+      "state": "edited",
+      "pageNum": 8
+    },
+    {
+      "id": "slide_9",
+      "state": "edited",
+      "pageNum": 9
+    },
+    {
+      "id": "slide_10",
+      "state": "edited",
+      "pageNum": 10
+    }
+  ],
+  "outline": [
+    {
+      "id": "slide_1",
+      "title": "MOVE INTELLIGENCE SYSTEM",
+      "summary": "Title slide introducing the Move Intelligence System with a futuristic aesthetic.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_2",
+      "title": "Every Move is Unique. Every Detail Matters.",
+      "summary": "Explains why logistics details are crucial for accurate pricing and smooth operations.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_3",
+      "title": "Our Fleet Requires Specific Space to Operate Safely",
+      "summary": "Details the truck dimensions and minimum space requirements for 26ft box trucks and semi-trailers.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_4",
+      "title": "Level 1 — Standard Access: The Baseline Move",
+      "summary": "Defines a standard move with no stairs, short carry, and clear truck access.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_5",
+      "title": "Level 2–3 — Moderate Access: Common Complications",
+      "summary": "Outlines moderate access challenges like 1-2 flights of stairs, long carries, and elevator use.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_6",
+      "title": "Level 4–5 — Expert Access: Maximum Complexity",
+      "summary": "Describes expert-level moves requiring shuttles, hoisting, permits, and extensive stairs.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_7",
+      "title": "Two Service Structures. Two Price Points. You Choose.",
+      "summary": "Compares Live Load, Branch Load, and Semi+Shuttle service options.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_8",
+      "title": "Complete Our Logistics Intake. Get a Precise Quote.",
+      "summary": "Lists the specific information needed from the client for both pick-up and delivery locations.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_9",
+      "title": "No Other Moving Company Thinks This Way",
+      "summary": "Highlights the company's unique, precision-based approach to logistics intake.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_10",
+      "title": "Ready to Move? Let's Start With the Details.",
+      "summary": "Call to action slide prompting the client to complete the questionnaire or visit the portal.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    }
+  ]
+}

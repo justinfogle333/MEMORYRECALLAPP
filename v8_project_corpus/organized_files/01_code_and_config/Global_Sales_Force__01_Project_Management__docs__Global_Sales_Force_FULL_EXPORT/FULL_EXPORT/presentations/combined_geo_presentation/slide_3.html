@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container {
+            width: 1280px;
+            min-height: 720px;
+            background-color: #0f172a;
+            font-family: 'Inter', sans-serif;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+        .header {
+            padding-top: 60px; /* keep upper padding */
+            padding-left: 80px;
+            padding-right: 80px;
+            margin-bottom: 20px; /* reduced from 40px to save vertical space */
+        }
+        .slide-title {
+            font-size: 48px;
+            font-weight: 900;
+            color: #ffffff;
+            line-height: 1.2;
+            border-left: 8px solid #10b981;
+            padding-left: 24px;
+        }
+        .content-wrapper {
+            display: flex;
+            flex: 1;
+            padding-left: 80px;
+            padding-right: 80px;
+            gap: 40px;
+        }
+        .column {
+            flex: 1;
+            background-color: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 12px; /* reduced from 30px to decrease height */
+        }
+        .col-title {
+            font-size: 28px;
+            font-weight: 700;
+            color: #3b82f6;
+            margin-bottom: 16px;
+            border-bottom: 2px solid rgba(59, 130, 246, 0.3);
+            padding-bottom: 8px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .count-badge {
+            background-color: #3b82f6;
+            color: #ffffff;
+            font-size: 16px;
+            padding: 4px 12px;
+            border-radius: 20px;
+        }
+        .intl-title {
+            color: #10b981;
+            border-bottom-color: rgba(16, 185, 129, 0.3);
+        }
+        .intl-badge {
+            background-color: #10b981;
+        }
+        .brand-list {
+            list-style: none;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px; /* slightly reduced gap */
+        }
+        .brand-list.single-col {
+            grid-template-columns: 1fr;
+        }
+        .brand-item {
+            font-size: 18px;
+            color: #e2e8f0;
+            padding: 8px 12px; /* reduced vertical padding */
+            background-color: rgba(255, 255, 255, 0.05);
+            border-left: 4px solid #3b82f6;
+        }
+        .intl-item {
+            border-left-color: #10b981;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <h2 class="slide-title">Portfolio Overview — 19 Brands Across Two Divisions</h2>
+        </div>
+        
+        <div class="content-wrapper">
+            <div class="column" style="flex: 2;">
+                <div class="col-title">
+                    Domestic Brands
+                    <span class="count-badge">14 Sites</span>
+                </div>
+                <ul class="brand-list">
+                    <li class="brand-item">ultimatemovers.net</li>
+                    <li class="brand-item">california-seattleexpress.com</li>
+                    <li class="brand-item">crosscountrymovers.com</li>
+                    <li class="brand-item">crosscountrymovingcompany.net</li>
+                    <li class="brand-item">eastcoastwestcoastmovers.com</li>
+                    <li class="brand-item">flatpriceautotransport.com</li>
+                    <li class="brand-item">kerbmoving.com</li>
+                    <li class="brand-item">ldmovers.com</li>
+                    <li class="brand-item">longdistancemovers.com</li>
+                    <li class="brand-item">longdistancemovingexperts.com</li>
+                    <li class="brand-item">longdistanceusamovers.com</li>
+                    <li class="brand-item">state2statemovers.com</li>
+                    <li class="brand-item">tricolongdistancemovers.com</li>
+                    <li class="brand-item">usa-autotransport.com</li>
+                </ul>
+            </div>
+            
+            <div class="column" style="flex: 1;">
+                <div class="col-title intl-title">
+                    International Brands
+                    <span class="count-badge intl-badge">5 Sites</span>
+                </div>
+                <ul class="brand-list single-col">
+                    <li class="brand-item intl-item">myinternationalmovers.com</li>
+                    <li class="brand-item intl-item">ilovemoving.com</li>
+                    <li class="brand-item intl-item">schmidtmovers.com</li>
+                    <li class="brand-item intl-item">sunsetmoving.com</li>
+                    <li class="brand-item intl-item">shepherdmovers.com</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

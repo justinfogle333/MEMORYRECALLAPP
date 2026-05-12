@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container { 
+            width: 1280px; 
+            min-height: 720px; 
+            background-color: #0A192F; 
+            font-family: 'Inter', sans-serif;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        
+        /* Header Area */
+        .header {
+            padding-top: 60px;
+            padding-left: 80px;
+            padding-right: 80px;
+            display: flex;
+            align-items: center;
+        }
+        
+        .header-accent {
+            width: 8px;
+            height: 40px;
+            background-color: #00B4D8;
+            margin-right: 20px;
+        }
+        
+        .slide-title {
+            color: #00B4D8;
+            font-size: 32px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        /* Content Area (reduced vertical padding + top-align columns) */
+        .content-area {
+            display: flex;
+            flex: 1;
+            padding-top: 20px; /* reduced from 60px */
+            padding-left: 60px;
+            padding-right: 60px;
+            gap: 40px;
+        }
+
+        .left-col {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start; /* avoid extra vertical centering */
+        }
+
+        .right-col {
+            flex: 1.2;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start; /* avoid extra vertical centering */
+        }
+
+        .main-heading {
+            color: #FFFFFF;
+            font-size: 54px;
+            font-weight: 800;
+            line-height: 1.2;
+        }
+
+        .highlight {
+            color: #00B4D8;
+        }
+
+        .bullet-list {
+            list-style: none;
+        }
+
+        .bullet-item {
+            color: #F8F9FA;
+            font-size: 24px;
+            line-height: 1.5;
+            margin-bottom: 16px; /* reduced from 30px */
+            display: flex;
+            align-items: flex-start;
+        }
+
+        .bullet-icon {
+            color: #00B4D8;
+            font-size: 24px;
+            margin-right: 16px;
+            margin-top: 3px; /* reduced top offset */
+            font-weight: bold;
+        }
+        
+        .stat-box {
+            background-color: rgba(0, 180, 216, 0.1);
+            border-left: 4px solid #00B4D8;
+            padding: 16px; /* slightly reduced */
+            margin-top: 12px; /* reduced from 20px */
+        }
+        
+        .stat-text {
+            color: #FFFFFF;
+            font-size: 22px;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <div class="header-accent"></div>
+            <div class="slide-title">The Problem</div>
+        </div>
+        
+        <div class="content-area">
+            <div class="left-col">
+                <div class="main-heading">
+                    93% of consumers say reviews influence their buying decision — and <span class="highlight">AI engines cite them as proof.</span>
+                </div>
+            </div>
+            
+            <div class="right-col">
+                <ul class="bullet-list">
+                    <li class="bullet-item">
+                        <span class="bullet-icon">→</span>
+                        <div>The conglomerate has ~100 Google Business Profile locations but <strong>NO systematic review process</strong>.</div>
+                    </li>
+                    <li class="bullet-item">
+                        <span class="bullet-icon">→</span>
+                        <div>Competitor International Van Lines has 1,600+ Yelp reviews (even at 1.5 stars, they dominate AI results).</div>
+                    </li>
+                    <li class="bullet-item">
+                        <span class="bullet-icon">→</span>
+                        <div>AI engines (ChatGPT, Perplexity, Google AI) pull directly from review volume and sentiment to make recommendations.</div>
+                    </li>
+                    <li class="bullet-item">
+                        <span class="bullet-icon">→</span>
+                        <div>Current state: Reviews are left entirely to chance — no follow-up, no system, no tracking.</div>
+                    </li>
+                </ul>
+                
+                <div class="stat-box">
+                    <div class="stat-text">Moving companies with 50+ Google reviews get 266% more leads than those with fewer than 10.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

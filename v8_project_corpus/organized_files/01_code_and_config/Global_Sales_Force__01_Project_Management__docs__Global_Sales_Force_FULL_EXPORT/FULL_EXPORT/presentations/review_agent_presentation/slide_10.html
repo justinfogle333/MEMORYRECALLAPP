@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container { 
+            width: 1280px; 
+            min-height: 720px; 
+            background-color: #0A192F; 
+            font-family: 'Inter', sans-serif;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        
+        /* Header Area */
+        .header {
+            padding-top: 60px; /* must keep this */
+            padding-left: 80px;
+            padding-right: 80px;
+            display: flex;
+            align-items: center;
+        }
+        
+        .header-accent {
+            width: 8px;
+            height: 40px;
+            background-color: #00B4D8;
+            margin-right: 20px;
+        }
+        
+        .slide-title {
+            color: #00B4D8;
+            font-size: 32px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        /* Content Area */
+        .content-area {
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            padding-top: 20px; /* reduced from 30 */
+            padding-left: 80px;
+            padding-right: 80px;
+        }
+
+        .main-heading {
+            color: #FFFFFF;
+            font-size: 42px;
+            font-weight: 800;
+            line-height: 1.2;
+            margin-bottom: 20px; /* reduced from 40 */
+        }
+
+        .columns-container {
+            display: flex;
+            gap: 36px; /* reduced gap */
+            align-items: flex-start;
+        }
+
+        /* Left Column: Costs */
+        .cost-column {
+            flex: 1;
+            background-color: rgba(255, 255, 255, 0.02);
+            border-top: 4px solid #FF6B6B;
+            padding: 20px; /* reduced from 30 */
+        }
+
+        .column-title {
+            color: #FFFFFF;
+            font-size: 28px;
+            font-weight: 800;
+            margin-bottom: 18px; /* slightly reduced */
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .cost-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            padding-top: 10px; /* reduced from 15 */
+            padding-bottom: 10px; /* reduced from 15 */
+        }
+
+        .cost-item:last-child {
+            border-bottom: none;
+        }
+
+        .cost-label {
+            color: #F8F9FA;
+            font-size: 20px;
+            font-weight: 600;
+        }
+
+        .cost-desc {
+            color: rgba(255, 255, 255, 0.6);
+            font-size: 16px;
+            margin-top: 5px;
+        }
+
+        .cost-value {
+            color: #FF6B6B;
+            font-size: 24px;
+            font-weight: 800;
+            text-align: right;
+        }
+
+        /* Right Column: ROI - refreshed layout to a compact grid */
+        .roi-column {
+            flex: 1;
+            background-color: rgba(0, 180, 216, 0.05);
+            border-top: 4px solid #00B4D8;
+            padding: 20px; /* reduced from 30 */
+        }
+
+        .roi-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 16px 18px; /* compact grid */
+        }
+
+        .roi-item {
+            background: transparent;
+            padding: 8px 0;
+        }
+
+        .roi-metric {
+            color: #00B4D8;
+            font-size: 48px;
+            font-weight: 800;
+            line-height: 1;
+            margin-bottom: 6px; /* tightened spacing */
+        }
+
+        .roi-label {
+            color: #FFFFFF;
+            font-size: 22px;
+            font-weight: 600;
+            margin-bottom: 4px; /* tightened spacing */
+        }
+
+        .roi-desc {
+            color: #F8F9FA;
+            font-size: 18px;
+            line-height: 1.3; /* slightly tighter */
+            opacity: 0.85;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <div class="header-accent"></div>
+            <div class="slide-title">Estimated Costs and ROI</div>
+        </div>
+        
+        <div class="content-area">
+            <div class="main-heading">
+                The Math: Low overhead, high leverage
+            </div>
+            
+            <div class="columns-container">
+                <!-- Costs Column -->
+                <div class="cost-column">
+                    <div class="column-title">Investment</div>
+                    
+                    <div class="cost-item">
+                        <div>
+                            <div class="cost-label">Agent Build & Integration</div>
+                            <div class="cost-desc">One-time setup (CRM, Twilio, Routing)</div>
+                        </div>
+                        <div class="cost-value">$2,500</div>
+                    </div>
+                    
+                    <div class="cost-item">
+                        <div>
+                            <div class="cost-label">Software Infrastructure</div>
+                            <div class="cost-desc">Monthly (Zapier, Twilio SMS, Hosting)</div>
+                        </div>
+                        <div class="cost-value">$150 / mo</div>
+                    </div>
+                    
+                    <div class="cost-item">
+                        <div>
+                            <div class="cost-label">Gift Card Budget</div>
+                            <div class="cost-desc">Variable ($15 per completed survey)</div>
+                        </div>
+                        <div class="cost-value">Pay for Performance</div>
+                    </div>
+                </div>
+                
+                <!-- ROI Column (now compact grid) -->
+                <div class="roi-column">
+                    <div class="column-title" style="color: #00B4D8;">Projected 90-Day ROI</div>
+                    <div class="roi-grid">
+                        <div class="roi-item">
+                            <div class="roi-metric">300+</div>
+                            <div class="roi-label">New Authentic Reviews</div>
+                            <div class="roi-desc">Distributed across the 19 brands and 100+ Google Business Profile locations.</div>
+                        </div>
+                        <div class="roi-item">
+                            <div class="roi-metric">15%</div>
+                            <div class="roi-label">Local SEO Visibility Bump</div>
+                            <div class="roi-desc">Consistent review velocity is the #2 ranking factor for the Google Local Pack.</div>
+                        </div>
+                        <div class="roi-item" style="grid-column: 1 / -1;">
+                            <div class="roi-metric">AI Dominance</div>
+                            <div class="roi-label">The Ultimate Goal</div>
+                            <div class="roi-desc">High review volume feeds directly into ChatGPT and Perplexity recommendations.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

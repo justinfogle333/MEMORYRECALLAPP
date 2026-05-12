@@ -1,0 +1,7 @@
+# Bot A: Lead Quoting Engine — Dependencies
+# All lightweight, no heavy ML frameworks needed
+
+python-dotenv>=1.0.0     # Environment variable management
+requests>=2.31.0         # HTTP client for LLM APIs
+openai>=1.0.0            # OpenAI-compatible API client (optional, for fallback)
+pandas>=2.0.0            # Data handling for training CSV

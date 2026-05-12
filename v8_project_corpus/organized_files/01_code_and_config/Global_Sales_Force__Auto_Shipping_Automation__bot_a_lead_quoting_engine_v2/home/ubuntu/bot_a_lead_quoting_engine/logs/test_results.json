@@ -1,0 +1,33 @@
+{
+  "timestamp": "2026-04-27T20:55:40.587837",
+  "data_path": "/home/ubuntu/bot_a_lead_quoting_engine/data/Auto_Shipping_Training_Data_Combined.csv",
+  "total_tests": 6,
+  "passed": 6,
+  "failed": 0,
+  "results": [
+    {
+      "test": "1. Data Loading (v2 structure)",
+      "status": "PASS"
+    },
+    {
+      "test": "2. Route Matching (zip + city/state + state)",
+      "status": "PASS"
+    },
+    {
+      "test": "3. Pricing Algorithm (quotes + seasonality)",
+      "status": "PASS"
+    },
+    {
+      "test": "4. Vehicle Type Data",
+      "status": "PASS"
+    },
+    {
+      "test": "5. Golden Route Detection",
+      "status": "PASS"
+    },
+    {
+      "test": "6. Carrier Name Data",
+      "status": "PASS"
+    }
+  ]
+}

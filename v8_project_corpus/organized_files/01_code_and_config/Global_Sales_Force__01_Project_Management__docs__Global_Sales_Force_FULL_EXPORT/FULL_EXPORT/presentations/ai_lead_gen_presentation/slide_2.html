@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;900&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; background-color: #121212; color: #F8F9FA; }
+        .slide-container { 
+            width: 1280px; 
+            min-height: 720px; 
+            background-color: #121212;
+            padding: 60px 80px;
+            display: flex;
+            flex-direction: column;
+        }
+        .header {
+            margin-bottom: 20px; /* reduced from 50px to save vertical space */
+            border-bottom: 1px solid #333;
+            padding-top: 20px;
+        }
+        .title {
+            font-size: 32px;
+            font-weight: 900;
+            color: #38B000;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            font-size: 48px;
+            font-weight: 900;
+            color: #F8F9FA;
+            margin-bottom: 20px;
+            line-height: 1.2;
+        }
+        .content-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 60px;
+            flex-grow: 1;
+        }
+        .narrative {
+            font-size: 24px;
+            font-weight: 500;
+            color: #CED4DA;
+            line-height: 1.6;
+            border-left: 1px solid #38B000;
+            padding-left: 30px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .highlight-text {
+            color: #F8F9FA;
+            font-weight: 900;
+            margin-top: 12px; /* reduced from 30px */
+            font-size: 28px;
+            border: 1px solid #38B000;
+            padding: 12px; /* reduced from 20px */
+            background: rgba(56, 176, 0, 0.05);
+        }
+        .metrics-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px; /* reduced from 30px to bring rows closer */
+        }
+        .metric-box {
+            border: 1px solid #333;
+            padding: 18px 14px; /* reduced vertical padding from 30px to 18px */
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            background: #1a1a1a;
+        }
+        .metric-value {
+            font-size: 56px;
+            font-weight: 900;
+            color: #38B000;
+            margin-bottom: 10px;
+            line-height: 1;
+        }
+        .metric-value.negative {
+            color: #D00000;
+        }
+        .metric-label {
+            font-size: 16px;
+            font-weight: 500;
+            color: #CED4DA;
+            line-height: 1.4;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <div class="title">The Search Landscape</div>
+            <h2 class="subtitle">Traditional Search Is Declining — AI Search Is Taking Over</h2>
+        </div>
+        
+        <div class="content-grid">
+            <div class="narrative">
+                <p>The way consumers find movers is shifting dramatically. Instead of scrolling through Google's 10 blue links, people are now asking AI chatbots directly: "What are the best long-distance movers?"</p>
+                
+                <div class="highlight-text">
+                    The question is no longer "Are we on page 1 of Google?" — it's "Does ChatGPT recommend us?"
+                </div>
+            </div>
+            
+            <div class="metrics-container">
+                <div class="metric-box" style="border-top: 4px solid #D00000;">
+                    <div class="metric-value negative">-25%</div>
+                    <div class="metric-label">Projected drop in traditional search volume in 2026 (Gartner)</div>
+                </div>
+                <div class="metric-box" style="border-top: 4px solid #38B000;">
+                    <div class="metric-value">2B+</div>
+                    <div class="metric-label">Monthly users reached by Google AI Overviews</div>
+                </div>
+                <div class="metric-box" style="border-top: 4px solid #38B000;">
+                    <div class="metric-value">800M</div>
+                    <div class="metric-label">Users served by ChatGPT every single week</div>
+                </div>
+                <div class="metric-box" style="border-top: 4px solid #38B000;">
+                    <div class="metric-value">100M+</div>
+                    <div class="metric-label">Queries processed by Perplexity monthly</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

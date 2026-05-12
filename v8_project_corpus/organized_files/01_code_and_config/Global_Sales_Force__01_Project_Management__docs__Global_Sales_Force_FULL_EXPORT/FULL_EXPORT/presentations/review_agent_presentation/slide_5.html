@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container { 
+            width: 1280px; 
+            min-height: 720px; 
+            background-color: #0A192F; 
+            font-family: 'Inter', sans-serif;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        
+        /* Header Area */
+        .header {
+            padding-top: 60px;
+            padding-left: 80px;
+            padding-right: 80px;
+            display: flex;
+            align-items: center;
+        }
+        
+        .header-accent {
+            width: 8px;
+            height: 40px;
+            background-color: #00B4D8;
+            margin-right: 20px;
+        }
+        
+        .slide-title {
+            color: #00B4D8;
+            font-size: 32px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        /* Content Area */
+        .content-area {
+            display: flex;
+            flex: 1;
+            padding-top: 10px; /* reduced from 30px */
+            padding-left: 80px;
+            padding-right: 80px;
+            gap: 50px;
+        }
+
+        .left-col {
+            flex: 1.5;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .right-col {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .main-heading {
+            color: #FFFFFF;
+            font-size: 42px;
+            font-weight: 800;
+            line-height: 1.15; /* slightly tightened to save space */
+            margin-bottom: 20px; /* reduced from 30px */
+        }
+
+        .highlight {
+            color: #00B4D8;
+        }
+
+        .rule-box {
+            background-color: rgba(255, 255, 255, 0.05);
+            border-left: 4px solid #00B4D8;
+            padding: 14px; /* reduced from 20px */
+            margin-bottom: 16px; /* reduced from 25px */
+        }
+
+        .rule-text {
+            color: #F8F9FA;
+            font-size: 18px;
+            line-height: 1.5;
+            font-style: italic;
+        }
+
+        .bullet-list {
+            list-style: none;
+        }
+
+        .bullet-item {
+            color: #F8F9FA;
+            font-size: 20px;
+            line-height: 1.4;
+            margin-bottom: 12px; /* reduced from 16px */
+            display: flex;
+            align-items: flex-start;
+        }
+
+        .bullet-icon {
+            color: #00B4D8;
+            font-size: 20px;
+            margin-right: 12px; /* slightly reduced */
+            margin-top: 4px;
+            font-weight: bold;
+        }
+
+        .penalty-box {
+            background-color: rgba(255, 0, 0, 0.1);
+            border: 2px solid #FF4444;
+            padding: 12px; /* reduced from 15px */
+            margin-top: 8px; /* reduced from 10px */
+            text-align: center;
+        }
+
+        .penalty-text {
+            color: #FF4444;
+            font-size: 22px;
+            font-weight: 800;
+            text-transform: uppercase;
+        }
+
+        .image-container {
+            width: 100%;
+            height: 260px; /* reduced from 400px */
+            background-color: #FFFFFF;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 10px;
+            border: 2px solid #00B4D8;
+        }
+
+        .portfolio-image {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+        }
+
+        .image-caption {
+            color: #00B4D8;
+            font-size: 18px;
+            font-weight: 600;
+            margin-top: 12px; /* reduced from 15px */
+            text-align: center;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        .source-text {
+            color: rgba(255, 255, 255, 0.4);
+            font-size: 14px;
+            margin-top: auto;
+            padding-bottom: 18px; /* reduced from 30px */
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <div class="header-accent"></div>
+            <div class="slide-title">The FTC Fine Print</div>
+        </div>
+        
+        <div class="content-area">
+            <div class="left-col">
+                <div class="main-heading">
+                    The FTC does NOT ban incentivized reviews — it bans <span class="highlight">incentivized POSITIVE reviews.</span>
+                </div>
+                
+                <div class="rule-box">
+                    <div class="rule-text">"The Rule does not prohibit giving incentives for reviews, as long as there is not an express or implied requirement that the reviews have to express a particular sentiment." — FTC Rule (Oct 21, 2024)</div>
+                </div>
+                
+                <ul class="bullet-list">
+                    <li class="bullet-item">
+                        <span class="bullet-icon">✗</span>
+                        <div><strong>PROHIBITED:</strong> Saying "tell us how much you loved your move."</div>
+                    </li>
+                    <li class="bullet-item">
+                        <span class="bullet-icon">✗</span>
+                        <div><strong>PROHIBITED:</strong> Review Gating (routing happy customers to public sites, unhappy to private).</div>
+                    </li>
+                    <li class="bullet-item">
+                        <span class="bullet-icon">✓</span>
+                        <div><strong>COMPLIANT:</strong> Sending a satisfaction survey FIRST, then sending ALL respondents a review request.</div>
+                    </li>
+                </ul>
+                
+                <div class="penalty-box">
+                    <div class="penalty-text">Penalty for Violations: $53,088 Per Incident</div>
+                </div>
+                
+                <div class="source-text">Source: National Law Review, FTC 16 C.F.R 255.5</div>
+            </div>
+            
+            <div class="right-col">
+                <div class="image-container">
+                    <img src="/home/ubuntu/upload/pasted_file_0lXtKW_image.png" alt="Brand Portfolio" class="portfolio-image">
+                </div>
+                <div class="image-caption">
+                    Protecting the Portfolio Across All Brands
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

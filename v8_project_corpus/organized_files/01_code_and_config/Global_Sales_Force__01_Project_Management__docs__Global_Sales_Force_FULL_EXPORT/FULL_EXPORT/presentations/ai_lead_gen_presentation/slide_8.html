@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;900&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; background-color: #121212; color: #F8F9FA; }
+        .slide-container { 
+            width: 1280px; 
+            min-height: 720px; 
+            background-color: #121212;
+            padding: 40px 80px; /* reduced from 50 to save vertical space */
+            display: flex;
+            flex-direction: column;
+        }
+        .header {
+            margin-bottom: 20px; /* reduced from 40 */
+            border-bottom: 1px solid #333;
+            padding-top: 10px; /* KEEP this as required */
+        }
+        .title {
+            font-size: 32px;
+            font-weight: 900;
+            color: #38B000;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            font-size: 40px;
+            font-weight: 900;
+            color: #F8F9FA;
+            margin-bottom: 12px; /* slightly reduced */
+            line-height: 1.2;
+        }
+        .content-grid {
+            display: grid;
+            grid-template-columns: 40% 60%;
+            gap: 30px; /* horizontal gap reduced from 50 */
+            flex-grow: 1;
+        }
+        .left-column {
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start; /* avoid large vertical gaps */
+        }
+        .narrative {
+            font-size: 24px;
+            font-weight: 500;
+            color: #CED4DA;
+            line-height: 1.6;
+            margin-bottom: 15px; /* reduced */
+        }
+        .meta-info {
+            border: 1px solid #38B000;
+            background: rgba(56, 176, 0, 0.05);
+            padding: 12px; /* reduced from 25 */
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        .meta-row {
+            display: flex;
+            align-items: center;
+        }
+        .meta-label {
+            font-size: 18px;
+            font-weight: 900;
+            color: #38B000;
+            width: 120px;
+            text-transform: uppercase;
+        }
+        .meta-value {
+            font-size: 20px;
+            font-weight: 500;
+            color: #F8F9FA;
+        }
+        .impact-highlight {
+            margin-top: 8px;
+            padding-top: 8px; /* reduced */
+            border-top: 1px solid rgba(56, 176, 0, 0.3);
+            font-size: 18px;
+            font-weight: 900;
+            color: #F8F9FA;
+        }
+        .right-column {
+            display: flex;
+            flex-direction: column;
+            gap: 12px; /* reduced from 20 */
+        }
+        .action-block {
+            border: 1px solid #333;
+            border-left: 4px solid #38B000;
+            background: #1a1a1a;
+            padding: 12px; /* reduced from 25 */
+            display: flex;
+            flex-direction: column;
+        }
+        .action-title {
+            font-size: 24px;
+            font-weight: 900;
+            color: #F8F9FA;
+            margin-bottom: 6px; /* slightly reduced */
+            display: flex;
+            align-items: center;
+        }
+        .action-number {
+            color: #38B000;
+            margin-right: 12px;
+            font-size: 28px;
+        }
+        .action-desc {
+            font-size: 18px;
+            font-weight: 500;
+            color: #CED4DA;
+            line-height: 1.5;
+            padding-left: 30px; /* reduced from 43 */
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <div class="title">Phase 2 — Entity Authority (Months 1-3)</div>
+            <h2 class="subtitle">Strengthen Brand Signals So AI Engines Recommend Us with Confidence</h2>
+        </div>
+        
+        <div class="content-grid">
+            <div class="left-column">
+                <div class="narrative">
+                    AI engines cross-reference multiple signals before recommending a business. The stronger and more consistent our brand presence is across the web, the more likely AI will cite us.
+                </div>
+                
+                <div class="meta-info">
+                    <div class="meta-row">
+                        <div class="meta-label">Timeline</div>
+                        <div class="meta-value">Months 1-3</div>
+                    </div>
+                    <div class="meta-row">
+                        <div class="meta-label">Investment</div>
+                        <div class="meta-value">Medium</div>
+                    </div>
+                    <div class="meta-row">
+                        <div class="meta-label">Impact</div>
+                        <div class="meta-value">Very High</div>
+                    </div>
+                    <div class="impact-highlight">
+                        Earned media is the #1 factor AI engines use for recommendations.
+                    </div>
+                </div>
+            </div>
+            
+            <div class="right-column">
+                <div class="action-block">
+                    <div class="action-title">
+                        <span class="action-number">01</span> Directory Consistency
+                    </div>
+                    <div class="action-desc">
+                        Ensure Name, Address, and Phone (NAP) data is consistent across Google Business Profile, Yelp, BBB, Trustpilot, and industry directories for all 14 brands.
+                    </div>
+                </div>
+                
+                <div class="action-block">
+                    <div class="action-title">
+                        <span class="action-number">02</span> Genuine Review Generation
+                    </div>
+                    <div class="action-desc">
+                        Systematically request reviews from satisfied customers; genuine positive reviews across multiple platforms are a primary AI recommendation signal.
+                    </div>
+                </div>
+                
+                <div class="action-block">
+                    <div class="action-title">
+                        <span class="action-number">03</span> Digital PR Campaign
+                    </div>
+                    <div class="action-desc">
+                        Pursue earned media by pitching moving tips and industry insights to local news, industry publications, and "best movers" roundup articles.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

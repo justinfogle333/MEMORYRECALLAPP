@@ -1,0 +1,100 @@
+2026-04-28 09:56:16,778 | __main__ | INFO | Initializing Bot A: Lead Quoting Engine...
+2026-04-28 09:56:35,331 | __main__ | INFO | Initializing Bot A: Lead Quoting Engine...
+2026-04-28 09:56:35,971 | modules.pricing_engine | INFO | Loaded 40453 historical moves (242 skipped). Data path: /home/ubuntu/bot_a_lead_quoting_engine/data/Auto_Shipping_Training_Data_Combined.csv
+2026-04-28 09:56:35,971 | __main__ | INFO | Bot A: Lead Quoting Engine initialized successfully.
+2026-04-28 09:56:36,041 | __main__ | INFO | Pricing engine loaded: 40453 historical moves (32252 booked, 8201 quoted)
+2026-04-28 09:56:36,042 | __main__ | INFO | Running single test cycle...
+2026-04-28 09:56:36,527 | modules.lead_ingestion | INFO | Connected to imap.gmail.com as justin@ultimatemovers.net
+2026-04-28 09:56:36,793 | modules.lead_ingestion | INFO | Found 6 unread emails to process
+2026-04-28 09:56:37,174 | modules.lead_ingestion | ERROR | Failed to process email UID 333: '\n  "customer_name"'
+2026-04-28 09:56:37,500 | modules.lead_ingestion | ERROR | Failed to process email UID 335: '\n  "customer_name"'
+2026-04-28 09:56:37,855 | modules.lead_ingestion | ERROR | Failed to process email UID 336: '\n  "customer_name"'
+2026-04-28 09:56:38,198 | modules.lead_ingestion | ERROR | Failed to process email UID 337: '\n  "customer_name"'
+2026-04-28 09:56:38,928 | __main__ | INFO | Cycle complete. Stats: {'started_at': None, 'cycles': 1, 'leads_processed': 0, 'quotes_sent': 0, 'quotes_flagged_review': 0, 'errors': 0}
+2026-04-28 09:57:33,760 | __main__ | INFO | Initializing Bot A: Lead Quoting Engine...
+2026-04-28 09:57:34,456 | modules.pricing_engine | INFO | Loaded 40453 historical moves (242 skipped). Data path: /home/ubuntu/bot_a_lead_quoting_engine/data/Auto_Shipping_Training_Data_Combined.csv
+2026-04-28 09:57:34,457 | __main__ | INFO | Bot A: Lead Quoting Engine initialized successfully.
+2026-04-28 09:57:34,538 | __main__ | INFO | Pricing engine loaded: 40453 historical moves (32252 booked, 8201 quoted)
+2026-04-28 09:57:34,538 | __main__ | INFO | Running single test cycle...
+2026-04-28 09:57:35,052 | modules.lead_ingestion | INFO | Connected to imap.gmail.com as justin@ultimatemovers.net
+2026-04-28 09:57:35,491 | modules.lead_ingestion | INFO | Found 1 unread emails to process
+2026-04-28 09:57:35,962 | modules.lead_ingestion | ERROR | Failed to process email UID 340: '\n  "customer_name"'
+2026-04-28 09:57:35,962 | __main__ | INFO | Cycle complete. Stats: {'started_at': None, 'cycles': 1, 'leads_processed': 0, 'quotes_sent': 0, 'quotes_flagged_review': 0, 'errors': 0}
+2026-04-28 09:58:31,977 | __main__ | INFO | Initializing Bot A: Lead Quoting Engine...
+2026-04-28 09:58:32,730 | modules.pricing_engine | INFO | Loaded 40453 historical moves (242 skipped). Data path: /home/ubuntu/bot_a_lead_quoting_engine/data/Auto_Shipping_Training_Data_Combined.csv
+2026-04-28 09:58:32,730 | __main__ | INFO | Bot A: Lead Quoting Engine initialized successfully.
+2026-04-28 09:58:32,806 | __main__ | INFO | Pricing engine loaded: 40453 historical moves (32252 booked, 8201 quoted)
+2026-04-28 09:58:32,807 | __main__ | INFO | Running single test cycle...
+2026-04-28 09:58:33,674 | modules.lead_ingestion | INFO | Connected to imap.gmail.com as justin@ultimatemovers.net
+2026-04-28 09:58:34,274 | modules.lead_ingestion | INFO | Found 1 unread emails to process
+2026-04-28 09:58:34,713 | modules.lead_ingestion | ERROR | Failed to process email UID 340: '\n  "customer_name"'
+2026-04-28 09:58:34,713 | __main__ | INFO | Cycle complete. Stats: {'started_at': None, 'cycles': 1, 'leads_processed': 0, 'quotes_sent': 0, 'quotes_flagged_review': 0, 'errors': 0}
+2026-04-28 09:59:34,552 | __main__ | INFO | Initializing Bot A: Lead Quoting Engine...
+2026-04-28 09:59:35,245 | modules.pricing_engine | INFO | Loaded 40453 historical moves (242 skipped). Data path: /home/ubuntu/bot_a_lead_quoting_engine/data/Auto_Shipping_Training_Data_Combined.csv
+2026-04-28 09:59:35,246 | __main__ | INFO | Bot A: Lead Quoting Engine initialized successfully.
+2026-04-28 09:59:35,323 | __main__ | INFO | Pricing engine loaded: 40453 historical moves (32252 booked, 8201 quoted)
+2026-04-28 09:59:35,324 | __main__ | INFO | Running single test cycle...
+2026-04-28 09:59:37,702 | modules.lead_ingestion | INFO | Connected to imap.gmail.com as justin@ultimatemovers.net
+2026-04-28 09:59:39,391 | modules.lead_ingestion | INFO | Found 1 unread emails to process
+2026-04-28 09:59:41,719 | modules.lead_ingestion | INFO | Parsed lead: John Smith — 90210 → 10001
+2026-04-28 09:59:41,720 | __main__ | INFO | Processing 1 new lead(s)...
+2026-04-28 09:59:41,720 | __main__ | INFO | Processing lead: John Smith — 90210 → 10001 (2021 Toyota Camry)
+2026-04-28 09:59:41,720 | __main__ | INFO |   ✓ Golden Route detected — eligible for auto-quoting
+2026-04-28 09:59:41,744 | __main__ | INFO |   Quote calculated: $1250 (carrier ~$1150 + $100 margin) — confidence: low
+2026-04-28 09:59:41,744 | __main__ | INFO |   ⚠ Flagged for human review: Low confidence: regional match with only 1 comparables.
+2026-04-28 09:59:41,744 | modules.quote_delivery | WARNING | No reviewer email configured. Cannot send review notification.
+2026-04-28 09:59:41,744 | __main__ | INFO | Cycle complete. Stats: {'started_at': None, 'cycles': 1, 'leads_processed': 1, 'quotes_sent': 0, 'quotes_flagged_review': 1, 'errors': 0}
+2026-04-28 10:00:42,458 | __main__ | INFO | Initializing Bot A: Lead Quoting Engine...
+2026-04-28 10:00:43,162 | modules.pricing_engine | INFO | Loaded 40453 historical moves (242 skipped). Data path: /home/ubuntu/bot_a_lead_quoting_engine/data/Auto_Shipping_Training_Data_Combined.csv
+2026-04-28 10:00:43,163 | __main__ | INFO | Bot A: Lead Quoting Engine initialized successfully.
+2026-04-28 10:00:43,262 | __main__ | INFO | Pricing engine loaded: 40453 historical moves (32252 booked, 8201 quoted)
+2026-04-28 10:00:43,262 | __main__ | INFO | Running single test cycle...
+2026-04-28 10:00:43,775 | modules.lead_ingestion | INFO | Connected to imap.gmail.com as justin@ultimatemovers.net
+2026-04-28 10:00:44,048 | modules.lead_ingestion | INFO | Found 1 unread emails to process
+2026-04-28 10:00:46,185 | modules.lead_ingestion | INFO | Parsed lead: Sarah Johnson — 94102 → 77001
+2026-04-28 10:00:46,185 | __main__ | INFO | Processing 1 new lead(s)...
+2026-04-28 10:00:46,185 | __main__ | INFO | Processing lead: Sarah Johnson — 94102 → 77001 (2022 Honda Accord)
+2026-04-28 10:00:46,185 | __main__ | INFO |   ✓ Golden Route detected — eligible for auto-quoting
+2026-04-28 10:00:46,221 | __main__ | INFO |   Quote calculated: $950 (carrier ~$850 + $100 margin) — confidence: low
+2026-04-28 10:00:46,221 | __main__ | INFO |   ⚠ Flagged for human review: Low confidence: state_level match with only 20 comparables.
+2026-04-28 10:00:47,275 | modules.quote_delivery | INFO | Review notification sent to justin@ultimatemovers.net
+2026-04-28 10:00:47,275 | __main__ | INFO | Cycle complete. Stats: {'started_at': None, 'cycles': 1, 'leads_processed': 1, 'quotes_sent': 0, 'quotes_flagged_review': 1, 'errors': 0}
+2026-04-28 10:05:32,895 | __main__ | INFO | Initializing Bot A: Lead Quoting Engine...
+2026-04-28 10:05:33,540 | modules.pricing_engine | INFO | Loaded 40453 historical moves (242 skipped). Data path: /home/ubuntu/bot_a_lead_quoting_engine/data/Auto_Shipping_Training_Data_Combined.csv
+2026-04-28 10:05:33,540 | __main__ | INFO | Bot A: Lead Quoting Engine initialized successfully.
+2026-04-28 10:05:33,635 | __main__ | INFO | Pricing engine loaded: 40453 historical moves (32252 booked, 8201 quoted)
+2026-04-28 10:05:33,635 | __main__ | INFO | Running single test cycle...
+2026-04-28 10:05:34,448 | modules.lead_ingestion | INFO | Connected to imap.gmail.com as justin@ultimatemovers.net
+2026-04-28 10:05:34,836 | modules.lead_ingestion | INFO | Found 3 unread emails to process
+2026-04-28 10:05:36,841 | modules.lead_ingestion | INFO | Parsed lead: Sarah Johnson — 94102 → 77001
+2026-04-28 10:05:39,320 | modules.lead_ingestion | INFO | Parsed lead: Mike Davis — 90001 → 75201
+2026-04-28 10:05:39,320 | __main__ | INFO | Processing 2 new lead(s)...
+2026-04-28 10:05:39,320 | __main__ | INFO | Processing lead: Sarah Johnson — 94102 → 77001 (2022 Honda Accord)
+2026-04-28 10:05:39,320 | __main__ | INFO |   ✓ Golden Route detected — eligible for auto-quoting
+2026-04-28 10:05:39,349 | __main__ | INFO |   Quote calculated: $950 (carrier ~$850 + $100 margin) — confidence: medium
+2026-04-28 10:05:41,711 | modules.quote_delivery | INFO | Quote sent to sarah.johnson@gmail.com: $950 for 94102→77001
+2026-04-28 10:05:41,711 | __main__ | INFO |   ✓ Quote sent to sarah.johnson@gmail.com
+2026-04-28 10:05:41,711 | __main__ | INFO | Processing lead: Mike Davis — 90001 → 75201 (2023 BMW X5)
+2026-04-28 10:05:41,711 | __main__ | INFO |   ✓ Golden Route detected — eligible for auto-quoting
+2026-04-28 10:05:41,738 | __main__ | INFO |   Quote calculated: $950 (carrier ~$850 + $100 margin) — confidence: high
+2026-04-28 10:05:44,043 | modules.quote_delivery | INFO | Quote sent to mike.davis.test@gmail.com: $950 for 90001→75201
+2026-04-28 10:05:44,043 | __main__ | INFO |   ✓ Quote sent to mike.davis.test@gmail.com
+2026-04-28 10:05:44,043 | __main__ | INFO | Cycle complete. Stats: {'started_at': None, 'cycles': 1, 'leads_processed': 2, 'quotes_sent': 2, 'quotes_flagged_review': 0, 'errors': 0}
+2026-04-28 11:02:25,447 | __main__ | INFO | Initializing Bot A: Lead Quoting Engine...
+2026-04-28 11:02:26,194 | modules.pricing_engine | INFO | Loaded 40453 historical moves (242 skipped). Data path: /home/ubuntu/bot_a_lead_quoting_engine/data/Auto_Shipping_Training_Data_Combined.csv
+2026-04-28 11:02:26,194 | __main__ | INFO | Bot A: Lead Quoting Engine initialized successfully.
+2026-04-28 11:02:26,274 | __main__ | INFO | Pricing engine loaded: 40453 historical moves (32252 booked, 8201 quoted)
+2026-04-28 11:02:26,274 | __main__ | INFO | Running single test cycle...
+2026-04-28 11:02:26,746 | modules.lead_ingestion | INFO | Connected to imap.gmail.com as justin@ultimatemovers.net
+2026-04-28 11:02:27,002 | modules.lead_ingestion | INFO | Found 1 unread emails to process
+2026-04-28 11:02:28,902 | modules.lead_ingestion | INFO | Parsed lead: Robert Chen — 90001 → 10001
+2026-04-28 11:02:28,902 | __main__ | INFO | Processing 1 new lead(s)...
+2026-04-28 11:02:28,902 | __main__ | INFO | Processing lead: Robert Chen — 90001 → 10001 (2024 Toyota RAV4)
+2026-04-28 11:02:28,902 | __main__ | INFO |   ✓ Golden Route detected — eligible for auto-quoting
+2026-04-28 11:02:28,902 | modules.pricing_engine | INFO | OPERATOR RATE TABLE HIT: 90001 → 10001: $1625
+2026-04-28 11:02:28,902 | __main__ | INFO |   Quote calculated: $1625 (carrier ~$1400 + $225 margin) — confidence: high
+2026-04-28 11:02:30,103 | modules.lead_ingestion | WARNING | Gemini failed: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyD6jMiGOBNlnNt9sg0ZvFmwl32dt6_eERs
+2026-04-28 11:02:33,386 | httpx | INFO | HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-28 11:02:34,787 | modules.quote_delivery | INFO | Quote sent to robert.chen.test@gmail.com: $1625 for 90001→10001
+2026-04-28 11:02:34,787 | __main__ | INFO |   ✓ Quote sent to robert.chen.test@gmail.com
+2026-04-28 11:02:34,787 | __main__ | INFO | Cycle complete. Stats: {'started_at': None, 'cycles': 1, 'leads_processed': 1, 'quotes_sent': 1, 'quotes_flagged_review': 0, 'errors': 0}

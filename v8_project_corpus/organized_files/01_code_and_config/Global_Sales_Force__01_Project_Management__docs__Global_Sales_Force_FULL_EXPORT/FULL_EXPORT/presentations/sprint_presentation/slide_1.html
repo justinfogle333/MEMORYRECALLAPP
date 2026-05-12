@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container {
+            width: 1280px;
+            min-height: 720px;
+            background-color: #0f172a;
+            font-family: 'Inter', sans-serif;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+        .shape-1 {
+            position: absolute;
+            top: -150px;
+            left: -150px;
+            width: 500px;
+            height: 500px;
+            background: linear-gradient(135deg, #3b82f6 0%, transparent 100%);
+            border-radius: 50%;
+            opacity: 0.1;
+            z-index: 0;
+        }
+        .shape-2 {
+            position: absolute;
+            bottom: -200px;
+            right: -100px;
+            width: 600px;
+            height: 600px;
+            background: linear-gradient(315deg, #10b981 0%, transparent 100%);
+            border-radius: 50%;
+            opacity: 0.1;
+            z-index: 0;
+        }
+        .content-wrapper {
+            z-index: 10;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 0 100px;
+        }
+        .accent-line {
+            width: 120px;
+            height: 8px;
+            background: linear-gradient(90deg, #3b82f6, #10b981);
+            margin-bottom: 40px;
+            border-radius: 4px;
+        }
+        .title {
+            font-size: 84px;
+            font-weight: 900;
+            color: #ffffff;
+            line-height: 1.1;
+            margin-bottom: 24px;
+            letter-spacing: -1px;
+        }
+        .subtitle {
+            font-size: 36px;
+            font-weight: 700;
+            color: #3b82f6;
+            margin-bottom: 60px;
+        }
+        .meta-info {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            background-color: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 30px 60px;
+            border-radius: 8px;
+        }
+        .meta-text {
+            font-size: 20px;
+            color: #94a3b8;
+            font-weight: 400;
+        }
+        .meta-highlight {
+            color: #ffffff;
+            font-weight: 700;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="shape-1"></div>
+        <div class="shape-2"></div>
+        
+        <div class="content-wrapper">
+            <div class="accent-line"></div>
+            <h1 class="title">90-Day GEO Sprint Plan</h1>
+            <h2 class="subtitle">Dominating AI Search Across All 19 Brands</h2>
+            
+            <div class="meta-info">
+                <div class="meta-text">Prepared for: <span class="meta-highlight">Alex & Justin, Global Sales Force</span></div>
+                <div class="meta-text">Date: <span class="meta-highlight">March 2026</span></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

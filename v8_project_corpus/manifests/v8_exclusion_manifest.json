@@ -1,0 +1,74 @@
+[
+  {
+    "source_archive_slug": "Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/DEPLOYMENT_GUIDE.md",
+    "size_bytes": 7009,
+    "sha256": "5b664bbee42fc7ea0541b0897e9c3c800e17fd3ca725cce2927de5c504d7393e",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "excluded_reason": "sensitive_name_or_content_pattern"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/modules/lead_ingestion.py",
+    "size_bytes": 16885,
+    "sha256": "299d79218ad6176a250d3eec1c56a2599448426f71f7cad1fc650963fc4d9d09",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "excluded_reason": "sensitive_name_or_content_pattern"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/modules/quote_delivery.py",
+    "size_bytes": 12315,
+    "sha256": "f927c4f0f0aca86212ae91b1eac5130727c682ec811d32624bc270860d7aab0e",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "excluded_reason": "sensitive_name_or_content_pattern"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/Map.tsx",
+    "size_bytes": 4932,
+    "sha256": "931413fea95936e68f872bc34733138f9e11a656446b1a56a98fba9532954e22",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "excluded_reason": "sensitive_name_or_content_pattern"
+  },
+  {
+    "source_archive_slug": "bot_a_lead_quoting_engine_v3",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/.env",
+    "size_bytes": 1201,
+    "sha256": "adaf6297c7cddb792682af1d567202289d991afe01ce45620f57781f37d63f31",
+    "extension": "",
+    "mime_guess": null,
+    "excluded_reason": "sensitive_name_or_content_pattern"
+  },
+  {
+    "source_archive_slug": "bot_a_lead_quoting_engine_v3",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/DEPLOYMENT_GUIDE.md",
+    "size_bytes": 7009,
+    "sha256": "5b664bbee42fc7ea0541b0897e9c3c800e17fd3ca725cce2927de5c504d7393e",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "excluded_reason": "sensitive_name_or_content_pattern"
+  },
+  {
+    "source_archive_slug": "bot_a_lead_quoting_engine_v3",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/modules/lead_ingestion.py",
+    "size_bytes": 16961,
+    "sha256": "b1260b18945b788c42716b708a68d8adaa282b2bd1782932b80b6a17a146b3d2",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "excluded_reason": "sensitive_name_or_content_pattern"
+  },
+  {
+    "source_archive_slug": "bot_a_lead_quoting_engine_v3",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/modules/quote_delivery.py",
+    "size_bytes": 12315,
+    "sha256": "f927c4f0f0aca86212ae91b1eac5130727c682ec811d32624bc270860d7aab0e",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "excluded_reason": "sensitive_name_or_content_pattern"
+  }
+]

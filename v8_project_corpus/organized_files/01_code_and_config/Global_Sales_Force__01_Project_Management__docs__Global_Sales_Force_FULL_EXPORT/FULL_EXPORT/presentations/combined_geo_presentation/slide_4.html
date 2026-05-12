@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.9.1"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container {
+            width: 1280px;
+            min-height: 720px;
+            background-color: #0f172a;
+            font-family: 'Inter', sans-serif;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+        .header {
+            padding-top: 60px;
+            padding-left: 80px;
+            padding-right: 80px;
+            margin-bottom: 20px;
+        }
+        .slide-title {
+            font-size: 42px;
+            font-weight: 900;
+            color: #ffffff;
+            line-height: 1.2;
+            border-left: 8px solid #3b82f6;
+            padding-left: 24px;
+        }
+        .content-wrapper {
+            display: flex;
+            flex: 1;
+            padding-left: 80px;
+            padding-right: 80px;
+            gap: 40px;
+            padding-bottom: 12px; /* reduced to save vertical space */
+        }
+        .chart-container {
+            flex: 2;
+            background-color: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 20px;
+            height: 520px;
+        }
+        .info-container {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 8px; /* reduced gap between stat boxes */
+        }
+        .stat-box {
+            background-color: rgba(59, 130, 246, 0.1);
+            border: 2px solid #3b82f6;
+            padding: 8px; /* reduced inner padding */
+        }
+        .stat-box.avg {
+            border-color: #10b981;
+            background-color: rgba(16, 185, 129, 0.1);
+        }
+        .stat-title {
+            font-size: 18px;
+            color: #94a3b8;
+            margin-bottom: 8px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-weight: 700;
+        }
+        .stat-value {
+            font-size: 48px;
+            font-weight: 900;
+            color: #ffffff;
+        }
+        .stat-value.green { color: #10b981; }
+        
+        .insight-list {
+            list-style: none;
+            margin-top: 8px; /* tightened spacing */
+        }
+        .insight-item {
+            font-size: 16px;
+            color: #e2e8f0;
+            line-height: 1.4;
+            margin-bottom: 12px;
+            padding-left: 20px;
+            position: relative;
+        }
+        .insight-item::before {
+            content: "→";
+            color: #3b82f6;
+            position: absolute;
+            left: 0;
+            top: 0;
+            font-weight: bold;
+        }
+        .insight-item.red::before {
+            color: #ef4444;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <h2 class="slide-title">Portfolio-Wide GEO Scores Range from 90 (A) to 15 (F)</h2>
+        </div>
+        
+        <div class="content-wrapper">
+            <div class="chart-container">
+                <canvas id="scoreChart"></canvas>
+            </div>
+            
+            <div class="info-container">
+                <div class="stat-box avg">
+                    <div class="stat-title">Combined Portfolio Average</div>
+                    <div class="stat-value green">61<span style="font-size: 24px; color: #94a3b8;">/100</span></div>
+                </div>
+                
+                <div class="stat-box">
+                    <div class="stat-title">Top Performers (Ready)</div>
+                    <ul class="insight-list">
+                        <li class="insight-item">crosscountrymovers.com (90, A)</li>
+                        <li class="insight-item">state2statemovers.com (87, A)</li>
+                        <li class="insight-item">crosscountrymovingcompany.net (82, B)</li>
+                    </ul>
+                </div>
+                
+                <div class="stat-box" style="border-color: #ef4444; background-color: rgba(239, 68, 68, 0.1);">
+                    <div class="stat-title" style="color: #ef4444;">Critical Risk (Failing)</div>
+                    <ul class="insight-list">
+                        <li class="insight-item red">longdistanceusamovers.com (47, D)</li>
+                        <li class="insight-item red">sunsetmoving.com (43, D)</li>
+                        <li class="insight-item red">kerbmoving.com (25, F)</li>
+                        <li class="insight-item red">shepherdmovers.com (15, F)</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const ctx = document.getElementById('scoreChart').getContext('2d');
+        
+        const brands = [
+            {name: 'crosscountrymovers.com', score: 90},
+            {name: 'state2statemovers.com', score: 87},
+            {name: 'crosscountrymovingcompany.net', score: 82},
+            {name: 'longdistancemovers.com', score: 75},
+            {name: 'myinternationalmovers.com', score: 74},
+            {name: 'longdistancemovingexperts.com', score: 72},
+            {name: 'california-seattleexpress.com', score: 70},
+            {name: 'flatpriceautotransport.com', score: 68},
+            {name: 'ultimatemovers.net', score: 65},
+            {name: 'ilovemoving.com', score: 64},
+            {name: 'usa-autotransport.com', score: 62},
+            {name: 'eastcoastwestcoastmovers.com', score: 60},
+            {name: 'tricolongdistancemovers.com', score: 55},
+            {name: 'schmidtmovers.com', score: 54},
+            {name: 'ldmovers.com', score: 50},
+            {name: 'longdistanceusamovers.com', score: 47},
+            {name: 'sunsetmoving.com', score: 43},
+            {name: 'kerbmoving.com', score: 25},
+            {name: 'shepherdmovers.com', score: 15}
+        ];
+        
+        const labels = brands.map(b => b.name);
+        const data = brands.map(b => b.score);
+        const backgroundColors = brands.map(b => {
+            if (b.score >= 80) return '#10b981';
+            if (b.score >= 60) return '#3b82f6';
+            if (b.score >= 40) return '#f59e0b';
+            return '#ef4444';
+        });
+
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: 'GEO Readiness Score',
+                    data: data,
+                    backgroundColor: backgroundColors,
+                    borderWidth: 0,
+                    barThickness: 14
+                }]
+            },
+            options: {
+                indexAxis: 'y',
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: { display: false },
+                    tooltip: {
+                        callbacks: {
+                            label: function(context) {
+                                return 'Score: ' + context.raw;
+                            }
+                        }
+                    }
+                },
+                scales: {
+                    x: {
+                        beginAtZero: true,
+                        max: 100,
+                        grid: { color: 'rgba(255, 255, 255, 0.1)' },
+                        ticks: { color: '#94a3b8', font: { size: 12 } }
+                    },
+                    y: {
+                        grid: { display: false },
+                        ticks: { color: '#e2e8f0', font: { size: 11 } }
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

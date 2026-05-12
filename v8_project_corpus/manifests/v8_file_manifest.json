@@ -1,0 +1,2652 @@
+[
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": ".env.example",
+    "size_bytes": 962,
+    "sha256": "9073bfe38105ba4f27825228fd1e9d54fc79af02614d44ab995443c207986ea1",
+    "extension": ".example",
+    "mime_guess": null,
+    "category": "06_other_assets",
+    "organized_path": "06_other_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/.env.example"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "90-Day GEO Implementation Sprint Plan (v2.0).md",
+    "size_bytes": 9380,
+    "sha256": "bf256e7fe0d5fca46cac0005537bc6cbc061cad15c59acc048f4b5a8953a3172",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/90-Day GEO Implementation Sprint Plan (v2.0).md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "90-Day GEO Implementation Sprint Plan.md",
+    "size_bytes": 8681,
+    "sha256": "cf5d58d850187a8739331d84f91d78a4b1583c6c7102c403ee905d09a15d2164",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/90-Day GEO Implementation Sprint Plan.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "90-Day GEO Sprint Plan.pptx",
+    "size_bytes": 1060725,
+    "sha256": "84f266c8197d3c59c06dd800257818f10ef24f0ff957b03023b94a6f3309ceed",
+    "extension": ".pptx",
+    "mime_guess": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "category": "06_other_assets",
+    "organized_path": "06_other_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/90-Day GEO Sprint Plan.pptx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "Agent Onboarding: Global Sales Force Project.md",
+    "size_bytes": 13239,
+    "sha256": "fc7ac116f1b1c69c323a1d8d9582308b518e2efe30b17ee48d450201d1d7458c",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Agent Onboarding: Global Sales Force Project.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "Community Engagement Playbook: Global Sales Force.md",
+    "size_bytes": 7980,
+    "sha256": "6dc574b1031bfcb28cf17fa7ffadf0e39c52539a17d69fc682fbfb9979529d95",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Community Engagement Playbook: Global Sales Force.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "Critical Domains Remediation Plan.md",
+    "size_bytes": 7015,
+    "sha256": "255aa93621404bdbe290a51a911c85ffad4b230a128142a4d17cd6cb413e43b8",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Critical Domains Remediation Plan.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "Deep Research: GEO (Generative Engine Optimization) Strategies.md",
+    "size_bytes": 13292,
+    "sha256": "11394f66a6f6c8e33612d006e29a74788382c97b3e7ad5ccf3087409b239f5b3",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Deep Research: GEO (Generative Engine Optimization) Strategies.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "Deep Research: Lead Generation for Moving Companies.md",
+    "size_bytes": 7201,
+    "sha256": "64a8046b56e011afa7a80e72a6c101e53521de13812752b544c4eb526fc71211",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Deep Research: Lead Generation for Moving Companies.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "Developer Handoff Specification: Automated Review Solicitation Agent.md",
+    "size_bytes": 5319,
+    "sha256": "5fc3edce35688240575b62796ea5324aec160ae9cce50b0fdb9e26d25bacbfee",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Developer Handoff Specification: Automated Review Solicitation Agent.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "Dominating AI Search: A Lead Generation Strategy for Global Sales Force.pptx",
+    "size_bytes": 811872,
+    "sha256": "e49f76d36a1f3b01f598fbd5d6f045e14f116cb6d15e860e20edb1fe40225fe4",
+    "extension": ".pptx",
+    "mime_guess": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "category": "06_other_assets",
+    "organized_path": "06_other_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Dominating AI Search: A Lead Generation Strategy for Global Sales Force.pptx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "GEO Readiness Audit Report: Global Sales Force Portfolio.md",
+    "size_bytes": 4556,
+    "sha256": "1d90c0822d7187de9aadee3378be812c1bcc029deacf77f996f5c4ee523876dd",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/GEO Readiness Audit Report: Global Sales Force Portfolio.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "GEO Readiness Audit: The Complete 19-Brand Portfolio.pptx",
+    "size_bytes": 843463,
+    "sha256": "645f2983ba2ed4a525d98f379ed5ba8ecb54bd04d46146d3be51aacccf039265",
+    "extension": ".pptx",
+    "mime_guess": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "category": "06_other_assets",
+    "organized_path": "06_other_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/GEO Readiness Audit: The Complete 19-Brand Portfolio.pptx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "Generative Engine Optimization (GEO) Readiness Audit.md",
+    "size_bytes": 6788,
+    "sha256": "893d689a13269bf5ce457f2545ce3af1155cd9f445a28591c2efcf6c92caf4e9",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Generative Engine Optimization (GEO) Readiness Audit.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "Global Sales Force \u2014 Master Task List.md",
+    "size_bytes": 6201,
+    "sha256": "ae6afa6bb83cb385a5da66769c37014f12ff6c8733b3b3044e83ddc519cd65f1",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Global Sales Force \u2014 Master Task List.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "Global Sales Force \u2014 Project Hub.md",
+    "size_bytes": 5489,
+    "sha256": "780f9368c754b12776d00ab66e3a8953539db201597be76630471875ed3af8e7",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Global Sales Force \u2014 Project Hub.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "Global_Sales_Force.zip",
+    "size_bytes": 710178,
+    "sha256": "15d472de557b78fb1ee0c303558b4d433ffb83b5ccf2629bcfd5cf7d0e198c87",
+    "extension": ".zip",
+    "mime_guess": "application/zip",
+    "category": "05_nested_archives",
+    "organized_path": "05_nested_archives/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Global_Sales_Force.zip"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "Global_Sales_Force_FULL_EXPORT.zip",
+    "size_bytes": 15208928,
+    "sha256": "43dad6e50d862093f8f652466c1eb89d48e70354c3e84c251f9bf443059e626c",
+    "extension": ".zip",
+    "mime_guess": "application/zip",
+    "category": "05_nested_archives",
+    "organized_path": "05_nested_archives/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Global_Sales_Force_FULL_EXPORT.zip"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "Meeting with Alex \u2014 Key Points & Roadmap.md",
+    "size_bytes": 10786,
+    "sha256": "03d6ab77334e77a6fc213f709bae2b55a36a3271fb8b8f70f7b07c748437fa11",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Meeting with Alex \u2014 Key Points & Roadmap.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "NewRecording2.m4a",
+    "size_bytes": 13773009,
+    "sha256": "313cf8fe6744eb5866fa6ac2f5ddd624744873bcc3edff4ef53c2da320283325",
+    "extension": ".m4a",
+    "mime_guess": "audio/mp4",
+    "category": "06_other_assets",
+    "organized_path": "06_other_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/NewRecording2.m4a"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "NewRecording2_transcription_20260325_175930.txt",
+    "size_bytes": 9167,
+    "sha256": "2f832b5ef8af92f6964f3dee955f3675c1f7e6208a6c1953b2640045ff4ac517",
+    "extension": ".txt",
+    "mime_guess": "text/plain",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/NewRecording2_transcription_20260325_175930.txt"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "Pasted_content.txt",
+    "size_bytes": 13720,
+    "sha256": "4ad37faf164662308e6c5cdb50efbdd4a3845049e95cecedc591d03cdc2181cc",
+    "extension": ".txt",
+    "mime_guess": "text/plain",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Pasted_content.txt"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "Platform Policy Deep Dive \u2014 Fine Print Analysis.md",
+    "size_bytes": 8292,
+    "sha256": "8797fbd0fe57b4a2fab4c86abeb055619fbfe09d0fb668ee89f2015a0bd0fa3b",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Platform Policy Deep Dive \u2014 Fine Print Analysis.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "Review Agent \u2014 Automated Review Solicitation System.md",
+    "size_bytes": 6312,
+    "sha256": "8f7f4d4abc7bf2aba4230c2d5b847a0fa5a7a9b0cc248e5a809666fc1d4f03b3",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Review Agent \u2014 Automated Review Solicitation System.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "SAVED TASK: 5-Day Review Agent Build Plan.md",
+    "size_bytes": 5229,
+    "sha256": "a708e26ca603c15589011a09ba3735414fe1573277a95e8517a00aefd55a89bf",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/SAVED TASK: 5-Day Review Agent Build Plan.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "SAVED TASK: Elaborate on Authentic Community Engagement Phase.md",
+    "size_bytes": 2497,
+    "sha256": "1f75b727eee5955f24e8ce66431b159cae020e3a688bd19c25a1c11229e4ca77",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/SAVED TASK: Elaborate on Authentic Community Engagement Phase.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "Strategic Analysis: AI Lead Generation Proposal for Global Sales Force.md",
+    "size_bytes": 8723,
+    "sha256": "0a7edf0dee0f65fc5ed0216942477bdfdb717e5a6efaaf723c326c2d03c6a870",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Strategic Analysis: AI Lead Generation Proposal for Global Sales Force.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "Technical Foundation Implementation Guide (Weeks 1-2).md",
+    "size_bytes": 6956,
+    "sha256": "831f11484fced11925e1e02346e99be9f834943d8d684a67e785c4fbc0cc6f59",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/Technical Foundation Implementation Guide (Weeks 1-2).md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "The Automated Review Agent: Turning 100 GBP Locations Into a Review-Generating Machine.pptx",
+    "size_bytes": 777057,
+    "sha256": "59633753215953b10d30501ce3c06ab62813ddea7bf240fee884a45a51f672df",
+    "extension": ".pptx",
+    "mime_guess": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "category": "06_other_assets",
+    "organized_path": "06_other_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/The Automated Review Agent: Turning 100 GBP Locations Into a Review-Generating Machine.pptx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "The Developer's Guide: Building the Automated Review Agent.md",
+    "size_bytes": 6546,
+    "sha256": "5c0599c3eece9ead455270238eeb300e33ae02d90e15f1698b8b53be86ae9ddf",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/The Developer's Guide: Building the Automated Review Agent.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "analysis.md",
+    "size_bytes": 10970,
+    "sha256": "011bbae3e61b3df6589476a1d899b38d15182490583c220abe67e78e5d2095d2",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/analysis.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "audit_critical_sites.md",
+    "size_bytes": 2467,
+    "sha256": "51f4eab69efc0afdba4b74e296fd49dd23e671b9410db12047952c5d6789f792",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/audit_critical_sites.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "audit_intl_websites_geo.csv",
+    "size_bytes": 1958,
+    "sha256": "e8938a33c1812e8cb5e43f7189251df3235a67ce991503ac354b28e0474059ea",
+    "extension": ".csv",
+    "mime_guess": "text/csv",
+    "category": "03_data_and_spreadsheets",
+    "organized_path": "03_data_and_spreadsheets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/audit_intl_websites_geo.csv"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "audit_websites_geo.csv",
+    "size_bytes": 15201,
+    "sha256": "1f74f772645a1b41857373e74b989e6498b775f58b9274f14ed46015caaeedee",
+    "extension": ".csv",
+    "mime_guess": "text/csv",
+    "category": "03_data_and_spreadsheets",
+    "organized_path": "03_data_and_spreadsheets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/audit_websites_geo.csv"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "check_viewport.py",
+    "size_bytes": 554,
+    "sha256": "a82cd4ce9f5a07e4d76540050f5dd9944502c221caa2d9cb237940dd3db29324",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/check_viewport.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "combined_slide_content.md",
+    "size_bytes": 6098,
+    "sha256": "dd434738ea89ba5c9b0f019c18c121c93a890a5a6b6008b9244ee35cf0f26a19",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/combined_slide_content.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "companies.md",
+    "size_bytes": 1439,
+    "sha256": "2d583148ebc1275e20464a43ec85922becd3ae3d33a7b2a39487de2ef27748fb",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/companies.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "config.py",
+    "size_bytes": 5501,
+    "sha256": "cdb451d90a2f6abe032d1fff4cfeb3450b2d9fa046153171f936f47d7dd505a4",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/config.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "csv_importer.py",
+    "size_bytes": 4964,
+    "sha256": "bff0c03a692e6814c600302f86c31de2155348bfd146c02f28a942406aefd312",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/csv_importer.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "database.py",
+    "size_bytes": 7779,
+    "sha256": "ab69b42ed897399db5bf835c3b8175de28c9984eb9379d63d136ea7cd23f061d",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/database.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "generate_intl_scorecard.py",
+    "size_bytes": 9000,
+    "sha256": "639a731574ef96c3692ad8ce4fde5dc0ce34a3225b5929b59954814ec21311bf",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/generate_intl_scorecard.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "generate_scorecard.py",
+    "size_bytes": 10826,
+    "sha256": "d3beac1e016065c890de4f9b9f834717f80db657ad76419036e58050bd577203",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/generate_scorecard.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "gift_card_sender.py",
+    "size_bytes": 3392,
+    "sha256": "9cf3c90f17042fe88ac6c2c77f5b320a5a81c92de4d9b4697c48bbb894f4379d",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/gift_card_sender.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "google_apps_script.js",
+    "size_bytes": 2435,
+    "sha256": "e601b98688471a99bd57f335397a82acb5f3241acdd56e4c0f6e58edb4249680",
+    "extension": ".js",
+    "mime_guess": "text/javascript",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/google_apps_script.js"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "intl_scorecard_categories.png",
+    "size_bytes": 79154,
+    "sha256": "ece934357245019d94000e6074793fe5fd7f81fd9692d8da92a56377d5402b59",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "category": "04_media_assets",
+    "organized_path": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/intl_scorecard_categories.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "intl_scorecard_heatmap.png",
+    "size_bytes": 139969,
+    "sha256": "f8e10b6563e0e774c42304ec5ea429ee38eea27fd381bb8437b7491aadfef82f",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "category": "04_media_assets",
+    "organized_path": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/intl_scorecard_heatmap.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "intl_scorecard_overall.png",
+    "size_bytes": 85585,
+    "sha256": "acdd71986f5dd4c1d7bcd480856e911f3947a109ea00ae08400cf1c4dba8887d",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "category": "04_media_assets",
+    "organized_path": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/intl_scorecard_overall.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "knowledgebase.md",
+    "size_bytes": 37019,
+    "sha256": "8c3d1614686f98ad8db5bce16258388c712a176fdf7f424cd03c5a074d9319a1",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/knowledgebase.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "pasted_file_0lXtKW_image.png",
+    "size_bytes": 76639,
+    "sha256": "2aed4e5b2cdc7b1ce0843c12e090087b4697cb467cc0aa8fe48a3b1125d245ca",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "category": "04_media_assets",
+    "organized_path": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/pasted_file_0lXtKW_image.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "pasted_file_MM4ymI_image.png",
+    "size_bytes": 38114,
+    "sha256": "2a1fd00081361f0a16399e82909e51b50260e5347e05ed18ecac484cdf64bb26",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "category": "04_media_assets",
+    "organized_path": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/pasted_file_MM4ymI_image.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "pasted_file_q8my2m_image.png",
+    "size_bytes": 41621,
+    "sha256": "8e71caa3088bba38e7b8454cf6a5143995c0303a0f903d3345b5166d3f5da4ac",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "category": "04_media_assets",
+    "organized_path": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/pasted_file_q8my2m_image.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "requirements.txt",
+    "size_bytes": 44,
+    "sha256": "ba566044db8ff1d97da261498ca9525ca94a1b62e24fb36a22f18f37db8d3a4b",
+    "extension": ".txt",
+    "mime_guess": "text/plain",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/requirements.txt"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "research_communities.md",
+    "size_bytes": 6259,
+    "sha256": "cf32d83dabc7941c1b136df5f91a1b2eb0fb78491c8da3cb0c19ada948e7e95b",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/research_communities.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "research_crm.md",
+    "size_bytes": 1388,
+    "sha256": "e3000ec6ff0dcf891be124f2d1e0f088759bf643ba0daf7a87983c3b5b20a9f1",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/research_crm.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "research_notes.md",
+    "size_bytes": 2894,
+    "sha256": "a1b176284bda738d8601438c4e0a1307377d59e4b551d77e4ee9ec262f1fe11e",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/research_notes.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "research_review_agent.md",
+    "size_bytes": 5186,
+    "sha256": "6215a6d89a0e3dd4032b8250668512144510ac668462ef69b4101ab799f503b2",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/research_review_agent.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "research_technical.md",
+    "size_bytes": 3665,
+    "sha256": "e7052900911d129feb9ebbd0ddbc17ccd287c569e4a1073c5a2be31c6d5d682a",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/research_technical.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "review_agent.zip",
+    "size_bytes": 22280,
+    "sha256": "610f2e10c4f32f226e43e44d2c96d25503723fec26ba86f8d1259491051a72ed",
+    "extension": ".zip",
+    "mime_guess": "application/zip",
+    "category": "05_nested_archives",
+    "organized_path": "05_nested_archives/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/review_agent.zip"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "review_agent_slide_content.md",
+    "size_bytes": 8660,
+    "sha256": "5d65e0e171c4bff3f8798a2927147042ffebcc0fbf97cb8bc951ed584adf9ae1",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/review_agent_slide_content.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "sample_completed_moves.csv",
+    "size_bytes": 414,
+    "sha256": "f81f823bc8a2af59a7570eec5f776e583d846ed8a0d0dca1e41ad5d35d100ec2",
+    "extension": ".csv",
+    "mime_guess": "text/csv",
+    "category": "03_data_and_spreadsheets",
+    "organized_path": "03_data_and_spreadsheets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/sample_completed_moves.csv"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "scorecard_categories.png",
+    "size_bytes": 64002,
+    "sha256": "65ffbfedbacda2a5981e47d82f2d12c264b5974c8402b0077e5d08f0e81c821d",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "category": "04_media_assets",
+    "organized_path": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/scorecard_categories.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "scorecard_heatmap.png",
+    "size_bytes": 144914,
+    "sha256": "b72cb3569d70352c51ccc608e1b0d91ed9530f96c2dd205b190f9e589f2927b2",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "category": "04_media_assets",
+    "organized_path": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/scorecard_heatmap.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "scorecard_overall.png",
+    "size_bytes": 146325,
+    "sha256": "b33f96893f670095bae25ff51bc4ee3fe340aebc345f9ab2090b1dd2c784407b",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "category": "04_media_assets",
+    "organized_path": "04_media_assets/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/scorecard_overall.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "server.py",
+    "size_bytes": 6001,
+    "sha256": "7f08a2a67eda1cb4662a9ef8f091aa966aed93ac93e18a4bdbc7df960f40c173",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/server.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "slide_content.md",
+    "size_bytes": 10812,
+    "sha256": "2afd65ddc43f9001509116767a26295cb6d81cdab379f95f724ce772fc775160",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/slide_content.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "sms_sender.py",
+    "size_bytes": 4458,
+    "sha256": "467544d6c324bcb40e6b68acfb3620d3e66722e0724f96c1452f1c8362dcd13f",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/sms_sender.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "sprint_slide_content.md",
+    "size_bytes": 13617,
+    "sha256": "de92b597ef572ad60779690eb06aa30950666b50e02c1cbca3c743cf9040e580",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/sprint_slide_content.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "test_agent.py",
+    "size_bytes": 15077,
+    "sha256": "5687f0f695c0e10ef35b676de467e3de370d39e450c0ea34798a8cedeb8a3a5f",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/test_agent.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "transcript.txt",
+    "size_bytes": 14938,
+    "sha256": "9ae69c5c0b6b6cef9bbfa582e037b3e287f83559a07b7b24b33fa2eea1601863",
+    "extension": ".txt",
+    "mime_guess": "text/plain",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/transcript.txt"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation",
+    "relative_path": "worker.py",
+    "size_bytes": 5602,
+    "sha256": "169cafda9997587fa91254c505f9963e371d628355e347581e1cd39f599a6ebb",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Developing_AI_Driven_Marketing_Strategies_for_Lead_Generation/worker.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/05_Technical_Foundation/audit_data/audit_intl_websites_geo.csv",
+    "size_bytes": 1964,
+    "sha256": "9fb7ec0e2768308969901f17e156ca1ebb6998a62b637f94eaee206bbb396521",
+    "extension": ".csv",
+    "mime_guess": "text/csv",
+    "category": "03_data_and_spreadsheets",
+    "organized_path": "03_data_and_spreadsheets/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force/Global_Sales_Force/05_Technical_Foundation/audit_data/audit_intl_websites_geo.csv"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/05_Technical_Foundation/audit_data/audit_websites_geo.csv",
+    "size_bytes": 15216,
+    "sha256": "adbb7669c35e723b2bc828557ead39eb56c3f6ded2d94b498ade3a4f0e05f86e",
+    "extension": ".csv",
+    "mime_guess": "text/csv",
+    "category": "03_data_and_spreadsheets",
+    "organized_path": "03_data_and_spreadsheets/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force/Global_Sales_Force/05_Technical_Foundation/audit_data/audit_websites_geo.csv"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/05_Technical_Foundation/docs/GEO_Readiness_Audit_Report.md",
+    "size_bytes": 5803,
+    "sha256": "9b5f9cef868a0f17c69bc44eebe821c3e2235818bc5ec5e20794b10588e5bf6c",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force/Global_Sales_Force/05_Technical_Foundation/docs/GEO_Readiness_Audit_Report.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force",
+    "relative_path": "Global_Sales_Force/05_Technical_Foundation/docs/GEO_Readiness_Audit_Report_International.md",
+    "size_bytes": 4992,
+    "sha256": "67669fb41b3e7a24ee1b70bddd48d02f5e8314d4ca0c440d776daaf4598231cb",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force/Global_Sales_Force/05_Technical_Foundation/docs/GEO_Readiness_Audit_Report_International.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/audit_intl_websites_geo.json",
+    "size_bytes": 5021,
+    "sha256": "1ffe365fb21e4c16f90a22ff5e29c8c44e7f2e96d55529226abe984d1f6dfc8f",
+    "extension": ".json",
+    "mime_guess": "application/json",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/audit_intl_websites_geo.json"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/audit_websites_geo.json",
+    "size_bytes": 22554,
+    "sha256": "24c6fa54f39d025bc1e84b5b414f93ee5b199d4480482f94c2fd0c744ea2523c",
+    "extension": ".json",
+    "mime_guess": "application/json",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/audit_websites_geo.json"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/intl_scores.json",
+    "size_bytes": 1047,
+    "sha256": "2db8c4f6f550ca34e77423ec63d0a60939329cb7d604baf260ca22ac8f69429b",
+    "extension": ".json",
+    "mime_guess": "application/json",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/intl_scores.json"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_1.html",
+    "size_bytes": 3080,
+    "sha256": "47d8ccd8a622df0118208b5b0a9b1d3ee922b8cb633787fa569b0233a1431c03",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_1.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_10.html",
+    "size_bytes": 5373,
+    "sha256": "232926bc7fb3b2f970ef46394cb19022c33ea527c6361d29e4de4bc32e73bd1e",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_10.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_11.html",
+    "size_bytes": 5778,
+    "sha256": "bae2bfcf0debffb98e5abac53f96406d968a14920a94f6ce3059b9edd2c46347",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_11.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_12.html",
+    "size_bytes": 5415,
+    "sha256": "0059970bd7325752072567d2c128b668ce7a3268e4cd0b40c2357c0dfd100d6d",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_12.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_2.html",
+    "size_bytes": 4755,
+    "sha256": "104456831afadf4a6b271f3a287e93432e7eda80b9f38eeb0ffc7f528fa161c2",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_2.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_3.html",
+    "size_bytes": 4968,
+    "sha256": "187cf53de3c5707a3d678cfb97dad9a95ab99e8d3337df4ee51fcb43426cfab6",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_3.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_4.html",
+    "size_bytes": 5184,
+    "sha256": "4ca482b6799aab9fbf4142e7b8c76b208cafdef0e20339f07681257cd5129f45",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_4.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_5.html",
+    "size_bytes": 5069,
+    "sha256": "14da6a8b3879987612128b588c22f7d1b341d32e5d5c1bb07ca8e5e25c4996a0",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_5.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_6.html",
+    "size_bytes": 5782,
+    "sha256": "7f2d25a39c3a1532c8c79b3280fd095c99ca17688d29925726321a9323eea84c",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_6.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_7.html",
+    "size_bytes": 6303,
+    "sha256": "542d749d3f64eccf4bce7ebf5b2fa9b1bae3debb9ea811e238953aea23455e75",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_7.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_8.html",
+    "size_bytes": 6695,
+    "sha256": "e246475ea278560ff4053661cbcd7fd65bcf316eaac0206bedcb2ca8dc75850b",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_8.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_9.html",
+    "size_bytes": 5907,
+    "sha256": "2bbbea2395c3be679612cc3c058115e2c693ef7f58ae906448b539953a75d4bc",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_9.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_notes.json",
+    "size_bytes": 8322,
+    "sha256": "3bfd01442f84896efa8642be0827c6be92837ca2f25ce023b21b5b8c0f971eb0",
+    "extension": ".json",
+    "mime_guess": "application/json",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_notes.json"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_notes.md",
+    "size_bytes": 8583,
+    "sha256": "4bacad421ee55912e54a78d05ab320db77894494f06ac944cca52ec28664e886",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_notes.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_state.json",
+    "size_bytes": 4695,
+    "sha256": "f505cd6771a770e46320748f5e103b05e3fc365867b758ffac90b8120b1c6bf5",
+    "extension": ".json",
+    "mime_guess": "application/json",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/ai_lead_gen_presentation/slide_state.json"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/combined_geo_presentation/slide_1.html",
+    "size_bytes": 2895,
+    "sha256": "00897c6178831816e47d9abddd26a811d3f968d982d8c0096cfb14807b393224",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/combined_geo_presentation/slide_1.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/combined_geo_presentation/slide_10.html",
+    "size_bytes": 8899,
+    "sha256": "c686c368df4e47c1cd21de13a64bad425a167cf4e9ddb2479b89d935478286ab",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/combined_geo_presentation/slide_10.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/combined_geo_presentation/slide_11.html",
+    "size_bytes": 6017,
+    "sha256": "592de64ba6e4dc9b5b9f544849f9b28850217b70abc642e0d91fdbcfc4c36902",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/combined_geo_presentation/slide_11.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/combined_geo_presentation/slide_12.html",
+    "size_bytes": 4450,
+    "sha256": "bee4078c742404584290a969c3d6372ad2fc066cc0803b3ca281cf6c983e9ec8",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/combined_geo_presentation/slide_12.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/combined_geo_presentation/slide_2.html",
+    "size_bytes": 3856,
+    "sha256": "cd487e04edc34d44cf55a1c16d06f7998742d9701faba48f4e05962cf99c52d0",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/combined_geo_presentation/slide_2.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/combined_geo_presentation/slide_3.html",
+    "size_bytes": 5057,
+    "sha256": "c6dae6eefbfad0c150cdc9d3f5fdc554ee65f9c2252b2cf2baabf08ccbb00526",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/combined_geo_presentation/slide_3.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/combined_geo_presentation/slide_4.html",
+    "size_bytes": 7796,
+    "sha256": "fe39bc36fa37f7c9948d5747049fd29df62463ae12df57d04e133393f9135628",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/combined_geo_presentation/slide_4.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/combined_geo_presentation/slide_5.html",
+    "size_bytes": 7617,
+    "sha256": "75b6447cc164ed514fcb01573fb8ca5424c3e1d3fd02eed207aa6d76d0bc7755",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/combined_geo_presentation/slide_5.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/combined_geo_presentation/slide_6.html",
+    "size_bytes": 4091,
+    "sha256": "f43f53ff622cfea49218b755cbcd2a81726b80a75a98184a85c4792611b3fde1",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/combined_geo_presentation/slide_6.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/combined_geo_presentation/slide_7.html",
+    "size_bytes": 5335,
+    "sha256": "c62ae719e8f8ff24b024172726d6670f1551d98b94fe5026f9fa5e5e30569866",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/combined_geo_presentation/slide_7.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/combined_geo_presentation/slide_8.html",
+    "size_bytes": 5037,
+    "sha256": "49b45ef6e116772f0e172d395b421b688034f6a6c7752917f288e379075b8ddb",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/combined_geo_presentation/slide_8.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/combined_geo_presentation/slide_9.html",
+    "size_bytes": 6144,
+    "sha256": "884ece17bfe6ce16d5daf7ab57471fcea3d130dea302ff20c3131cbc0956d5ba",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/combined_geo_presentation/slide_9.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/combined_geo_presentation/slide_state.json",
+    "size_bytes": 4551,
+    "sha256": "bc5b62caaadd1eca95a29152ae2d1c772afee7ebf2e2094272bc8467c8c36903",
+    "extension": ".json",
+    "mime_guess": "application/json",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/combined_geo_presentation/slide_state.json"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/review_agent_presentation/slide_1.html",
+    "size_bytes": 3085,
+    "sha256": "66ae1747af7e1edd0531c535a70329dbafe9f6d90581f60335e4e0396539f165",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/review_agent_presentation/slide_1.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/review_agent_presentation/slide_10.html",
+    "size_bytes": 7372,
+    "sha256": "d5f65a9ad2328da347bee602c3cc05b3b3ac08946e9ae79283d08616ce241b92",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/review_agent_presentation/slide_10.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/review_agent_presentation/slide_11.html",
+    "size_bytes": 6924,
+    "sha256": "1a00c4b243ff704e99d910a542c8ee9bc1f7fff9bd484e78699df148ccccbac0",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/review_agent_presentation/slide_11.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/review_agent_presentation/slide_12.html",
+    "size_bytes": 4760,
+    "sha256": "66db05c22f35761dfc1e55dd6787fc3922b4b75dd56a809c4ae67d5759662310",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/review_agent_presentation/slide_12.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/review_agent_presentation/slide_2.html",
+    "size_bytes": 4938,
+    "sha256": "d0aefd9fb91512c66dde839311987a6a43b1ad29cbe536c7e329378264ddd9c6",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/review_agent_presentation/slide_2.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/review_agent_presentation/slide_3.html",
+    "size_bytes": 5451,
+    "sha256": "878b19f652730831a3305ebdd2e006ad117925360a41fcb065c28fb2f7b6e898",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/review_agent_presentation/slide_3.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/review_agent_presentation/slide_4.html",
+    "size_bytes": 6029,
+    "sha256": "aae6280c58ab77d9bc056a06078dfceec92bc1adde6cf3a7cdd0fabddc7c82f6",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/review_agent_presentation/slide_4.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/review_agent_presentation/slide_5.html",
+    "size_bytes": 6707,
+    "sha256": "6d85be02f5bafaacf60225c2b2ca84f349e61bf6889a2d29d55b009d3abd9f7e",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/review_agent_presentation/slide_5.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/review_agent_presentation/slide_6.html",
+    "size_bytes": 6478,
+    "sha256": "c1e94babd156cecb0bccda9049bf8aa4c2924ad1a1c1f813d4d2ec50e7ec476a",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/review_agent_presentation/slide_6.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/review_agent_presentation/slide_7.html",
+    "size_bytes": 7287,
+    "sha256": "82f7408fcc3ce77c1b2015241026e9d6c28b1e4a359ec1c15a4ee6396025db8f",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/review_agent_presentation/slide_7.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/review_agent_presentation/slide_8.html",
+    "size_bytes": 6035,
+    "sha256": "6ce4e4d302d83419259e53af1529be0687921fa60b6de906e685de6b5d7860cb",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/review_agent_presentation/slide_8.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/review_agent_presentation/slide_9.html",
+    "size_bytes": 6141,
+    "sha256": "e65f41529140ea2c723996ee7a5b20af89efcf97aaad9078fcc64d5f026453b4",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/review_agent_presentation/slide_9.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/review_agent_presentation/slide_state.json",
+    "size_bytes": 4739,
+    "sha256": "a52e0599a0dd46f198c58450b3b3db06fede1a9853e40ebf82617044c300ddb1",
+    "extension": ".json",
+    "mime_guess": "application/json",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/review_agent_presentation/slide_state.json"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/sprint_presentation/slide_1.html",
+    "size_bytes": 3285,
+    "sha256": "7ad66af0d7321b45ec946a61bceabb661a14e44d7ede68a0680ac5e933ceb623",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/sprint_presentation/slide_1.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/sprint_presentation/slide_10.html",
+    "size_bytes": 6226,
+    "sha256": "16d9555680ef0aba70d27ea08923ca0f8db2ad2d1adbdcbec3d58d2ed5fbd062",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/sprint_presentation/slide_10.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/sprint_presentation/slide_11.html",
+    "size_bytes": 7542,
+    "sha256": "5f93c64b913d0c935275de96d096aa259fef8b602ac23aa853f15886c547e7fd",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/sprint_presentation/slide_11.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/sprint_presentation/slide_12.html",
+    "size_bytes": 6127,
+    "sha256": "f136214fa17c9a8f05c0fca76b2925fe90e38083ac743f09d6f2844649eb56b5",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/sprint_presentation/slide_12.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/sprint_presentation/slide_13.html",
+    "size_bytes": 6575,
+    "sha256": "145bd544d9874311725c007bdd80627e9a20eafc80694b402b2cd5112e21be7f",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/sprint_presentation/slide_13.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/sprint_presentation/slide_14.html",
+    "size_bytes": 6435,
+    "sha256": "c7751aa9a6874fdfe56a888d0d7f7ce3801f4bf4ae27aa911ef0f21e92542f30",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/sprint_presentation/slide_14.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/sprint_presentation/slide_15.html",
+    "size_bytes": 6245,
+    "sha256": "0a802c526b646737d758cf3ccfd11cb1fce52a007cd8ee902f7a6616ec7d2f27",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/sprint_presentation/slide_15.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/sprint_presentation/slide_16.html",
+    "size_bytes": 6759,
+    "sha256": "8e82310b94d646415aef012d3ec03bc535c87befaa7a4ac34f43a08275b9170c",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/sprint_presentation/slide_16.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/sprint_presentation/slide_17.html",
+    "size_bytes": 4342,
+    "sha256": "aa1e973accd96c53affe424cf9a8fe8da95bedfa5c2731643b691ef743e040a7",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/sprint_presentation/slide_17.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/sprint_presentation/slide_18.html",
+    "size_bytes": 5053,
+    "sha256": "cada7845452ea2d1f2aeedfb4c7e14745c3b647b9ceb97a8659d1af4245ddf50",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/sprint_presentation/slide_18.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/sprint_presentation/slide_2.html",
+    "size_bytes": 5663,
+    "sha256": "8b71636246a7719db217bedd5dd5263bd426942548e421029697bb56d7e6ff46",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/sprint_presentation/slide_2.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/sprint_presentation/slide_3.html",
+    "size_bytes": 7410,
+    "sha256": "db41afb89ee33a8aabfb0c19a97067a0236d863d5e7bb88274a3e64ac9938b4c",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/sprint_presentation/slide_3.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/sprint_presentation/slide_4.html",
+    "size_bytes": 4311,
+    "sha256": "e0397c285593f46f8dfc236fcb76ac6dfb2819952fd71cf82071f7054f15bf3f",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/sprint_presentation/slide_4.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/sprint_presentation/slide_5.html",
+    "size_bytes": 6436,
+    "sha256": "972ca199eab97ec4809c13e3f86ac900ee774d295d393ae5730421f74cc65d6e",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/sprint_presentation/slide_5.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/sprint_presentation/slide_6.html",
+    "size_bytes": 6614,
+    "sha256": "2a0585415f10e2f72dfcc53a1d692f67add8abd81e775c06a40131c90e9c5de3",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/sprint_presentation/slide_6.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/sprint_presentation/slide_7.html",
+    "size_bytes": 6021,
+    "sha256": "fe243440fbac49d77a08769aeaf3b2ec44f115fb71a9139401f1b1877be2f822",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/sprint_presentation/slide_7.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/sprint_presentation/slide_8.html",
+    "size_bytes": 7927,
+    "sha256": "389f74e407698df1a959f5d06cc2fc19645aedb126ea5a6990cd069f709dfda7",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/sprint_presentation/slide_8.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/sprint_presentation/slide_9.html",
+    "size_bytes": 6356,
+    "sha256": "485283d34ba81348b11d198c198d315716a5438504c4ebd8d80641252e96e5d9",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/sprint_presentation/slide_9.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/presentations/sprint_presentation/slide_state.json",
+    "size_bytes": 5829,
+    "sha256": "cdc7d788d797bde8bd6fdc251a09c643f32ab1c0da273cc297daf8ba7f3c10f1",
+    "extension": ".json",
+    "mime_guess": "application/json",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/presentations/sprint_presentation/slide_state.json"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/scorecard_data.json",
+    "size_bytes": 11852,
+    "sha256": "faf510b2129820339b0e0b216cfbdbedfde5a5ed3e991b5110dbaaa4f7983ad9",
+    "extension": ".json",
+    "mime_guess": "application/json",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/scorecard_data.json"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/uploads/NewRecording2_transcription_20260325_175930.json",
+    "size_bytes": 60741,
+    "sha256": "6f5b78ec28c2dee2660136a35f4af05035e0ba8af3d25e371451435c08b78057",
+    "extension": ".json",
+    "mime_guess": "application/json",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/uploads/NewRecording2_transcription_20260325_175930.json"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/uploads/NewRecording2_transcription_20260325_175930.txt",
+    "size_bytes": 20859,
+    "sha256": "af15957045f88050607514b8ec557c76acc755495d66740d0e18e6aba7947c00",
+    "extension": ".txt",
+    "mime_guess": "text/plain",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/uploads/NewRecording2_transcription_20260325_175930.txt"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT",
+    "relative_path": "FULL_EXPORT/uploads/www.smartmoving.com_moving-leads.md",
+    "size_bytes": 14966,
+    "sha256": "0ccfadf469b2c4dbeea4efee2da12c25a50cfd94acc0e4d329288c012be4f23f",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__01_Project_Management__docs__Global_Sales_Force_FULL_EXPORT/FULL_EXPORT/uploads/www.smartmoving.com_moving-leads.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/.env.example",
+    "size_bytes": 1329,
+    "sha256": "b72787ad2910435942d45c82ce3318cdd19b78a02e981b2796019e65a1e7ee8e",
+    "extension": ".example",
+    "mime_guess": null,
+    "category": "06_other_assets",
+    "organized_path": "06_other_assets/Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2/home/ubuntu/bot_a_lead_quoting_engine/.env.example"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/.gitignore",
+    "size_bytes": 88,
+    "sha256": "dfe08d394e291c6da5a5366e8ae3af46740ffbf049bc5bbf921deb4c77538a64",
+    "extension": "",
+    "mime_guess": null,
+    "category": "06_other_assets",
+    "organized_path": "06_other_assets/Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2/home/ubuntu/bot_a_lead_quoting_engine/.gitignore"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/README.md",
+    "size_bytes": 2443,
+    "sha256": "75d36d80f4f91e7eed126638c963f17ce68b0eb4cf73550ecbfd6eb115285d2c",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2/home/ubuntu/bot_a_lead_quoting_engine/README.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/config/__init__.py",
+    "size_bytes": 1,
+    "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2/home/ubuntu/bot_a_lead_quoting_engine/config/__init__.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/config/settings.py",
+    "size_bytes": 6721,
+    "sha256": "47c6c96474438bb1fa3d43f95ec03cc3266580e40e9804ea17f3c4824a1d4c4f",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2/home/ubuntu/bot_a_lead_quoting_engine/config/settings.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/data/Auto_Shipping_Training_Data_Combined.csv",
+    "size_bytes": 8124960,
+    "sha256": "13f386f958c0fa2ffd1a1608252a781973bf81e11ce319135f9c9925492295ed",
+    "extension": ".csv",
+    "mime_guess": "text/csv",
+    "category": "03_data_and_spreadsheets",
+    "organized_path": "03_data_and_spreadsheets/Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2/home/ubuntu/bot_a_lead_quoting_engine/data/Auto_Shipping_Training_Data_Combined.csv"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/logs/test_results.json",
+    "size_bytes": 725,
+    "sha256": "b77c999a82222ca15d02358e05caa166e2dab58a83dc8c7c5206b74dbddf327c",
+    "extension": ".json",
+    "mime_guess": "application/json",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2/home/ubuntu/bot_a_lead_quoting_engine/logs/test_results.json"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/main.py",
+    "size_bytes": 11817,
+    "sha256": "1f2abda0f99c4dfff5150c861774f38b4d67a739b8aba2a5bbbf74ed6d2cd8f2",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2/home/ubuntu/bot_a_lead_quoting_engine/main.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/modules/pricing_engine.py",
+    "size_bytes": 27162,
+    "sha256": "b2623c94096af6b4ef19a1e945b7291ce0e856ab6497fe2e94b2bdb3f4374fd5",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2/home/ubuntu/bot_a_lead_quoting_engine/modules/pricing_engine.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/requirements.txt",
+    "size_bytes": 346,
+    "sha256": "a671d525a92afc52fb22a474fa214b5e9e5f69f87b4e74de055e561259e344ad",
+    "extension": ".txt",
+    "mime_guess": "text/plain",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2/home/ubuntu/bot_a_lead_quoting_engine/requirements.txt"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/tests/test_full_pipeline.py",
+    "size_bytes": 10358,
+    "sha256": "df499f6aef968c2c7f4fbf84ce0787587a43c85e8fec398fa346e1a480519aaf",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2/home/ubuntu/bot_a_lead_quoting_engine/tests/test_full_pipeline.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/tests/test_pricing_engine.py",
+    "size_bytes": 7598,
+    "sha256": "611386f2a3bd7a98a6ebcef8cd6fb712802944a5248d85fc8f789136490f5093",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Auto_Shipping_Automation__bot_a_lead_quoting_engine_v2/home/ubuntu/bot_a_lead_quoting_engine/tests/test_pricing_engine.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/assets/hero_expert_move.png",
+    "size_bytes": 2177571,
+    "sha256": "2a39859cf203c9a54db7146a855aea1cdb53549ef9864dd5fe756ba6eb9c51e6",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "category": "04_media_assets",
+    "organized_path": "04_media_assets/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/assets/hero_expert_move.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/assets/hero_normal_move.png",
+    "size_bytes": 1906822,
+    "sha256": "cf68a34d6342faf6b6409756f3db974251b94698f28f04e472615b80b392cdb6",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "category": "04_media_assets",
+    "organized_path": "04_media_assets/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/assets/hero_normal_move.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/assets/hero_web_banner.png",
+    "size_bytes": 1759999,
+    "sha256": "b8023abc203852fe42d355dd12e17720d422794dfba15463abb367c4cc1a0198",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "category": "04_media_assets",
+    "organized_path": "04_media_assets/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/assets/hero_web_banner.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/assets/truck_diagram.png",
+    "size_bytes": 1469476,
+    "sha256": "beae4336496318a1b74717e7a17f82f870f7e913c6dc4a72a6582b4882074f47",
+    "extension": ".png",
+    "mime_guess": "image/png",
+    "category": "04_media_assets",
+    "organized_path": "04_media_assets/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/assets/truck_diagram.png"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/docs/Logistics_Visual_Guide.md",
+    "size_bytes": 621,
+    "sha256": "a26f9d0584bd1a26dfbb72a5ab92a020e92542633d6d8829f8b4242c0de93952",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/docs/Logistics_Visual_Guide.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/docs/Logistics_Visual_Guide.pdf",
+    "size_bytes": 7255136,
+    "sha256": "1697b2afb97b0442341c2a80765a5c8a5937a0c4f7f778905c4e3181f92b1430",
+    "extension": ".pdf",
+    "mime_guess": "application/pdf",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/docs/Logistics_Visual_Guide.pdf"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/generate_docs.py",
+    "size_bytes": 3707,
+    "sha256": "c3c0c70a9d7f540ca671c3917339c655fc5899b5a721d915ba02e30aa242a439",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/generate_docs.py"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/hhg_logistics_questionnaire.md",
+    "size_bytes": 5969,
+    "sha256": "7e34b2d65c9c07ba60eff801794a56a563fe36068b40491507fd5a1f538fe310",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/hhg_logistics_questionnaire.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/hhg_logistics_questionnaire_v2.md",
+    "size_bytes": 9338,
+    "sha256": "c1cecd4711046d147dea544413a08f28a40c7e5e67880e1370d23fcf6de36aec",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/hhg_logistics_questionnaire_v2.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/hhg_logistics_questionnaire_v3.md",
+    "size_bytes": 11627,
+    "sha256": "d507517fdb1d272efc8aaab5c8419f10020a8a4e5549c892ca1d9430479f1dae",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/hhg_logistics_questionnaire_v3.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_1.html",
+    "size_bytes": 1588,
+    "sha256": "bbd21b17e9f3c8fcb63d924d743d0eb4946d2c5571f6aa5a5649470f7bcdad07",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_1.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_10.html",
+    "size_bytes": 1609,
+    "sha256": "c399e8a13595b3a7648d42a64688adb368803c7d24af04407953bdc8ff83cf28",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_10.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_10_generated.webp",
+    "size_bytes": 494176,
+    "sha256": "1a1fe6355a2087c6ffbd2246c47e14b5470bc39ffaebe3e005408582ae56b730",
+    "extension": ".webp",
+    "mime_guess": null,
+    "category": "04_media_assets",
+    "organized_path": "04_media_assets/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_10_generated.webp"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_1_generated.webp",
+    "size_bytes": 710346,
+    "sha256": "05eac85321ba0683f0e029b64b99d9b03dfca1a575600bbf09df192480ba73c9",
+    "extension": ".webp",
+    "mime_guess": null,
+    "category": "04_media_assets",
+    "organized_path": "04_media_assets/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_1_generated.webp"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_2.html",
+    "size_bytes": 1604,
+    "sha256": "11812f3b49001e8708b6fbbd7deacf3320dff846a3e7748a39cfd7c59ec0f07f",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_2.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_2_generated.webp",
+    "size_bytes": 394728,
+    "sha256": "ae12130f77a46109a6a02ea60896d5597b6935be69e45f2f2264fa954dc4532c",
+    "extension": ".webp",
+    "mime_guess": null,
+    "category": "04_media_assets",
+    "organized_path": "04_media_assets/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_2_generated.webp"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_3.html",
+    "size_bytes": 1604,
+    "sha256": "58746ab0a2fcee57a47e676539c1507c97e5cf5a23767da80695724f1277f197",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_3.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_3_generated.webp",
+    "size_bytes": 534168,
+    "sha256": "4b86759ec57f2b819acc939b25966863bf7159349e081ef69c96ef8ff1dda292",
+    "extension": ".webp",
+    "mime_guess": null,
+    "category": "04_media_assets",
+    "organized_path": "04_media_assets/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_3_generated.webp"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_4.html",
+    "size_bytes": 1604,
+    "sha256": "c1b009bfc2601a6b3997321c3372ac42c581adc1f86361c9a42b25aa455e3ae0",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_4.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_4_generated.webp",
+    "size_bytes": 787694,
+    "sha256": "0dd5602e49bebdd4171f33bc1d075898541babdf150374ef509f5b27990ba8a4",
+    "extension": ".webp",
+    "mime_guess": null,
+    "category": "04_media_assets",
+    "organized_path": "04_media_assets/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_4_generated.webp"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_5.html",
+    "size_bytes": 1604,
+    "sha256": "fca2abecee6fef7360c6bc0145c79ac1d51f3dee347cce3a81159f7907f5dc1e",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_5.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_5_generated.webp",
+    "size_bytes": 755864,
+    "sha256": "0735414d361fdf67d9e68768d23217971d63525361e38950270affc39cdc1783",
+    "extension": ".webp",
+    "mime_guess": null,
+    "category": "04_media_assets",
+    "organized_path": "04_media_assets/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_5_generated.webp"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_6.html",
+    "size_bytes": 1604,
+    "sha256": "1e323b9f352e682ad987cc0eb117d3b9e483b98663c75b9afd68f70c0976342e",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_6.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_6_generated.webp",
+    "size_bytes": 867734,
+    "sha256": "e6f6b31b928a7d04a2b656d0cee9990071455142d25a0c904d1991a2473eeb94",
+    "extension": ".webp",
+    "mime_guess": null,
+    "category": "04_media_assets",
+    "organized_path": "04_media_assets/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_6_generated.webp"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_7.html",
+    "size_bytes": 1604,
+    "sha256": "d44e0ae0373b20b507781e2ae92f03c8fd3c55a1bc33910faf2691ff6379cb7a",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_7.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_7_generated.webp",
+    "size_bytes": 472814,
+    "sha256": "c5544136e63e7407df8799db34d6c282b1b295c57db5812125a0c2dd96b07170",
+    "extension": ".webp",
+    "mime_guess": null,
+    "category": "04_media_assets",
+    "organized_path": "04_media_assets/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_7_generated.webp"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_8.html",
+    "size_bytes": 1604,
+    "sha256": "73344c5ed7cd4fcd0e5950a7d44ee887513235902629b18497a1f74bb6a7e5d1",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_8.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_8_generated.webp",
+    "size_bytes": 485664,
+    "sha256": "aaab63a34e831c837f789ae08d165599f30b49a737d79d78bfa99b7e2f53845e",
+    "extension": ".webp",
+    "mime_guess": null,
+    "category": "04_media_assets",
+    "organized_path": "04_media_assets/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_8_generated.webp"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_9.html",
+    "size_bytes": 1604,
+    "sha256": "5775224a0cc74137acfe4ac749fe7555fb88179728fe7eb9756edaed1d436fee",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_9.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_9_generated.webp",
+    "size_bytes": 727662,
+    "sha256": "ea96b55f3a8ab9c6763f560839f2fe513ad0af9add246d28ca1b22bb12f763f1",
+    "extension": ".webp",
+    "mime_guess": null,
+    "category": "04_media_assets",
+    "organized_path": "04_media_assets/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_9_generated.webp"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_state.json",
+    "size_bytes": 3923,
+    "sha256": "00ae79a13660b994de432f48c1425bf09f3688ae33faa2d43e1de3faee525bb7",
+    "extension": ".json",
+    "mime_guess": "application/json",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/presentation/slide_state.json"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/slide_content.md",
+    "size_bytes": 10080,
+    "sha256": "9f65962db12ffe3089dd2019a1b629eeea536043fb8ab9e544aeb936b27d6c7d",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/01_DOCUMENTS_AND_SLIDES/slide_content.md"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/index.html",
+    "size_bytes": 760,
+    "sha256": "0c0ffb7ee170d535f27458d113e8b2fdfe9ddb88962f1162a0ddddfaff1956ef",
+    "extension": ".html",
+    "mime_guess": "text/html",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/index.html"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/public/.gitkeep",
+    "size_bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "extension": "",
+    "mime_guess": null,
+    "category": "06_other_assets",
+    "organized_path": "06_other_assets/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/public/.gitkeep"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/public/__manus__/debug-collector.js",
+    "size_bytes": 25168,
+    "sha256": "e95d3246bc3757b46286221060b7346ea59fb6a9c94aa05f5eae7e7e09877d1b",
+    "extension": ".js",
+    "mime_guess": "text/javascript",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/public/__manus__/debug-collector.js"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/public/__manus__/version.json",
+    "size_bytes": 57,
+    "sha256": "263b56b6ee0c8fa46046a23eaea5e00757e31d13ffb750650c950cd28ad3a165",
+    "extension": ".json",
+    "mime_guess": "application/json",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/public/__manus__/version.json"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/App.tsx",
+    "size_bytes": 793,
+    "sha256": "c8006f3e64b59b52c77ecb699f9643e6aef5cfdd0a748167e6fb96962c485dad",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/App.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ErrorBoundary.tsx",
+    "size_bytes": 1688,
+    "sha256": "3b0bdb7a19758fcd440138ccfb5f306b96836564f15d7c8c9663d7dd7417e972",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ErrorBoundary.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ManusDialog.tsx",
+    "size_bytes": 2370,
+    "sha256": "a22b0cb5c1db5cedda6b2c70b3cb4a1a443101e03e90de188ce11156c24c25db",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ManusDialog.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/accordion.tsx",
+    "size_bytes": 2048,
+    "sha256": "7b96cf50388ad3d07be64924ab33ba5f63b79a6a5749ebe4d31c789c0bc00d44",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/accordion.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/alert-dialog.tsx",
+    "size_bytes": 3866,
+    "sha256": "aeecd7967eb0be3bad2753b6633d9a43cc4c08cb35de872ffdc0b9f2b6a9b26c",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/alert-dialog.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/alert.tsx",
+    "size_bytes": 1622,
+    "sha256": "eccfc7f6ca9d51407cb413a3ca4b5ac721898ac93d38e95c02c35188ad674abe",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/alert.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/aspect-ratio.tsx",
+    "size_bytes": 269,
+    "sha256": "654f5d6e9ed17472305d7e6fc5de30453875ffae585f5d064aedc9e6945bdbb0",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/aspect-ratio.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/avatar.tsx",
+    "size_bytes": 1090,
+    "sha256": "c2382ff71d7ef3492096ed6ef35bf82e1fd421a81d55ca80453f5f5138eac360",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/avatar.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/badge.tsx",
+    "size_bytes": 1639,
+    "sha256": "51fd797c59e63d164ade736769f19f26e41c157daba29aa0b327b3b226f4d4ac",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/badge.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/breadcrumb.tsx",
+    "size_bytes": 2371,
+    "sha256": "dd84657e30691ea7f14a785c13b660d6cd626c08ba1df8439c3eca858ee3cd7e",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/breadcrumb.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/button-group.tsx",
+    "size_bytes": 2220,
+    "sha256": "ba1d824f0f4d8b5dd78a80fa766e3543eefb9173143652be2c7cb765af1864f5",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/button-group.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/button.tsx",
+    "size_bytes": 2097,
+    "sha256": "b08b4785e03566c7a6063b3d57234deae41649676870cbbb9ab2448d816e1739",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/button.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/calendar.tsx",
+    "size_bytes": 7663,
+    "sha256": "89308bce82e8b23b611cfbc88bc19f7b341d7109ab9a2838c04cb50922113501",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/calendar.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/card.tsx",
+    "size_bytes": 1997,
+    "sha256": "1397e7d264d90162220ea7473b311e434651886267c71e7f58d4488be9d8ff39",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/card.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/carousel.tsx",
+    "size_bytes": 5603,
+    "sha256": "42f66e6fde568c209df5d58a4ca13c3ae92d120a04fd99f7be695d6a570ef0a9",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/carousel.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/chart.tsx",
+    "size_bytes": 10113,
+    "sha256": "47c4de202fe1dc229af94d2c86197251d279bee131d2a6fb75ab9e58cec71aab",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/chart.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/checkbox.tsx",
+    "size_bytes": 1218,
+    "sha256": "4fc309590e66d3c41e3be5fb73f988b0e916e7bf5fff321c22c3a64cd4fe97cf",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/checkbox.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/collapsible.tsx",
+    "size_bytes": 791,
+    "sha256": "95b5b9ea89a4105045c58b7eba539e57a1f4abc5a54d43ea0f7168f46b645eeb",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/collapsible.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/command.tsx",
+    "size_bytes": 4838,
+    "sha256": "47910540789d4de9e890de63bfc0046f9cf6bfaa86d496a98c79622900f8520c",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/command.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/context-menu.tsx",
+    "size_bytes": 8284,
+    "sha256": "fe63c0a0dcabe749874ad19e07dee8418337c62dd64452fc08b5abf27b49b9eb",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/context-menu.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/dialog.tsx",
+    "size_bytes": 6024,
+    "sha256": "3ffd83bd2940c1191fde091bc47311aebc2b79d78824965a5c446115e58190aa",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/dialog.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/drawer.tsx",
+    "size_bytes": 4255,
+    "sha256": "573deecc31f90fcd96f53a37b2e5363eb326fe737cbdb28cac38a5d014734fc8",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/drawer.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/dropdown-menu.tsx",
+    "size_bytes": 8434,
+    "sha256": "ede99252b737a29eb1f05370956e2b842be161b6a661f1429155ac561653d029",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/dropdown-menu.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/empty.tsx",
+    "size_bytes": 2406,
+    "sha256": "c0b612929b15fd498b984d8d98d1b082a3eb294be5aa8eb9cb53b67cf152f465",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/empty.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/field.tsx",
+    "size_bytes": 6057,
+    "sha256": "f093424ca5eadf43d46b020ed780aee7aa5f6d90d0b48fb50c031e3d7b0528c7",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/field.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/form.tsx",
+    "size_bytes": 3801,
+    "sha256": "0157362d572713567d989b726277879e75c60c24684ade4aef854867dc2fac48",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/form.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/hover-card.tsx",
+    "size_bytes": 1525,
+    "sha256": "bdfe831708e7de6b9fbb14d8fe5af5a0985f67cff3c2b5755b4b570c3b4e7ad5",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/hover-card.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/input-group.tsx",
+    "size_bytes": 5066,
+    "sha256": "f62f2be2ad4c2c7711e7b25b0d6c03572f7871cb4022e9f4f6860dcd77dd9e57",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/input-group.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/input-otp.tsx",
+    "size_bytes": 2253,
+    "sha256": "45fc7fed882aa5024d8eea52d9b392d13b1d80f2b7f846365bc2586e3d16253d",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/input-otp.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/input.tsx",
+    "size_bytes": 2728,
+    "sha256": "0aaad971269e84519fb14928a70777db539b4cacf9f145fecd905ba483a199c6",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/input.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/item.tsx",
+    "size_bytes": 4513,
+    "sha256": "89f2ed48c2270064d63e0a40f755c1da14e99e7db46bceac56d6dee7b45b8798",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/item.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/kbd.tsx",
+    "size_bytes": 866,
+    "sha256": "4f8f3e521b2b007643b8a2c8f86cf547bd87e703dc2bed067083ca48f901d6ad",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/kbd.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/label.tsx",
+    "size_bytes": 602,
+    "sha256": "7fdad17d8e83912ad0cfc372c551a901ab98523ef17c0792a17c592a147db732",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/label.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/menubar.tsx",
+    "size_bytes": 8405,
+    "sha256": "53fb1c058fabaf0cfb3fb2cfdb9b17ccc8762376d62cc011150d919209b82c1a",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/menubar.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/navigation-menu.tsx",
+    "size_bytes": 6680,
+    "sha256": "aafccbe2b05d9f80b7d007301b51aaede4692efc468304c5fb11b21cd0c0ef43",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/navigation-menu.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/pagination.tsx",
+    "size_bytes": 2726,
+    "sha256": "8f0d822b4688eb131e37fbf2330e19b269ab6487583be3249b98f3b68bb07928",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/pagination.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/popover.tsx",
+    "size_bytes": 1629,
+    "sha256": "5e7bec05904d9091a7b53963f5b49660bf3564b02a057ef8640ab6855d6e32fd",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/popover.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/progress.tsx",
+    "size_bytes": 731,
+    "sha256": "2297e3c13d5b2a04a9164c3900c8cae2e477c07ebed35c4bbda98d1232ab7b7e",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/progress.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/radio-group.tsx",
+    "size_bytes": 1459,
+    "sha256": "025f03d81d4e304eb27d94e6517f37072a3941df8f8603ac55cfb42b17cd99ef",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/radio-group.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/resizable.tsx",
+    "size_bytes": 2023,
+    "sha256": "52e1027a4b4a5f70f0479f69fe40046dfa112952b7e568292727e1618348ee80",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/resizable.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/scroll-area.tsx",
+    "size_bytes": 1637,
+    "sha256": "793c5d69e6e5ce8bcbe453b8834d53f3a90839fc8e8e1f9fe5f77e7626566677",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/scroll-area.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/select.tsx",
+    "size_bytes": 6297,
+    "sha256": "40945665ec8363e55ae38f26115ee763cbc5548bed585eed569d406cbc4b7a75",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/select.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/separator.tsx",
+    "size_bytes": 690,
+    "sha256": "23bbf3f74d01f55533f6f22ebbc2b299137421e07896cb7af21245756a10c27e",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/separator.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/sheet.tsx",
+    "size_bytes": 4107,
+    "sha256": "ab22e38f2cf312a31a84fb91f7e912f0da66e809f6e1ae675ec6cf0c8ec0ba61",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/sheet.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/sidebar.tsx",
+    "size_bytes": 21947,
+    "sha256": "782ec3ba8a570c9a0f6ec12d7e1c1efdee5e02eb2da7aa46131c734e7f7bbea8",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/sidebar.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/skeleton.tsx",
+    "size_bytes": 279,
+    "sha256": "1f75b999a5ad2f65e8fb807faa2b3fccef9eb333996fb4c9030575dac7393091",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/skeleton.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/slider.tsx",
+    "size_bytes": 1988,
+    "sha256": "9c458646597836916678a9bce2f3064d4d5cdb0c65d32d92bc71f57d7569fb6b",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/slider.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/sonner.tsx",
+    "size_bytes": 561,
+    "sha256": "a65fe9ded89363ec546f28401a26caec1a3aa38c52259eb829cfa33723dbe3a5",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/sonner.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/spinner.tsx",
+    "size_bytes": 335,
+    "sha256": "ecd836d476573adb4403747c3457339276805433c20eacf3408303b76ec283ff",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/spinner.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/switch.tsx",
+    "size_bytes": 1168,
+    "sha256": "688cccb52220e05f6770fb5e8296375f2a784bcf6585eb26a721a9f29361ab60",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/switch.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/table.tsx",
+    "size_bytes": 2445,
+    "sha256": "085566291cf03c9fea590aa9b77339feebf04cf8ce23494a3667f84bf4811e29",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/table.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/tabs.tsx",
+    "size_bytes": 1963,
+    "sha256": "394b62295cee5185e858bcabfafcd5a7287910944c962fbd9c1c06444b22cedb",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/tabs.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/textarea.tsx",
+    "size_bytes": 2613,
+    "sha256": "ffbad961ec02f9ca23f4157daa1a4139960c4477a245c216a793b4692dec142c",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/textarea.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/toggle-group.tsx",
+    "size_bytes": 1936,
+    "sha256": "92e7640e30c4ae3ffd775e9a3d845327c26d9ce0f9f39555c2e7cfc2c8671c4d",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/toggle-group.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/toggle.tsx",
+    "size_bytes": 1563,
+    "sha256": "a922c5e0534b9fd556ff8a8b56e25f7d24544be6050472cdd1ea003b8a0f3e47",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/toggle.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/tooltip.tsx",
+    "size_bytes": 1886,
+    "sha256": "6f0c581e2018d676e43c0b4b5aeb62d3fe68e65907cf748548208d75ac212677",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/components/ui/tooltip.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/const.ts",
+    "size_bytes": 643,
+    "sha256": "65400a775381cec4ae19f68373550f1318fb45970313ad91e91a1adc42b0bacc",
+    "extension": ".ts",
+    "mime_guess": "text/vnd.trolltech.linguist",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/const.ts"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/contexts/ThemeContext.tsx",
+    "size_bytes": 1467,
+    "sha256": "e025cdb51ad747757235b16dccbb39b5e949cdf93fa9a822ff81ef6e32f65924",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/contexts/ThemeContext.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/hooks/useComposition.ts",
+    "size_bytes": 2333,
+    "sha256": "674c515075a2f318d4ec2291313ba552488de0b2c1aac7f36f3d71c4e34d434e",
+    "extension": ".ts",
+    "mime_guess": "text/vnd.trolltech.linguist",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/hooks/useComposition.ts"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/hooks/useMobile.tsx",
+    "size_bytes": 584,
+    "sha256": "464e778a9da49481e3c6dac4f92ff589e01349b33063a74c45435cfeed81e1c0",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/hooks/useMobile.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/hooks/usePersistFn.ts",
+    "size_bytes": 471,
+    "sha256": "60cc14f39a3f8b212d7baf4beeaf35f81e09a7c78e4154bcca3477e010879511",
+    "extension": ".ts",
+    "mime_guess": "text/vnd.trolltech.linguist",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/hooks/usePersistFn.ts"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/index.css",
+    "size_bytes": 5062,
+    "sha256": "ac397c2064443fbd383761f74f4191c7f9c0127dc892b957a8027a91d14e63d3",
+    "extension": ".css",
+    "mime_guess": "text/css",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/index.css"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/lib/utils.ts",
+    "size_bytes": 169,
+    "sha256": "d1f1e0d62cb8d8d1e04c26e14de842d8a151f75812d81b046c65b5d1fe8e4b27",
+    "extension": ".ts",
+    "mime_guess": "text/vnd.trolltech.linguist",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/lib/utils.ts"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/main.tsx",
+    "size_bytes": 157,
+    "sha256": "29946f51942fba11605c7595fd82b50b0d7e50148e0194fd356dacbc958f18ec",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/main.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/pages/Home.tsx",
+    "size_bytes": 44364,
+    "sha256": "faa0e7736f8804749ae6652dcad19a61a5bb3e890a228a4b67dca1ba275ae669",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/pages/Home.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/pages/NotFound.tsx",
+    "size_bytes": 1756,
+    "sha256": "8d463442b5f0514d4dacc4b1f195599f7d22254f6240488cead16ec8ac80888f",
+    "extension": ".tsx",
+    "mime_guess": null,
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/client/src/pages/NotFound.tsx"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/package.json",
+    "size_bytes": 3353,
+    "sha256": "f303bd7641c687cbef99fd65183db789aa17afc679ec03ef3aeedbedfc366c4f",
+    "extension": ".json",
+    "mime_guess": "application/json",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/02_WEB_APP/package.json"
+  },
+  {
+    "source_archive_slug": "Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE",
+    "relative_path": "MOVE_INTELLIGENCE_FULL_SUITE/ONE_SHOT_MASTER_PROMPT.md",
+    "size_bytes": 8849,
+    "sha256": "2a0d26eb47b0c794f364b7340da90f01cc094f41424e0b07919f4f65209c892f",
+    "extension": ".md",
+    "mime_guess": "text/markdown",
+    "category": "02_docs_and_strategy",
+    "organized_path": "02_docs_and_strategy/Global_Sales_Force__Logistical_Questionnaire__MOVE_INTELLIGENCE_FULL_SUITE/MOVE_INTELLIGENCE_FULL_SUITE/ONE_SHOT_MASTER_PROMPT.md"
+  },
+  {
+    "source_archive_slug": "bot_a_lead_quoting_engine_v3",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/config/settings.py",
+    "size_bytes": 7237,
+    "sha256": "188f3a217fadefa51d0be46eda41a54ebaed724e65b3bc9fd1b7277cfa04c5b7",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/bot_a_lead_quoting_engine_v3/home/ubuntu/bot_a_lead_quoting_engine/config/settings.py"
+  },
+  {
+    "source_archive_slug": "bot_a_lead_quoting_engine_v3",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/logs/bot_a_20260428.log",
+    "size_bytes": 11618,
+    "sha256": "f0a7e934835badd01b10c3d6e7b0235123efb81915049a5dc88893ec39fc08b2",
+    "extension": ".log",
+    "mime_guess": null,
+    "category": "06_other_assets",
+    "organized_path": "06_other_assets/bot_a_lead_quoting_engine_v3/home/ubuntu/bot_a_lead_quoting_engine/logs/bot_a_20260428.log"
+  },
+  {
+    "source_archive_slug": "bot_a_lead_quoting_engine_v3",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/logs/sent_quotes.jsonl",
+    "size_bytes": 1516,
+    "sha256": "d8d924e5ec6ba860e4de8d03001ae5695c537bdc225d7406ce7f3dac15693321",
+    "extension": ".jsonl",
+    "mime_guess": null,
+    "category": "03_data_and_spreadsheets",
+    "organized_path": "03_data_and_spreadsheets/bot_a_lead_quoting_engine_v3/home/ubuntu/bot_a_lead_quoting_engine/logs/sent_quotes.jsonl"
+  },
+  {
+    "source_archive_slug": "bot_a_lead_quoting_engine_v3",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/logs/test_results.json",
+    "size_bytes": 725,
+    "sha256": "5e9872a69ef200ba2ade56a81c9e97c5cfea90950262dd3b7632b2d9f88f433b",
+    "extension": ".json",
+    "mime_guess": "application/json",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/bot_a_lead_quoting_engine_v3/home/ubuntu/bot_a_lead_quoting_engine/logs/test_results.json"
+  },
+  {
+    "source_archive_slug": "bot_a_lead_quoting_engine_v3",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/main.py",
+    "size_bytes": 11808,
+    "sha256": "6d879bc3ea2efdcacab7da570d7e61d4c5c229e8994e057125a34abba3d330d2",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/bot_a_lead_quoting_engine_v3/home/ubuntu/bot_a_lead_quoting_engine/main.py"
+  },
+  {
+    "source_archive_slug": "bot_a_lead_quoting_engine_v3",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/modules/operator_rate_table.py",
+    "size_bytes": 35228,
+    "sha256": "897ce737eab5a28da05b2aa8e2072147dc1515096a1070daab4ce43d766bccba",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/bot_a_lead_quoting_engine_v3/home/ubuntu/bot_a_lead_quoting_engine/modules/operator_rate_table.py"
+  },
+  {
+    "source_archive_slug": "bot_a_lead_quoting_engine_v3",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/modules/pricing_engine.py",
+    "size_bytes": 37289,
+    "sha256": "ea6c2a6ecf801ae7cb4a123d509b9ad1da62eeef319e66d5e93f4520c7ff77ec",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/bot_a_lead_quoting_engine_v3/home/ubuntu/bot_a_lead_quoting_engine/modules/pricing_engine.py"
+  },
+  {
+    "source_archive_slug": "bot_a_lead_quoting_engine_v3",
+    "relative_path": "home/ubuntu/bot_a_lead_quoting_engine/modules/route_analyzer.py",
+    "size_bytes": 31979,
+    "sha256": "8cba3c46277a0ccebf565f897cdcafdab2e5f3c82d09d3301fec2ed2365dda68",
+    "extension": ".py",
+    "mime_guess": "text/x-python",
+    "category": "01_code_and_config",
+    "organized_path": "01_code_and_config/bot_a_lead_quoting_engine_v3/home/ubuntu/bot_a_lead_quoting_engine/modules/route_analyzer.py"
+  }
+]

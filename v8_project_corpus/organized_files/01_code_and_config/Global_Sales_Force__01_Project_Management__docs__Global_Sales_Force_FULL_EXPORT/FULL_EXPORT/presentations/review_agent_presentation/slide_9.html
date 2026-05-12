@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container { 
+            width: 1280px; 
+            min-height: 720px; 
+            background-color: #0A192F; 
+            font-family: 'Inter', sans-serif;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        
+        /* Header Area */
+        .header {
+            padding-top: 60px;
+            padding-left: 80px;
+            padding-right: 80px;
+            display: flex;
+            align-items: center;
+        }
+        
+        .header-accent {
+            width: 8px;
+            height: 40px;
+            background-color: #00B4D8;
+            margin-right: 20px;
+        }
+        
+        .slide-title {
+            color: #00B4D8;
+            font-size: 32px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        /* Content Area (adjusted to reduce total height) */
+        .content-area {
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            padding-top: 20px; /* reduced from 40px -> saves 20px */
+            padding-left: 80px;
+            padding-right: 80px;
+        }
+
+        .main-heading {
+            color: #FFFFFF;
+            font-size: 42px;
+            font-weight: 800;
+            line-height: 1.2;
+            margin-bottom: 30px; /* reduced from 50px -> saves 20px */
+        }
+
+        /* Comparison Layout */
+        .comparison-container {
+            display: flex;
+            gap: 80px;
+            margin-top: 10px;
+        }
+
+        .column {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .col-competitor {
+            border-top: 4px solid #FF4444;
+            padding-top: 20px; /* reduced from 30px -> saves 10px */
+        }
+
+        .col-us {
+            border-top: 4px solid #00B4D8;
+            padding-top: 20px; /* reduced from 30px -> saves 10px */
+        }
+
+        .col-title {
+            font-size: 32px;
+            font-weight: 800;
+            margin-bottom: 20px; /* reduced from 40px -> saves 20px */
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .title-competitor {
+            color: #FF4444;
+        }
+
+        .title-us {
+            color: #00B4D8;
+        }
+        
+        .point-group {
+            margin-bottom: 20px; /* reduced from 35px -> saves 15px per group */
+        }
+
+        .point-label {
+            font-size: 16px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 10px;
+            color: rgba(255, 255, 255, 0.5);
+        }
+
+        .point-text {
+            font-size: 22px;
+            line-height: 1.5;
+            color: #F8F9FA;
+        }
+
+        .highlight-bad {
+            color: #FF4444;
+            font-weight: 600;
+        }
+
+        .highlight-good {
+            color: #00B4D8;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <div class="header-accent"></div>
+            <div class="slide-title">Competitor Analysis</div>
+        </div>
+        
+        <div class="content-area">
+            <div class="main-heading">
+                International Van Lines is gaming the system. We are building an asset.
+            </div>
+            
+            <div class="comparison-container">
+                <!-- Competitor Column -->
+                <div class="column col-competitor">
+                    <div class="col-title title-competitor">The Competitor</div>
+                    
+                    <div class="point-group">
+                        <div class="point-label">The Reality</div>
+                        <div class="point-text">A <span class="highlight-bad">1.5-star rating</span> across 1,600+ Yelp reviews. Poor actual customer satisfaction.</div>
+                    </div>
+                    
+                    <div class="point-group">
+                        <div class="point-label">The Tactic</div>
+                        <div class="point-text">Paying for artificial manipulation on Forbes and Grok to bury negative real-world feedback.</div>
+                    </div>
+                    
+                    <div class="point-group">
+                        <div class="point-label">The Risk</div>
+                        <div class="point-text">Highly vulnerable to FTC crackdowns ($53k per violation) and AI algorithm updates. It is a fragile house of cards.</div>
+                    </div>
+                </div>
+                
+                <!-- Our Strategy Column -->
+                <div class="column col-us">
+                    <div class="col-title title-us">Our Strategy</div>
+                    
+                    <div class="point-group">
+                        <div class="point-label">The Reality</div>
+                        <div class="point-text">19 distinct brands with 100+ locations ready to capture genuine customer satisfaction at scale.</div>
+                    </div>
+                    
+                    <div class="point-group">
+                        <div class="point-label">The Tactic</div>
+                        <div class="point-text">An automated, <span class="highlight-good">100% FTC-compliant</span> pipeline that turns actual happy customers into public advocates.</div>
+                    </div>
+                    
+                    <div class="point-group">
+                        <div class="point-label">The Advantage</div>
+                        <div class="point-text">Builds permanent, unshakeable entity authority that AI engines trust organically. Zero legal risk.</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
